@@ -1,0 +1,37 @@
+{
+  "id": "flow-and-free",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.flow_and_free",
+  "source_type": "original-layout",
+  "source_note": "A short directed four-step flow sits above an open free-drawing and annotation area.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "5d7b501a0f4bcb2ea617d6e9864aea75dfb34c44d4d2a9d6564848f5eeada655",
+  "titled_pdf_english_name": "Flow with open detail area",
+  "shape_count": 14,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/flow-and-free/exports/a5-draft/blank.svg",
+    "pdf": "templates/flow-and-free/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flow-and-free/exports/a5-draft/titled.pdf",
+    "preview": "templates/flow-and-free/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flow-and-free/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flow-and-free/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flow-and-free/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flow-and-free/examples/zh-TW.svg",
+      "en": "templates/flow-and-free/examples/en.svg",
+      "ja": "templates/flow-and-free/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flow-and-free/README.zh-TW.md",
+      "en": "templates/flow-and-free/README.en.md",
+      "ja": "templates/flow-and-free/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "double-center-mindmap",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.double_center_mindmap",
+  "source_type": "original-layout",
+  "source_note": "Two linked centers each have a separate four-spoke neighborhood.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "1702764570b6552e8d02146bc139613309d5be5c4590b5b31ac3e83765295ff7",
+  "titled_pdf_english_name": "Two-center concept map",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 10,
+  "files": {
+    "svg": "templates/double-center-mindmap/exports/a5-draft/blank.svg",
+    "pdf": "templates/double-center-mindmap/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/double-center-mindmap/exports/a5-draft/titled.pdf",
+    "preview": "templates/double-center-mindmap/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/double-center-mindmap/exports/a5-contrast/blank.svg",
+      "pdf": "templates/double-center-mindmap/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/double-center-mindmap/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/double-center-mindmap/examples/zh-TW.svg",
+      "en": "templates/double-center-mindmap/examples/en.svg",
+      "ja": "templates/double-center-mindmap/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/double-center-mindmap/README.zh-TW.md",
+      "en": "templates/double-center-mindmap/README.en.md",
+      "ja": "templates/double-center-mindmap/README.ja.md"
+    }
+  }
+}

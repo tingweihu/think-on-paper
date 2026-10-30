@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="14.000" y1="97.560" x2="137.000" y2="97.560" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="36.000" cy="97.560" r="2.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="115.000" cy="97.560" r="2.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="36.000" y1="97.560" x2="20.000" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="36.000" y1="97.560" x2="75.500" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="36.000" y1="97.560" x2="131.000" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="36.000" y1="97.560" x2="75.500" y2="28.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="115.000" y1="97.560" x2="20.000" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="115.000" y1="97.560" x2="75.500" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="115.000" y1="97.560" x2="131.000" y2="190.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="115.000" y1="97.560" x2="75.500" y2="28.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<path d="M57.50 125.56 L89.50 125.56 L99.50 136.56 L48.50 136.56 Z M48.50 136.56 V170.56 L99.50 170.56 V136.56 M57.50 125.56 V159.56 M89.50 125.56 V159.56"/>
+</g>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="21.000" y="33.000">机の角</text>
+</g>
+</svg>

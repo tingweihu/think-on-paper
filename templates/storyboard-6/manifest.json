@@ -1,0 +1,37 @@
+{
+  "id": "storyboard-6",
+  "family": "storyboard",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.gate1.storyboard_6",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "Six sequential drawing frames with separate brief caption areas; not copied from a proprietary sheet.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "325d9e881c6163583ba1e6d0c1ab8e5438ff4cfae6d968e873b545c7d52c42ea",
+  "titled_pdf_english_name": "Six-panel storyboard",
+  "shape_count": 12,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/storyboard-6/exports/a5-draft/blank.svg",
+    "pdf": "templates/storyboard-6/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/storyboard-6/exports/a5-draft/titled.pdf",
+    "preview": "templates/storyboard-6/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/storyboard-6/exports/a5-contrast/blank.svg",
+      "pdf": "templates/storyboard-6/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/storyboard-6/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/storyboard-6/examples/zh-TW.svg",
+      "en": "templates/storyboard-6/examples/en.svg",
+      "ja": "templates/storyboard-6/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/storyboard-6/README.zh-TW.md",
+      "en": "templates/storyboard-6/README.en.md",
+      "ja": "templates/storyboard-6/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "blank": {
+    "source_type": "traditional-paper",
+    "source_note": "A deliberately empty writing field; its absence of geometry is the format, not a missing export.",
+    "translations": {
+      "zh-TW": {
+        "title": "全空白頁",
+        "purpose": "讓文字、草圖與位置關係完全由使用者決定。",
+        "when": [
+          "在構想尚未成形時，混合畫圖與短句。",
+          "開會時先快速記下線索，再自行圈連重點。"
+        ],
+        "steps": [
+          "先在紙上選一個起點，不必遵循固定閱讀順序。",
+          "用距離、圈線或箭頭表達你認為有關的內容。",
+          "整理時替重要內容補上短語，再把未解決問題移到下一頁。"
+        ],
+        "unsuitable": "需要固定行距、工整表格或多人一致填寫欄位時，空白頁缺少必要的引導。",
+        "example": "示例是虛構的社區花園構想：把植物、工具與照料時間寫在不同位置，再以連線標出關聯；空白下載仍完全無字。",
+        "labels": [
+          "社區花園：週六",
+          "作物：豆與葉菜",
+          "待查：澆水表"
+        ]
+      },
+      "en": {
+        "title": "Blank page",
+        "purpose": "Leave every mark and spatial relationship to the writer or sketcher.",
+        "when": [
+          "Mix drawings and short phrases before an idea has a clear structure.",
+          "Capture loose clues in a meeting and connect them afterward."
+        ],
+        "steps": [
+          "Choose a starting point without committing to a fixed reading order.",
+          "Use spacing, circles, or arrows to show relationships you notice.",
+          "Add short names to the important marks and move unresolved questions to another page."
+        ],
+        "unsuitable": "The page gives too little guidance for consistent ruled writing, precise tables, or shared forms with fixed fields.",
+        "example": "A fictional community garden idea places plants, tools, and care times in separate areas, then connects them. The blank download itself has no words.",
+        "labels": [
+          "Garden visit: Saturday",
+          "Plants: beans and greens",
+          "Check watering schedule"
+        ]
+      },
+      "ja": {
+        "title": "無地のページ",
+        "purpose": "文字、絵、配置の関係をすべて書き手が決められる形式です。",
+        "when": [
+          "考えの形がまだ決まらず、絵と短い言葉を混ぜたいとき。",
+          "会議で手がかりを素早く記録し、あとで結び直すとき。"
+        ],
+        "steps": [
+          "読む順番を固定せず、書き始める場所を決めます。",
+          "距離、囲み、矢印で関連があると思う内容を示します。",
+          "重要な印に短い名前を付け、未解決の問いは次のページに移します。"
+        ],
+        "unsuitable": "一定の行間、正確な表、複数人で同じ欄を埋める書式には手がかりが足りません。",
+        "example": "架空の地域菜園について、植物、道具、世話の時間を別の位置に書き、関係を結ぶ例です。空白版には文字がありません。",
+        "labels": [
+          "地域菜園：土曜",
+          "作物：豆と葉物",
+          "確認：水やりの予定"
+        ]
+      }
+    }
+  },
+  "ruled-double": {
+    "source_type": "traditional-paper-adaptation",
+    "source_note": "Paired writing guides distinguish a writing band from the space between bands.",
+    "translations": {
+      "zh-TW": {
+        "title": "雙線書寫紙",
+        "purpose": "每組兩條橫線形成一個書寫帶，幫助控制字高與間距。",
+        "when": [
+          "練習字形大小時，觀察上下緣是否一致。",
+          "抄寫短句時，給每行保留清楚的基準帶。"
+        ],
+        "steps": [
+          "選一組雙線作為一行的上下界。",
+          "把一個短句寫在兩線之間，避免跨到下一組。",
+          "寫完幾行後比較高度與留白，再調整下一行。"
+        ],
+        "unsuitable": "長篇快速記錄或需要畫大圖時，成對線條會過度限制自由度。",
+        "example": "示例以虛構植物觀察的三句短語練習等高書寫，逐行比較字高與行間。",
+        "labels": [
+          "葉片向光",
+          "記錄變化",
+          "明日再看"
+        ]
+      },
+      "en": {
+        "title": "Double-ruled writing",
+        "purpose": "Pairs of lines form writing bands for practicing consistent height and spacing.",
+        "when": [
+          "Compare letter height during handwriting practice.",
+          "Copy short sentences while keeping a clear baseline band."
+        ],
+        "steps": [
+          "Treat one pair of lines as the upper and lower edge of a writing band.",
+          "Place one short sentence inside the band without spilling into the next pair.",
+          "After a few lines, compare height and whitespace before adjusting the next line."
+        ],
+        "unsuitable": "The paired guides are restrictive for fast long-form notes or large sketches.",
+        "example": "Three fictional plant-observation phrases are written in separate bands to compare height and spacing.",
+        "labels": [
+          "Leaves face light",
+          "Record changes",
+          "Look again tomorrow"
+        ]
+      },
+      "ja": {
+        "title": "二本線の書字用紙",
+        "purpose": "二本一組の横線を書字帯として使い、字の高さと間隔を見比べます。",
+        "when": [
+          "文字の大きさをそろえる練習をするとき。",
+          "短い文を書き写し、行の基準を明確にしたいとき。"
+        ],
+        "steps": [
+          "二本の線を一行の上端と下端として選びます。",
+          "短い文をその帯の中に収め、次の組にはみ出さないように書きます。",
+          "数行後に字の高さと余白を比べ、次の行を調整します。"
+        ],
+        "unsuitable": "長文を素早く記録したり大きな絵を描いたりするには、二本線が制約になります。",
+        "example": "架空の植物観察を三つの短い文にし、書字帯ごとの高さと間隔を比べる例です。",
+        "labels": [
+          "葉は光に向く",
+          "変化を記録",
+          "明日も観察"
+        ]
+      }
+    }
+  },
+  "ruled-segmented": {
+    "source_type": "original-layout",
+    "source_note": "Three independent short writing lanes repeat by row, not a mere change of rule spacing.",
+    "translations": {
+      "zh-TW": {
+        "title": "三段短句橫線",
+        "purpose": "把每一行拆成三個短寫區，方便並列記錄相關的短項目。",
+        "when": [
+          "觀察同一件事的時間、現象與疑問。",
+          "整理三種來源對同一主題的短摘記。"
+        ],
+        "steps": [
+          "先決定左、中、右三段各代表什麼。",
+          "同一列只放互相關聯的短語，長句另寫在普通橫線頁。",
+          "逐列比較缺少哪一段，回頭補資料。"
+        ],
+        "unsuitable": "每段寬度有限，不適合長篇解釋或需要精確數字欄寬的表格。",
+        "example": "以虛構的植物觀察為例，三段分別記時間、看到的現象和想追問的事。",
+        "labels": [
+          "早晨",
+          "葉面潮濕",
+          "是否下雨？"
+        ]
+      },
+      "en": {
+        "title": "Segmented ruled notes",
+        "purpose": "Split each row into three short writing lanes for related brief entries.",
+        "when": [
+          "Record time, observation, and question about the same event.",
+          "Compare short excerpts from three sources on one topic."
+        ],
+        "steps": [
+          "Decide what the left, middle, and right lanes mean.",
+          "Keep related phrases on one row and move long explanations to a regular ruled page.",
+          "Scan rows for missing lanes and return to the source when needed."
+        ],
+        "unsuitable": "Narrow lanes cannot hold long explanations or serve as a table needing exact numeric columns.",
+        "example": "A fictional plant observation uses the three lanes for time, visible condition, and a follow-up question.",
+        "labels": [
+          "Morning",
+          "Leaves are damp",
+          "Did it rain?"
+        ]
+      },
+      "ja": {
+        "title": "三分割の横罫",
+        "purpose": "各行を三つの短い記入欄に分け、関連する語句を横並びで残します。",
+        "when": [
+          "同じ出来事の時刻、観察、疑問を並べるとき。",
+          "一つの話題について三つの資料の短い抜粋を比べるとき。"
+        ],
+        "steps": [
+          "左・中央・右の欄が何を表すか決めます。",
+          "一行には関連する短い語句だけを書き、長い説明は別の横罫に移します。",
+          "空欄を見直し、必要なら元の資料に戻って補います。"
+        ],
+        "unsuitable": "各欄が狭いため長い説明や正確な数値幅を要する表には向きません。",
+        "example": "架空の植物観察で、三欄に時刻、見えた状態、次の問いを並べています。",
+        "labels": [
+          "朝",
+          "葉が湿っている",
+          "雨が降った？"
+        ]
+      }
+    }
+  },
+  "ruled-margin": {
+    "source_type": "traditional-paper-adaptation",
+    "source_note": "Ruled page with an independent narrow margin for cues or references.",
+    "translations": {
+      "zh-TW": {
+        "title": "側欄橫線筆記",
+        "purpose": "保留一條窄側欄放索引或記號，主要區域仍可連續書寫。",
+        "when": [
+          "閱讀時在側欄記頁碼，右側寫自己的理解。",
+          "會議記錄時在側欄標記需要後續處理的段落。"
+        ],
+        "steps": [
+          "先決定側欄是放來源、頁碼還是待辦記號。",
+          "在主區按行寫完整內容，側欄只放短提示。",
+          "回顧時沿側欄掃描，再讀對應的主區文字。"
+        ],
+        "unsuitable": "若提示需要長句或摘要，窄側欄不夠用；可改用康乃爾筆記。",
+        "example": "示例在側欄記虛構文章的頁次，主區記作者提出的觀察及自己待查的問題。",
+        "labels": [
+          "第 4 頁",
+          "作者比較兩種栽培方式。",
+          "待查：觀察期間有多長？"
+        ]
+      },
+      "en": {
+        "title": "Ruled notes with margin",
+        "purpose": "Keep a narrow cue or reference margin beside a continuous writing area.",
+        "when": [
+          "Put page references in the margin while writing reading responses on the right.",
+          "Mark sections of meeting notes that need follow-up."
+        ],
+        "steps": [
+          "Choose one role for the margin, such as sources, page numbers, or action marks.",
+          "Write full thoughts in the main area and only short cues at the side.",
+          "Review by scanning the margin, then reading the related main text."
+        ],
+        "unsuitable": "If cues need sentences or a substantial summary, the narrow margin is too small; use a Cornell page instead.",
+        "example": "The margin names a page of a fictional article, while the main area records an observation and a question to check.",
+        "labels": [
+          "Page 4",
+          "The author compares two growing methods.",
+          "Check: how long was the observation?"
+        ]
+      },
+      "ja": {
+        "title": "余白付き横罫",
+        "purpose": "狭い側欄に参照や印を置き、主な領域には文章を続けて書けます。",
+        "when": [
+          "読書中、側欄にページを記し、右側に自分の理解を書くとき。",
+          "会議メモで後から対応する箇所に印を付けるとき。"
+        ],
+        "steps": [
+          "側欄を出典、ページ、対応印のどれに使うか決めます。",
+          "主領域に文章を書き、側欄には短い手がかりだけを置きます。",
+          "見直すときは側欄を追い、対応する本文を読みます。"
+        ],
+        "unsuitable": "手がかりに長い文や要約が必要なら側欄が狭すぎます。コーネル式を検討してください。",
+        "example": "架空の記事のページを側欄に、筆者の観察と確認したい問いを主領域に書いています。",
+        "labels": [
+          "4頁",
+          "筆者は二つの栽培法を比べる。",
+          "確認：観察期間は？"
+        ]
+      }
+    }
+  },
+  "ruled-sketch-top": {
+    "source_type": "original-hybrid",
+    "source_note": "Large unruled sketch zone above a separate ruled explanation zone.",
+    "translations": {
+      "zh-TW": {
+        "title": "上圖下文筆記",
+        "purpose": "先在大留白區畫概念，再在下方橫線區說明。",
+        "when": [
+          "記錄物件外觀後，補上材料與尺寸疑問。",
+          "畫出流程草圖後，逐行說明每個階段。"
+        ],
+        "steps": [
+          "先在上方留白畫主要結構，不必填滿。",
+          "用箭頭或圈線標出值得說明的部位。",
+          "在下方逐行寫觀察、假設與尚待確認事項。"
+        ],
+        "unsuitable": "如果全部內容都是長文，空白畫區可能浪費；若圖需要滿頁精度，也應選全空白頁。",
+        "example": "示例上方概略畫虛構雨水收集器，下方記入口、濾網與待測的容量問題。",
+        "labels": [
+          "雨水收集器草圖",
+          "入口與濾網的位置",
+          "待測：容器容量"
+        ]
+      },
+      "en": {
+        "title": "Sketch above, notes below",
+        "purpose": "Draw a concept in the large upper area, then explain it on ruled lines beneath.",
+        "when": [
+          "Observe an object's shape before noting material and dimension questions.",
+          "Sketch a process and then describe its stages line by line."
+        ],
+        "steps": [
+          "Draw the main structure in the open upper area without needing to fill it.",
+          "Circle or point to parts that deserve explanation.",
+          "Use the lower lines for observations, hypotheses, and questions still to check."
+        ],
+        "unsuitable": "The sketch area is wasted for text-only work; a drawing needing page-wide precision belongs on a blank sheet.",
+        "example": "The upper space roughly depicts a fictional rainwater collector, while the lower lines note the inlet, filter, and capacity to test.",
+        "labels": [
+          "Rainwater collector sketch",
+          "Inlet and filter positions",
+          "Test: container capacity"
+        ]
+      },
+      "ja": {
+        "title": "上図下文のノート",
+        "purpose": "上の広い余白に考えを描き、下の横罫に説明を加えます。",
+        "when": [
+          "物の外形を記録してから材料や寸法の疑問を書くとき。",
+          "工程の下描きを作り、各段階を文章で説明するとき。"
+        ],
+        "steps": [
+          "上の余白に主要な構造を描き、無理に埋めません。",
+          "説明したい部分を囲みや矢印で示します。",
+          "下の横罫に観察、仮説、まだ確かめたい点を順に書きます。"
+        ],
+        "unsuitable": "文章だけなら描画欄が余ります。全面を精密に描くなら無地のページが適します。",
+        "example": "上に架空の雨水収集器を大まかに描き、下に入口、フィルター、試したい容量を記しています。",
+        "labels": [
+          "雨水収集器の図",
+          "入口とフィルター",
+          "確認：容器の容量"
+        ]
+      }
+    }
+  }
+}

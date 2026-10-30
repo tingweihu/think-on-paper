@@ -1,0 +1,58 @@
+{
+  "music-staff": {
+    "source_type":"common-geometry","source_note":"Six groups of five parallel lines provide conventional music-staff writing space; no clef or notes are printed.",
+    "translations": {
+      "zh-TW":{"title":"空白五線譜","purpose":"提供六組五線譜，供手寫音高、節奏與短樂句草稿。","when":["記一段自己想出的旋律。","練習把已知音符位置寫到譜線上。"],"steps":["在每組左端自行寫譜號與需要的拍號。","按音高把音符寫在線上或線間，必要時加小節線。","回頭唱或彈一次，核對節奏與位置。"],"unsuitable":"此頁不預印譜號、調號或拍號；初學者需另用可靠教材核對規則。未試印前不保證細線在所有印表機清晰。","example":"示例第一組畫出可編輯向量音符：四分音符、兩個連桿八分音符、二分音符與小節線。未標譜號，所以不指定音名；請依實際譜號核對音高。","labels":["","",""]},
+      "en":{"title":"Blank music staff","purpose":"Six five-line staves provide room for handwritten pitch, rhythm, and short melody drafts.","when":["Jot down a melody you invented.","Practice placing known notes on staff positions."],"steps":["Add your own clef and any needed time signature at the left.","Place notes on lines or spaces and add barlines if useful.","Sing or play the phrase back and check pitch and rhythm."],"unsuitable":"No clef, key, or time signature is printed; beginners need a reliable reference. Fine-line print clarity remains untested.","example":"The first staff shows editable vector notation: a quarter note, two beamed eighth notes, a half note, and a barline. Without a clef, the example does not claim note names.","labels":["","",""]},
+      "ja":{"title":"空白の五線譜","purpose":"六段の五線に、音高、リズム、短い旋律を手書きできます。","when":["思いついた旋律を控えるとき。","既知の音を五線上に置く練習をするとき。"],"steps":["各段の左に音部記号と必要な拍子を書きます。","線と間に音符を置き、必要なら小節線を足します。","歌うか演奏して、音高とリズムを確かめます。"],"unsuitable":"音部記号、調号、拍子は印刷されていません。初学者は信頼できる教材で確認してください。細線の印刷品質は未試験です。","example":"最初の段に編集可能なベクターの四分音符、連桿で結んだ二つの八分音符、二分音符と小節線を示します。音部記号がないため、音名は断定しません。","labels":["","",""]}
+    }
+  },
+  "guitar-tablature": {
+    "source_type":"common-geometry","source_note":"Five groups of six string lines with light bar dividers support fret-number tablature, not five-line pitch notation.",
+    "translations": {
+      "zh-TW":{"title":"六線吉他指板譜","purpose":"用六條弦線記錄按弦位置與簡短樂句的把位草稿。","when":["記下自己練習的短旋律指法。","在練團時快速對照六條弦的按格位置。"],"steps":["先確認自己使用的調弦，並在旁註明，不能假定標準調弦。","在對應弦線寫琴格數，沿左到右讀。","另外註記節奏或聽錄音核對，因格數本身不完整表示時值。"],"unsuitable":"指板譜不自動表達完整節奏、音色或指法；調弦不同會改變音高。","example":"示例第一段用 0、2、3 作虛構按格順序，僅示範數字放置，實際音高需依調弦核對。","labels":["0","2","3"]},
+      "en":{"title":"Six-line guitar tablature","purpose":"Use six string lines to jot fret positions and short playing patterns.","when":["Record finger positions for a melody you practice.","Compare string choices during a rehearsal."],"steps":["Identify and note the instrument's tuning instead of assuming standard tuning.","Write fret numbers on their string lines, reading left to right.","Add rhythm separately or check against audio; fret numbers alone do not fully encode duration."],"unsuitable":"Tablature does not automatically carry full rhythm, tone, or fingering, and alternate tunings change pitches. Fine-line print is untested.","example":"The first system uses editable 0, 2, and 3 as an illustrative fret sequence; actual pitches depend on tuning.","labels":["0","2","3"]},
+      "ja":{"title":"六線のギタータブ譜","purpose":"六本の弦の線にフレット位置と短い演奏案を書きます。","when":["練習中の旋律の押さえる位置を残すとき。","合奏で弦の選び方を比べるとき。"],"steps":["標準調弦と決めつけず、使う調弦を確認して控えます。","対応する弦の線にフレット番号を書き、左から右へ読みます。","番号だけでは音価が足りないため、リズムを別記するか音で照合します。"],"unsuitable":"タブ譜だけで完全なリズムや音色、運指は示せません。調弦が変われば音高も変わります。細線の印刷は未確認です。","example":"最初の段の編集可能な 0、2、3 はフレット番号の置き方の例です。実際の音は調弦で確かめます。","labels":["0","2","3"]}
+    }
+  },
+  "hanzi-tian": {
+    "source_type":"common-geometry","source_note":"Thirty-five equal character squares carry vertical and horizontal center guides; no character is preprinted.",
+    "translations": {
+      "zh-TW":{"title":"田字格練字紙","purpose":"用十字中心線協助觀察單字的左右與上下比例。","when":["練習單個漢字的重心與部件位置。","比較同一字不同寫法的空間分配。"],"steps":["先選一個字，在首格觀察重心。","沿中心線分辨左右、上下部件，再寫入其他格。","回看每格的留白與筆畫位置，找出一項要改進的比例。"],"unsuitable":"中心線只輔助結構，不是字體標準或筆順教學。A5 的單格約 21 mm，長篇書寫不適合。","example":"示例前三格依次寫『永』『永』『永』，用來觀察同一字的中心位置；其餘格保持空白。","labels":["永","永","永"]},
+      "en":{"title":"Tian character practice grid","purpose":"Use a vertical and horizontal center guide to inspect balance within one character square.","when":["Practice the center and component placement of a Chinese character.","Compare spatial balance across repeated attempts."],"steps":["Choose one character and locate its visual center in the first cell.","Use the cross to compare left, right, upper, and lower parts as you repeat it.","Review white space and stroke position, choosing one proportion to improve."],"unsuitable":"The cross is a spatial guide, not a typeface standard or stroke-order lesson. Each A5 cell is about 21 mm and is not for long prose.","example":"The first three cells show the editable character 永 repeated for balance comparison; the other cells stay blank.","labels":["永","永","永"]},
+      "ja":{"title":"田字格の漢字練習紙","purpose":"縦横の中心線で、一字の左右と上下のバランスを見ます。","when":["漢字一字の重心や部品の位置を練習するとき。","同じ字を繰り返し、余白の違いを比べるとき。"],"steps":["一字を選び、最初の枠で中心を意識します。","十字を基準に左右・上下の部分を見ながら書きます。","各枠の余白と線の位置を見直し、一つ改善点を選びます。"],"unsuitable":"十字は空間の補助で、字体の規範や筆順の教材ではありません。A5の一枠は約21 mmで長文には向きません。","example":"最初の三枠に編集可能な『永』を繰り返し、中心の位置を比較します。残りは空白です。","labels":["永","永","永"]}
+    }
+  },
+  "hanzi-mi": {
+    "source_type":"common-geometry","source_note":"Character squares add diagonal guides to the central cross, producing mi-shaped interior geometry.",
+    "translations": {
+      "zh-TW":{"title":"米字格練字紙","purpose":"用十字與對角線輔助觀察筆畫傾斜與字形重心。","when":["練習含撇捺的字，檢查斜向伸展。","比較同一字的四角留白是否均衡。"],"steps":["先在首格找十字中心。","參照斜線寫撇捺，避免把斜線當成必須貼齊的筆畫。","在後續格重寫，檢查重心與四角空間。"],"unsuitable":"對角線不是每一筆的固定角度；密集輔助線可能干擾某些書寫者，必要時改用田字格。","example":"示例前三格寫『大』『大』『大』，觀察撇捺向兩側延伸時的平衡。","labels":["大","大","大"]},
+      "en":{"title":"Mi character practice grid","purpose":"Use a center cross and diagonals to inspect slanted strokes and visual balance.","when":["Practice characters with left and right sweeping strokes.","Compare white space in the four corners of repeated characters."],"steps":["Find the center cross in the first square.","Use diagonals as visual references, not mandatory stroke tracks.","Repeat the character and compare its center and corner space."],"unsuitable":"Diagonals are not fixed stroke angles; dense guides may distract some writers, who can choose the simpler Tian grid.","example":"The first three cells repeat editable 大 to compare how its left and right strokes spread.","labels":["大","大","大"]},
+      "ja":{"title":"米字格の漢字練習紙","purpose":"十字と対角線で、斜めの画と字形の重心を見ます。","when":["左右へ払う画のある字を練習するとき。","同じ字の四隅の余白を比べるとき。"],"steps":["最初の枠で十字の中心を見つけます。","斜線を目安にし、画を必ず重ねる線とは考えません。","字を繰り返し、重心と四隅の余白を比べます。"],"unsuitable":"対角線は画の固定角度ではありません。補助線が多すぎると感じる場合は田字格を選びます。","example":"最初の三枠に編集可能な『大』を繰り返し、左右の払い方を比べます。","labels":["大","大","大"]}
+    }
+  },
+  "hanzi-nine": {
+    "source_type":"common-geometry","source_note":"Each character square is subdivided into a three-by-three guide, distinct from cross or diagonal guides.",
+    "translations": {
+      "zh-TW":{"title":"九分格練字紙","purpose":"把單字空間分成九區，觀察部件位置與字形比例。","when":["分析複雜字的上中下部件。","練習讓同一字在方格內保持穩定重心。"],"steps":["把九格當定位參照，先看字的主要部件落在哪些區。","在第一格寫字，後續格逐次調整部件距離。","從整體看重心，不要讓每個筆畫都僵硬地塞進小格。"],"unsuitable":"內部小格約 7 mm，只是參照，不能每格寫一個字；未試印時細線清晰度未知。","example":"示例首三個大格重複『語』，觀察言字旁與右側部件的位置；不是把九個小格各填一字。","labels":["語","語","語"]},
+      "en":{"title":"Nine-section character grid","purpose":"Divide each character square into nine guide regions to inspect component placement.","when":["Study upper, middle, and lower parts of a complex character.","Practice keeping the same character balanced across attempts."],"steps":["Treat the nine sections as position references for major components.","Write one character per large cell and adjust spacing over later cells.","Judge the whole shape rather than forcing every stroke into one mini-cell."],"unsuitable":"Each interior section is about 7 mm and is not a separate writing cell. Fine-line print clarity remains untested.","example":"The first three large cells repeat editable 語 to compare left and right components; the nine subcells are guides only.","labels":["語","語","語"]},
+      "ja":{"title":"九分割の漢字練習紙","purpose":"一字の枠を九つの目安に分け、部品の位置と比率を見ます。","when":["複雑な字の上中下の部品を分析するとき。","同じ字の重心を繰り返し確かめるとき。"],"steps":["九分割を主要な部品の位置の目安として見ます。","大きな枠に一字を書き、次の枠で間隔を調整します。","各画を小枠に押し込まず、字全体の形を見直します。"],"unsuitable":"内部の一区画は約7 mmで、一字を書く枠ではありません。細線の印刷品質は未確認です。","example":"最初の大枠三つに編集可能な『語』を繰り返し、左右の部品の位置を比べます。","labels":["語","語","語"]}
+    }
+  },
+  "seyes-ruled": {
+    "source_type":"common-geometry","source_note":"Eight-millimetre major baselines with two-millimetre minor guides and a left margin form a Seyès-style ruling draft.",
+    "translations": {
+      "zh-TW":{"title":"法式四線格草稿","purpose":"用較密的輔助橫線練習字母高度與基線位置。","when":["練習拉丁字母大小寫的高度差。","在同一頁比較幾種手寫字形。"],"steps":["以較深的每第四條線作主要基線。","參照中間淺線控制小寫字母的高度，不必每筆都貼線。","左側留白可記練習項目，寫完比較字高是否穩定。"],"unsuitable":"這是暫定 Seyès 風格格線，不宣稱符合法國學校或任何正式規範；2 mm 細線尚未試印。","example":"示例在第一組輔助線寫可編輯的 a、b、g，對照字母的升部和降部。","labels":["a","b","g"]},
+      "en":{"title":"Seyès-style ruled draft","purpose":"Use closely spaced guides to practice letter height and baseline placement.","when":["Practice differences in Latin lowercase and uppercase height.","Compare several handwriting shapes on one sheet."],"steps":["Treat every fourth, darker line as a main baseline.","Use pale lines to guide lowercase height without tracing them mechanically.","Note the exercise in the left margin and compare height consistency afterward."],"unsuitable":"This is a provisional Seyès-style draft, not certified to a school standard. Two-millimetre guide print quality is untested.","example":"Editable a, b, and g on the first guide group illustrate ascender and descender positions.","labels":["a","b","g"]},
+      "ja":{"title":"フランス式補助罫の草案","purpose":"細かい補助線でラテン文字の高さと基線を練習します。","when":["小文字と大文字の高さの違いを見るとき。","同じ紙で複数の手書き字形を比べるとき。"],"steps":["四本ごとの濃い線を主な基線として見ます。","薄い線を小文字の高さの目安にし、機械的になぞりません。","左の余白に課題を記し、書いた後で字高を比べます。"],"unsuitable":"暫定のSeyès風罫線であり、学校の正式規格への適合は主張しません。2 mm線の印刷は未試験です。","example":"最初の線群に編集可能な a、b、g を置き、上に伸びる部分と下がる部分を見ます。","labels":["a","b","g"]}
+    }
+  },
+  "perspective-guides": {
+    "source_type":"common-geometry","source_note":"A horizon and two vanishing points with converging construction rays support rough two-point perspective.",
+    "translations": {
+      "zh-TW":{"title":"兩點透視輔助線","purpose":"用地平線與左右消失點構思物件的兩點透視草圖。","when":["畫虛構展場的角落與桌面。","練習讓方盒的水平邊朝兩個方向收斂。"],"steps":["先確認地平線和左右兩個消失點的位置。","以淡線選擇一個盒體邊緣，讓相關水平邊朝消失點延伸。","補上垂直邊，擦除不需要的輔助線並檢查視角。"],"unsuitable":"預印的輔助線只示範一種視角，不是攝影測量或精確建築透視。","example":"示例在淡輔助線間以原創向量線條畫出虛構展桌的桌面、兩側與立面；只示意透視方向，不表示實際尺寸。","labels":["桌角"]},
+      "en":{"title":"Two-point perspective guides","purpose":"Use a horizon and two vanishing points to draft rough two-point perspective.","when":["Sketch a fictional exhibition corner or table.","Practice making box edges converge in two directions."],"steps":["Locate the horizon and both vanishing points.","Choose a box edge and extend horizontal directions toward the appropriate points.","Add vertical edges, erase unused guides, and check the view."],"unsuitable":"Printed guides show one provisional view, not photogrammetry or a measured architectural perspective.","example":"Original editable vector lines show a fictional display table's top, sides, and front among the pale rays; they indicate direction, not measured size.","labels":["Table corner"]},
+      "ja":{"title":"二点透視の補助線","purpose":"地平線と左右の消失点で、二点透視の大まかな草図を描きます。","when":["架空の展示室の角や机を描くとき。","箱の辺を二方向へ収束させる練習をするとき。"],"steps":["地平線と左右の消失点を確認します。","箱の一辺を決め、水平の方向を対応する点へ延ばします。","垂直辺を加え、不要な補助線を消して視点を確認します。"],"unsuitable":"印刷された線は一つの仮の視点で、写真測量や正確な建築透視図ではありません。","example":"淡い補助線の間に、架空の展示台の天板、側面、前面を編集可能な独自の線画で示します。実測寸法ではありません。","labels":["机の角"]}
+    }
+  }
+}

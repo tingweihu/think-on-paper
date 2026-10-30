@@ -1,0 +1,46 @@
+name: Verify clean checkout
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.3'
+      - name: Install pinned Python dependencies and system renderer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends poppler-utils
+          pdftoppm -v 2>&1 | tee renderer-version.txt
+          grep -Fq 'version 24.02.0' renderer-version.txt
+          rm renderer-version.txt
+          python -m pip install -r requirements.txt
+      - name: Verify shipped checkout without local reports
+        run: |
+          python -B scripts/release_check.py
+          python -B scripts/audit_docs.py
+          python -B scripts/audit_sources.py
+      - name: Build, check and run regression tests
+        run: |
+          python -B scripts/build.py
+          python -B scripts/generate_docs.py
+          python -B scripts/qa.py
+          python -B -m unittest discover -s tests
+          python -B scripts/audit_layouts.py
+          python -B scripts/audit_examples.py
+          python -B scripts/release_check.py
+          git diff --exit-code -- . ':(glob,exclude)**/*.png'
+          untracked="$(git ls-files --others --exclude-standard)"
+          if [ -n "$untracked" ]; then
+            printf '%s\n' "$untracked"
+            exit 1
+          fi
+          git status --porcelain --untracked-files=all

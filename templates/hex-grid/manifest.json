@@ -1,0 +1,37 @@
+{
+  "id": "hex-grid",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.geometry_paper.hex_grid",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "Contiguous hexagonal cells are drawn from a reusable lattice; shared edges are rendered once.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "74e8dc0ebb1b303a4819ed6d97c34a9b89d376df3b1c8c98755c6d8f139260e5",
+  "titled_pdf_english_name": "Hexagonal grid",
+  "shape_count": 659,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/hex-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/hex-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hex-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/hex-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hex-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hex-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hex-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hex-grid/examples/zh-TW.svg",
+      "en": "templates/hex-grid/examples/en.svg",
+      "ja": "templates/hex-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hex-grid/README.zh-TW.md",
+      "en": "templates/hex-grid/README.en.md",
+      "ja": "templates/hex-grid/README.ja.md"
+    }
+  }
+}

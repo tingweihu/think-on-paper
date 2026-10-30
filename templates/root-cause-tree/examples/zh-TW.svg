@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="17.000" y="21.000" width="24.000" height="27.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="48.000" y="21.000" width="24.000" height="27.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="79.000" y="21.000" width="24.000" height="27.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="110.000" y="21.000" width="24.000" height="27.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="27.000" y="91.000" width="34.000" height="28.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="29.000" y1="50.000" x2="44.000" y2="89.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44.000" y1="89.000" x2="41.157" y2="86.344" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44.000" y1="89.000" x2="44.330" y2="85.123" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="60.000" y1="50.000" x2="44.000" y2="89.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44.000" y1="89.000" x2="43.756" y2="85.117" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44.000" y1="89.000" x2="46.901" y2="86.407" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="90.000" y="91.000" width="34.000" height="28.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="50.000" x2="107.000" y2="89.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.000" y1="89.000" x2="104.099" y2="86.407" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.000" y1="89.000" x2="107.244" y2="85.117" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="122.000" y1="50.000" x2="107.000" y2="89.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.000" y1="89.000" x2="106.670" y2="85.123" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.000" y1="89.000" x2="109.843" y2="86.344" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="48.500" y="155.000" width="54.000" height="35.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44.000" y1="121.000" x2="75.500" y2="153.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="153.000" x2="71.833" y2="151.698" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="153.000" x2="74.256" y2="149.313" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.000" y1="121.000" x2="75.500" y2="153.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="153.000" x2="76.744" y2="149.313" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="153.000" x2="79.167" y2="151.698" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="19.000" y="37.000">通知晚</text>
+<text x="50.000" y="37.000">資訊少</text>
+<text x="81.000" y="37.000">時段衝突</text>
+<text x="112.000" y="37.000">交通遠</text>
+<text x="30.000" y="108.000">周知</text>
+<text x="93.000" y="108.000">參與門檻</text>
+<text x="52.500" y="175.000">報名偏少</text>
+</g>
+</svg>

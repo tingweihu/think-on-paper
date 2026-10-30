@@ -1,0 +1,26 @@
+{
+  "many-to-one-funnel": {
+    "source_type":"original-layout","source_note":"Six idea nodes feed two grouping areas and one synthesis region in three stages.",
+    "translations": {
+      "zh-TW":{"title":"多想法收斂漏斗","purpose":"先列六個想法，再分兩群，最後寫出一個可試的整合方向。","when":["討論社區活動時從多個點子收斂成一個試辦方案。","從閱讀便條中找出兩類共同線索。"],"steps":["頂部六圈快速寫不同想法，不先評分。","中間兩框將相近想法歸群，保留原來的差異。","底部寫一個可小規模測試的綜合提案，記下仍待確認的事。"],"unsuitable":"漏斗形狀不表示最終提案必然最好；少數點子可能值得獨立保留。","example":"虛構讀書會的六個活動點子先分成線上互動與現場交流兩群，底部提出一次混合試辦。","labels":["短講","問答","共讀","卡片","直播","錄影","線上","現場","混合試辦"]},
+      "en":{"title":"Many-to-one idea funnel","purpose":"Collect six ideas, group them twice, and state one small synthesis to try.","when":["Narrow community-event ideas into a pilot proposal.","Find two recurring themes across reading notes."],"steps":["Write distinct ideas in the six upper nodes without ranking them yet.","Group related ideas in the two middle areas while preserving differences.","State one testable synthesis below and note what remains unknown."],"unsuitable":"The funnel does not prove the final proposal is best; an outlying idea may deserve its own trial.","example":"Six fictional reading-group ideas form online and in-person clusters, then a small hybrid trial is proposed below.","labels":["Talk","Q&A","Read","Cards","Stream","Replay","Online","In person","Hybrid trial"]},
+      "ja":{"title":"複数案をまとめる漏斗","purpose":"六つの案を二群にまとめ、最後に小さく試せる統合案を書きます。","when":["地域催事の案を試行案へ絞るとき。","読書メモから二つの共通傾向を見つけるとき。"],"steps":["上の六円に異なる案を、先に評価せず書きます。","中段の二枠に近い案をまとめ、違いも残します。","下に試せる統合案と未確認事項を書きます。"],"unsuitable":"漏斗の形は最終案が最良だという証明ではありません。独立して試す価値のある案も残します。","example":"架空の読書会案をオンライン交流と対面交流にまとめ、最後に小さな併用案を置きます。","labels":["短い話","質疑","共読","カード","配信","録画","オンライン","対面","併用試行"]}
+    }
+  },
+  "three-sketch-proposals": {
+    "source_type":"original-layout","source_note":"Three vertical proposal rows pair a broad blank sketch with a narrow ruled evaluation area.",
+    "translations": {
+      "zh-TW":{"title":"三案草圖與評估","purpose":"同一頁畫三個方向，並在各圖旁記優點、疑問與下一步。","when":["比較三種海報構圖。","準備小型展場時畫三種入口動線。"],"steps":["左側三框各畫一個不同方案，別只改顏色。","右側對每案寫一項可行點與一項待確認處。","回看三案後圈出要進一步測試的一案，保留另外兩案。"],"unsuitable":"草圖無法代替尺寸圖或使用者測試；右欄也不適合長篇論證。","example":"虛構展場畫直線、環形、分岔三種參觀動線，旁邊分別記入口可見性與擁擠疑慮。","labels":["直線動線","入口清楚","環形動線","回到起點","分岔動線","易分流"]},
+      "en":{"title":"Three sketch proposals","purpose":"Draw three distinct approaches and keep a short evaluation beside each.","when":["Compare three poster compositions.","Sketch three entry routes for a small exhibition."],"steps":["Draw a meaningfully different option in each broad left frame.","Use the right strip for one advantage and one question per option.","Circle an option to test while retaining the alternatives."],"unsuitable":"A sketch is not a measured plan or user test, and the narrow strip cannot hold a full argument.","example":"A fictional exhibition considers straight, loop, and branched visitor paths, noting visibility and congestion beside each.","labels":["Straight","Clear entry","Loop","Returns","Branch","Less crowd"]},
+      "ja":{"title":"三案のスケッチと評価","purpose":"三つの異なる案を描き、各案の横に短い検討メモを書きます。","when":["ポスターの構成を三案比べるとき。","小さな展示の入口動線を三通り考えるとき。"],"steps":["左の三枠に色違いだけでない別案を描きます。","右の欄に各案の良い点と確認事項を書きます。","次に試す案を選び、残りの案も消さずに残します。"],"unsuitable":"草図は寸法図や利用者テストの代わりになりません。狭い欄は長い論証にも向きません。","example":"架空の展示で直線、回遊、分岐の三動線を描き、入口の見やすさや混雑を横に記します。","labels":["直線","入口が明確","回遊","戻りやすい","分岐","混雑を分散"]}
+    }
+  },
+  "abstraction-ladder": {
+    "source_type":"common-geometry","source_note":"Two rails and five rungs support moving repeatedly between concrete examples and abstract principles.",
+    "translations": {
+      "zh-TW":{"title":"抽象階梯","purpose":"在具體事例與抽象原則之間逐階往返，找出過度跳躍的推論。","when":["從一場活動的具體問題推回一般設計原則。","把一句抽象目標拆成可觀察行動。"],"steps":["先在最下階寫可觀察的具體事例。","每上一階寫更一般的說法，檢查它是否真涵蓋下階。","再往下讀一次，確認抽象原則能指回可做的事。"],"unsuitable":"五階只是書寫空間，不表示推理必然五步；概括過度時須補更多事例。","example":"虛構讀書會從『椅子不夠』上推到『空間容量』再到『參與門檻』，回頭提出預約座位的做法。","labels":["參與門檻","容納條件","空間容量","座位安排","椅子不夠"]},
+      "en":{"title":"Abstraction ladder","purpose":"Move between concrete cases and general principles one rung at a time to catch jumps in reasoning.","when":["Infer a design principle from an event problem.","Turn an abstract aim into observable action."],"steps":["Start with an observable case on the lowest rung.","Generalize one level at a time, checking each rung against the one below.","Read downward again to see whether the principle points to a practical action."],"unsuitable":"Five rungs are space, not a required number of reasoning steps; broad claims need more cases.","example":"A fictional reading group moves from too few chairs to seating capacity and participation barriers, then considers seat reservations.","labels":["Access barrier","Capacity","Room size","Seat plan","Too few chairs"]},
+      "ja":{"title":"抽象化のはしご","purpose":"具体例と一般原則の間を一段ずつ行き来し、飛躍を見つけます。","when":["催しの問題から設計原則を考えるとき。","抽象的な目標を観察できる行動に直すとき。"],"steps":["最下段に観察できる具体例を書きます。","一段ずつ一般化し、下段を本当に含むか確かめます。","上から再び下へ読み、原則が行動につながるか見ます。"],"unsuitable":"五段は必須の推論段数ではありません。一般化しすぎるときは事例を増やします。","example":"架空の読書会で『椅子が不足』から席数、参加の障壁へ進み、席の予約案へ戻ります。","labels":["参加の障壁","収容条件","席数","席の配置","椅子不足"]}
+    }
+  }
+}

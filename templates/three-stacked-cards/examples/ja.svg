@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="76.000" width="123.000" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="140.000" width="123.000" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">入場：案内を明確に</text>
+<text x="17.000" y="92.000">活動中：本を探す</text>
+<text x="17.000" y="156.000">終了後：感想を確認</text>
+</g>
+</svg>

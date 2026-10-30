@@ -1,0 +1,39 @@
+{
+  "id": "causal-chain",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_causal_chain",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of flow-four-horizontal. A linear cause chain uses the same directed sequence geometry; causal interpretation belongs in the guide.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "cf128f14829c8959974058369c6d7b5dc7a9aa0e484e836869508015cde161fd",
+  "titled_pdf_english_name": "Causal hypothesis chain",
+  "shape_count": 25,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/causal-chain/exports/a5-draft/blank.svg",
+    "pdf": "templates/causal-chain/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/causal-chain/exports/a5-draft/titled.pdf",
+    "preview": "templates/causal-chain/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/causal-chain/exports/a5-contrast/blank.svg",
+      "pdf": "templates/causal-chain/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/causal-chain/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/causal-chain/examples/zh-TW.svg",
+      "en": "templates/causal-chain/examples/en.svg",
+      "ja": "templates/causal-chain/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/causal-chain/README.zh-TW.md",
+      "en": "templates/causal-chain/README.en.md",
+      "ja": "templates/causal-chain/README.ja.md"
+    }
+  },
+  "variant_of": "flow-four-horizontal",
+  "variant_classification": "equivalent"
+}

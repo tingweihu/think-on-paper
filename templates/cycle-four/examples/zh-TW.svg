@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="75.500" cy="62.000" r="14.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="118.500" cy="105.000" r="14.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="148.000" r="14.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="32.500" cy="105.000" r="14.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="86.814" y1="73.314" x2="107.186" y2="93.686" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.186" y1="93.686" x2="103.509" y2="92.413" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.186" y1="93.686" x2="105.913" y2="90.009" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="107.186" y1="116.314" x2="86.814" y2="136.686" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="86.814" y1="136.686" x2="88.087" y2="133.009" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="86.814" y1="136.686" x2="90.491" y2="135.413" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="64.186" y1="136.686" x2="43.814" y2="116.314" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="43.814" y1="116.314" x2="47.491" y2="117.587" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="43.814" y1="116.314" x2="45.087" y2="119.991" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="43.814" y1="93.686" x2="64.186" y2="73.314" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="64.186" y1="73.314" x2="62.913" y2="76.991" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="64.186" y1="73.314" x2="60.509" y2="74.587" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="66.500" y="64.000">觀察</text>
+<text x="109.500" y="107.000">提案</text>
+<text x="66.500" y="150.000">試辦</text>
+<text x="23.500" y="107.000">回顧</text>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+{
+  "id": "constellation-network",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.constellation_network",
+  "source_type": "original-layout",
+  "source_note": "An irregular graph with eight small nodes and cross-links has no privileged center.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "fcbf2c404c088b9a95ac611d13645f563a4e8c5f8839e21c569b474a7899ab64",
+  "titled_pdf_english_name": "Constellation relationship map",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 8,
+  "files": {
+    "svg": "templates/constellation-network/exports/a5-draft/blank.svg",
+    "pdf": "templates/constellation-network/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/constellation-network/exports/a5-draft/titled.pdf",
+    "preview": "templates/constellation-network/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/constellation-network/exports/a5-contrast/blank.svg",
+      "pdf": "templates/constellation-network/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/constellation-network/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/constellation-network/examples/zh-TW.svg",
+      "en": "templates/constellation-network/examples/en.svg",
+      "ja": "templates/constellation-network/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/constellation-network/README.zh-TW.md",
+      "en": "templates/constellation-network/README.en.md",
+      "ja": "templates/constellation-network/README.ja.md"
+    }
+  }
+}

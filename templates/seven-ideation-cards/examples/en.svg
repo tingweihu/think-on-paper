@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="12.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="60.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="60.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="108.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="108.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="46.250" y="156.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(34.25 32.00) scale(0.18000)"><rect x="23" y="12" width="54" height="75"/><path d="M31 33 H69 M31 46 H62 M31 59 H66"/></g>
+<g transform="translate(98.75 32.00) scale(0.18000)"><circle cx="48" cy="49" r="18"/><path d="M66 29 Q86 49 66 69 M72 20 Q96 49 72 78"/></g>
+<g transform="translate(34.25 80.00) scale(0.18000)"><path d="M14 76 L39 53 L60 61 L85 24 M14 76 L36 77 M85 24 L69 25"/><circle cx="39" cy="53" r="4"/></g>
+<g transform="translate(98.75 80.00) scale(0.18000)"><rect x="18" y="50" width="64" height="23"/><path d="M23 50 V28 H76 V50 M26 73 V86 M74 73 V86"/></g>
+<g transform="translate(34.25 128.00) scale(0.18000)"><path d="M18 78 Q37 19 57 54 Q68 69 83 22"/><circle cx="18" cy="78" r="5"/><circle cx="83" cy="22" r="5"/></g>
+<g transform="translate(98.75 128.00) scale(0.18000)"><path d="M13 26 H61 V62 H39 L28 75 V62 H13 Z M46 40 H87 V75 H70 L61 87 V75"/></g>
+<g transform="translate(66.50 176.00) scale(0.18000)"><rect x="17" y="22" width="30" height="53"/><rect x="53" y="22" width="30" height="53"/><path d="M22 33 H41 M58 33 H78 M22 46 H41 M58 46 H78"/></g>
+</g>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">Poster</text>
+<text x="81.500" y="28.000">Audio</text>
+<text x="17.000" y="76.000">Tour</text>
+<text x="81.500" y="76.000">Book desk</text>
+<text x="17.000" y="124.000">Route</text>
+<text x="81.500" y="124.000">Q&amp;A</text>
+<text x="49.250" y="172.000">Reading</text>
+</g>
+</svg>

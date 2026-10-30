@@ -1,0 +1,39 @@
+{
+  "id": "flower-six",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_flower_six",
+  "source_type": "original-layout",
+  "source_note": "parameter of flower-eight. The petal count changes, but the center-and-single-ring bubble topology is unchanged.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "c8b58b958a438f98a80319b6da6eba29e2836589f68d6efd4419a7bbecfe3ec6",
+  "titled_pdf_english_name": "Six-petal idea flower",
+  "shape_count": 7,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/flower-six/exports/a5-draft/blank.svg",
+    "pdf": "templates/flower-six/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flower-six/exports/a5-draft/titled.pdf",
+    "preview": "templates/flower-six/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flower-six/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flower-six/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flower-six/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flower-six/examples/zh-TW.svg",
+      "en": "templates/flower-six/examples/en.svg",
+      "ja": "templates/flower-six/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flower-six/README.zh-TW.md",
+      "en": "templates/flower-six/README.en.md",
+      "ja": "templates/flower-six/README.ja.md"
+    }
+  },
+  "variant_of": "flower-eight",
+  "variant_classification": "parameter"
+}

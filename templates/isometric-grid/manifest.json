@@ -1,0 +1,39 @@
+{
+  "id": "isometric-grid",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_isometric_grid",
+  "source_type": "traditional-paper",
+  "source_note": "equivalent of triangular-grid. Both use the same three-axis equilateral lattice; the intended use differs, not the geometry.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e862633b792541e50c904a0484aa41fb7564fc3bdc7c8b1e918f6bf8d0c1da5c",
+  "titled_pdf_english_name": "Isometric triangular grid",
+  "shape_count": 70,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/isometric-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/isometric-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/isometric-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/isometric-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/isometric-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/isometric-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/isometric-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/isometric-grid/examples/zh-TW.svg",
+      "en": "templates/isometric-grid/examples/en.svg",
+      "ja": "templates/isometric-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/isometric-grid/README.zh-TW.md",
+      "en": "templates/isometric-grid/README.en.md",
+      "ja": "templates/isometric-grid/README.ja.md"
+    }
+  },
+  "variant_of": "triangular-grid",
+  "variant_classification": "equivalent"
+}

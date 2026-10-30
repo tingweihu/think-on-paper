@@ -1,0 +1,37 @@
+{
+  "id": "flow-four-horizontal",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.flow.flow_four_horizontal",
+  "source_type": "generic-geometry",
+  "source_note": "Four equal left-to-right steps with arrow connectors; count and direction are parameters.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "cf128f14829c8959974058369c6d7b5dc7a9aa0e484e836869508015cde161fd",
+  "titled_pdf_english_name": "Four-step horizontal flow",
+  "shape_count": 25,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/flow-four-horizontal/exports/a5-draft/blank.svg",
+    "pdf": "templates/flow-four-horizontal/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flow-four-horizontal/exports/a5-draft/titled.pdf",
+    "preview": "templates/flow-four-horizontal/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flow-four-horizontal/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flow-four-horizontal/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flow-four-horizontal/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flow-four-horizontal/examples/zh-TW.svg",
+      "en": "templates/flow-four-horizontal/examples/en.svg",
+      "ja": "templates/flow-four-horizontal/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flow-four-horizontal/README.zh-TW.md",
+      "en": "templates/flow-four-horizontal/README.en.md",
+      "ja": "templates/flow-four-horizontal/README.ja.md"
+    }
+  }
+}

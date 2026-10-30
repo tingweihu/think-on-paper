@@ -1,0 +1,39 @@
+{
+  "id": "pyramid-five",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_pyramid_five",
+  "source_type": "common-geometry",
+  "source_note": "parameter of pyramid-three. Extra horizontal tiers change count, not the triangular layered topology.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "b6c2f04e48285ff0a3de0a99f73d46483a1beecca7adf12483a915b60ae2c5cd",
+  "titled_pdf_english_name": "Five-tier pyramid",
+  "shape_count": 5,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/pyramid-five/exports/a5-draft/blank.svg",
+    "pdf": "templates/pyramid-five/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/pyramid-five/exports/a5-draft/titled.pdf",
+    "preview": "templates/pyramid-five/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/pyramid-five/exports/a5-contrast/blank.svg",
+      "pdf": "templates/pyramid-five/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/pyramid-five/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/pyramid-five/examples/zh-TW.svg",
+      "en": "templates/pyramid-five/examples/en.svg",
+      "ja": "templates/pyramid-five/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/pyramid-five/README.zh-TW.md",
+      "en": "templates/pyramid-five/README.en.md",
+      "ja": "templates/pyramid-five/README.ja.md"
+    }
+  },
+  "variant_of": "pyramid-three",
+  "variant_classification": "parameter"
+}

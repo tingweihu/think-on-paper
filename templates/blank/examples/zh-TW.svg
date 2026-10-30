@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<line x1="38.00" y1="123.00" x2="38.00" y2="155.00"/>
+<line x1="38.00" y1="132.00" x2="22.00" y2="123.00"/>
+<line x1="38.00" y1="139.00" x2="53.00" y2="128.00"/>
+<rect x="29.00" y="155.00" width="18.00" height="15.00"/>
+</g>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="18.000" y="36.000">社區花園：週六</text>
+<text x="18.000" y="57.000">作物：豆與葉菜</text>
+<text x="18.000" y="78.000">待查：澆水表</text>
+</g>
+</svg>

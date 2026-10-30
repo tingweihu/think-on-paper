@@ -1,0 +1,37 @@
+{
+  "id": "ruled-standard",
+  "family": "foundation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.gate1.ruled_standard",
+  "source_type": "traditional-paper",
+  "source_note": "Original geometry for a conventional ruled writing sheet; no exclusive method claim.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "8a19a4e1d5838ab42532df9efe09f5144d49e866c7530cfaaa33db27fbfcd435",
+  "titled_pdf_english_name": "Ruled notes",
+  "shape_count": 24,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/ruled-standard/exports/a5-draft/blank.svg",
+    "pdf": "templates/ruled-standard/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/ruled-standard/exports/a5-draft/titled.pdf",
+    "preview": "templates/ruled-standard/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/ruled-standard/exports/a5-contrast/blank.svg",
+      "pdf": "templates/ruled-standard/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/ruled-standard/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/ruled-standard/examples/zh-TW.svg",
+      "en": "templates/ruled-standard/examples/en.svg",
+      "ja": "templates/ruled-standard/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/ruled-standard/README.zh-TW.md",
+      "en": "templates/ruled-standard/README.en.md",
+      "ja": "templates/ruled-standard/README.ja.md"
+    }
+  }
+}

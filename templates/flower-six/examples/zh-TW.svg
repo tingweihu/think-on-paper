@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="75.500" cy="105.000" r="16.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="70.000" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105.811" cy="87.500" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="105.811" cy="122.500" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="140.000" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.189" cy="122.500" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="45.189" cy="87.500" r="16.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="65.500" y="107.000">社區花園</text>
+<text x="65.500" y="72.000">種植</text>
+<text x="95.811" y="89.500">休息</text>
+<text x="95.811" y="124.500">學習</text>
+<text x="65.500" y="142.000">分享</text>
+<text x="35.189" y="124.500">維護</text>
+<text x="35.189" y="89.500">工具</text>
+</g>
+</svg>

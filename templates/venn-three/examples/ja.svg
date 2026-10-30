@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="55.500" cy="90.000" r="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="95.500" cy="90.000" r="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="124.000" r="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="40.500" y="86.000">講師</text>
+<text x="97.500" y="86.000">道具</text>
+<text x="67.500" y="140.000">経路</text>
+<text x="68.500" y="87.000">座席</text>
+<text x="56.500" y="118.000">質問</text>
+<text x="80.500" y="118.000">体験</text>
+<text x="65.500" y="106.000">申込</text>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+{
+  "id": "hanzi-mi",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.special_paper.hanzi_mi",
+  "source_type": "common-geometry",
+  "source_note": "Character squares add diagonal guides to the central cross, producing mi-shaped interior geometry.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "99ea74bd6fd25b0692a9f63e99c26316cdb889e93cc80ee84d10861cdd0e5b0d",
+  "titled_pdf_english_name": "Mi character practice grid",
+  "shape_count": 175,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/hanzi-mi/exports/a5-draft/blank.svg",
+    "pdf": "templates/hanzi-mi/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hanzi-mi/exports/a5-draft/titled.pdf",
+    "preview": "templates/hanzi-mi/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hanzi-mi/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hanzi-mi/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hanzi-mi/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hanzi-mi/examples/zh-TW.svg",
+      "en": "templates/hanzi-mi/examples/en.svg",
+      "ja": "templates/hanzi-mi/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hanzi-mi/README.zh-TW.md",
+      "en": "templates/hanzi-mi/README.en.md",
+      "ja": "templates/hanzi-mi/README.ja.md"
+    }
+  }
+}

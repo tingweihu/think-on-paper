@@ -1,0 +1,37 @@
+{
+  "id": "swimlane-flow",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.flow.swimlane_flow",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "Three horizontal lanes distinguish responsibility while diagonal arrows show handoffs.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "8db69b28f8daae338424bc50d38861acf24d180c9da12c571b19603316a90533",
+  "titled_pdf_english_name": "Three-lane handoff flow",
+  "shape_count": 11,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/swimlane-flow/exports/a5-draft/blank.svg",
+    "pdf": "templates/swimlane-flow/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/swimlane-flow/exports/a5-draft/titled.pdf",
+    "preview": "templates/swimlane-flow/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/swimlane-flow/exports/a5-contrast/blank.svg",
+      "pdf": "templates/swimlane-flow/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/swimlane-flow/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/swimlane-flow/examples/zh-TW.svg",
+      "en": "templates/swimlane-flow/examples/en.svg",
+      "ja": "templates/swimlane-flow/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/swimlane-flow/README.zh-TW.md",
+      "en": "templates/swimlane-flow/README.en.md",
+      "ja": "templates/swimlane-flow/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "classification-wheel",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.classification_wheel",
+  "source_type": "common-geometry",
+  "source_note": "An annular eight-sector classifier surrounds a central subject; no preset category names are printed.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "5bfa439d786ea4d3174aef10b2933bd98927c57c6f5f1a6708e27e7d60bb1f10",
+  "titled_pdf_english_name": "Eight-sector classification wheel",
+  "shape_count": 10,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/classification-wheel/exports/a5-draft/blank.svg",
+    "pdf": "templates/classification-wheel/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/classification-wheel/exports/a5-draft/titled.pdf",
+    "preview": "templates/classification-wheel/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/classification-wheel/exports/a5-contrast/blank.svg",
+      "pdf": "templates/classification-wheel/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/classification-wheel/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/classification-wheel/examples/zh-TW.svg",
+      "en": "templates/classification-wheel/examples/en.svg",
+      "ja": "templates/classification-wheel/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/classification-wheel/README.zh-TW.md",
+      "en": "templates/classification-wheel/README.en.md",
+      "ja": "templates/classification-wheel/README.ja.md"
+    }
+  }
+}

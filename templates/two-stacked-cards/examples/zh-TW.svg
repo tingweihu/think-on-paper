@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="89.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="109.000" width="123.000" height="89.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="19.000" y="28.000">進場：入口明確</text>
+<text x="19.000" y="125.000">離場：想再看材料</text>
+</g>
+</svg>

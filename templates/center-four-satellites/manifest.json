@@ -1,0 +1,37 @@
+{
+  "id": "center-four-satellites",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.cards.center_four_satellites",
+  "source_type": "original-layout",
+  "source_note": "One central card linked to four directional satellite cards; hierarchy differs from a regular card grid.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "a54b5c37441f223c51a36dfc91b25da1e0413280f61c974731f6f86702e2b29d",
+  "titled_pdf_english_name": "Center with four satellites",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/center-four-satellites/exports/a5-draft/blank.svg",
+    "pdf": "templates/center-four-satellites/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/center-four-satellites/exports/a5-draft/titled.pdf",
+    "preview": "templates/center-four-satellites/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/center-four-satellites/exports/a5-contrast/blank.svg",
+      "pdf": "templates/center-four-satellites/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/center-four-satellites/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/center-four-satellites/examples/zh-TW.svg",
+      "en": "templates/center-four-satellites/examples/en.svg",
+      "ja": "templates/center-four-satellites/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/center-four-satellites/README.zh-TW.md",
+      "en": "templates/center-four-satellites/README.en.md",
+      "ja": "templates/center-four-satellites/README.ja.md"
+    }
+  }
+}

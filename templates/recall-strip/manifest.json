@@ -1,0 +1,39 @@
+{
+  "id": "recall-strip",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_recall_strip",
+  "source_type": "existing-method-adaptation",
+  "source_note": "parameter of cornell. The existing cue/notes/summary partition supports a separate retrieval strip as a method variant.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "f3e8b547dc066b2df5c4f4e2c39a36b151e992e7bf6305f9ca7168cb68763f4b",
+  "titled_pdf_english_name": "Cornell notes with recall strip",
+  "shape_count": 23,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/recall-strip/exports/a5-draft/blank.svg",
+    "pdf": "templates/recall-strip/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/recall-strip/exports/a5-draft/titled.pdf",
+    "preview": "templates/recall-strip/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/recall-strip/exports/a5-contrast/blank.svg",
+      "pdf": "templates/recall-strip/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/recall-strip/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/recall-strip/examples/zh-TW.svg",
+      "en": "templates/recall-strip/examples/en.svg",
+      "ja": "templates/recall-strip/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/recall-strip/README.zh-TW.md",
+      "en": "templates/recall-strip/README.en.md",
+      "ja": "templates/recall-strip/README.ja.md"
+    }
+  },
+  "variant_of": "cornell",
+  "variant_classification": "parameter"
+}

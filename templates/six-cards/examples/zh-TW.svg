@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="12.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="76.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="76.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="140.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="140.000" width="58.500" height="58.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">圖書館十席</text>
+<text x="81.500" y="28.000">四本短篇</text>
+<text x="17.000" y="92.000">週五前通知</text>
+<text x="81.500" y="92.000">週六下午</text>
+<text x="17.000" y="156.000">兩人引導</text>
+<text x="81.500" y="156.000">收回饋卡</text>
+</g>
+</svg>

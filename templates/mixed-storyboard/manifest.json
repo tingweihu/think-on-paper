@@ -1,0 +1,39 @@
+{
+  "id": "mixed-storyboard",
+  "family": "storyboard",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_mixed_storyboard",
+  "source_type": "original-layout",
+  "source_note": "parameter of storyboard-eight-mixed. Changing the number of large and small panels preserves the mixed-scale storyboard composition.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "77d620ce52394b19d764c98603fdc698888e1eaec75b4e918d8f5a8b439f2e57",
+  "titled_pdf_english_name": "Mixed-scale four-panel storyboard",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/mixed-storyboard/exports/a5-draft/blank.svg",
+    "pdf": "templates/mixed-storyboard/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mixed-storyboard/exports/a5-draft/titled.pdf",
+    "preview": "templates/mixed-storyboard/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mixed-storyboard/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mixed-storyboard/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mixed-storyboard/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mixed-storyboard/examples/zh-TW.svg",
+      "en": "templates/mixed-storyboard/examples/en.svg",
+      "ja": "templates/mixed-storyboard/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mixed-storyboard/README.zh-TW.md",
+      "en": "templates/mixed-storyboard/README.en.md",
+      "ja": "templates/mixed-storyboard/README.ja.md"
+    }
+  },
+  "variant_of": "storyboard-eight-mixed",
+  "variant_classification": "parameter"
+}

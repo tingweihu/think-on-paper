@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="43.500" width="123.000" height="123.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="55.000" y1="43.500" x2="55.000" y2="166.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="96.000" y1="43.500" x2="96.000" y2="166.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="84.500" x2="137.000" y2="84.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="125.500" x2="137.000" y2="125.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="54.500">Time</text>
+<text x="58.000" y="54.500">Venue</text>
+<text x="99.000" y="54.500">Books</text>
+<text x="17.000" y="95.500">Invites</text>
+<text x="58.000" y="95.500">Reading group</text>
+<text x="99.000" y="95.500">Discussion</text>
+<text x="17.000" y="136.500">Materials</text>
+<text x="58.000" y="136.500">Access</text>
+<text x="99.000" y="136.500">Follow-up</text>
+</g>
+</svg>

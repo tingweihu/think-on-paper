@@ -1,0 +1,37 @@
+{
+  "id": "stepped-hierarchy",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.stepped_hierarchy",
+  "source_type": "original-layout",
+  "source_note": "Four staggered wide writing bands form a descending visual staircase.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "6d065ed5ecc06e21fb57d61da757be600109198a0e6b12288ac0284270d7ded0",
+  "titled_pdf_english_name": "Stepped hierarchy notes",
+  "shape_count": 10,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/stepped-hierarchy/exports/a5-draft/blank.svg",
+    "pdf": "templates/stepped-hierarchy/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/stepped-hierarchy/exports/a5-draft/titled.pdf",
+    "preview": "templates/stepped-hierarchy/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/stepped-hierarchy/exports/a5-contrast/blank.svg",
+      "pdf": "templates/stepped-hierarchy/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/stepped-hierarchy/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/stepped-hierarchy/examples/zh-TW.svg",
+      "en": "templates/stepped-hierarchy/examples/en.svg",
+      "ja": "templates/stepped-hierarchy/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/stepped-hierarchy/README.zh-TW.md",
+      "en": "templates/stepped-hierarchy/README.en.md",
+      "ja": "templates/stepped-hierarchy/README.ja.md"
+    }
+  }
+}

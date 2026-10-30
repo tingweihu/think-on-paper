@@ -1,0 +1,37 @@
+{
+  "id": "mandala-3x3",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.gate1.mandala_3x3",
+  "source_type": "existing-method-adaptation",
+  "source_note": "A nine-cell center-and-surrounding idea expansion; no claim of a unique or prescribed method origin.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "45aba26410cd958c571dd2bc645a6b43979ee8a19fcfef758c89bdf023c7b1d4",
+  "titled_pdf_english_name": "3×3 idea expansion",
+  "shape_count": 5,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/mandala-3x3/exports/a5-draft/blank.svg",
+    "pdf": "templates/mandala-3x3/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mandala-3x3/exports/a5-draft/titled.pdf",
+    "preview": "templates/mandala-3x3/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mandala-3x3/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mandala-3x3/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mandala-3x3/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mandala-3x3/examples/zh-TW.svg",
+      "en": "templates/mandala-3x3/examples/en.svg",
+      "ja": "templates/mandala-3x3/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mandala-3x3/README.zh-TW.md",
+      "en": "templates/mandala-3x3/README.en.md",
+      "ja": "templates/mandala-3x3/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "source-network-notes",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.research.source_network_notes",
+  "source_type": "original-layout",
+  "source_note": "Three source nodes feed three note cards with cross-source links and a bottom synthesis line.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "8b774b6abdd676533d7eeaab81a129ee2c478b61ab953ff61ba17bb477624b17",
+  "titled_pdf_english_name": "Linked source notes",
+  "shape_count": 12,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/source-network-notes/exports/a5-draft/blank.svg",
+    "pdf": "templates/source-network-notes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/source-network-notes/exports/a5-draft/titled.pdf",
+    "preview": "templates/source-network-notes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/source-network-notes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/source-network-notes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/source-network-notes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/source-network-notes/examples/zh-TW.svg",
+      "en": "templates/source-network-notes/examples/en.svg",
+      "ja": "templates/source-network-notes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/source-network-notes/README.zh-TW.md",
+      "en": "templates/source-network-notes/README.en.md",
+      "ja": "templates/source-network-notes/README.ja.md"
+    }
+  }
+}

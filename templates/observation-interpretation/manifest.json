@@ -1,0 +1,39 @@
+{
+  "id": "observation-interpretation",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_observation_interpretation",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of two-equal-columns. Observation and interpretation are two parallel writing columns; the difference is instructional.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "cb939dbbc33770a6407c6e59c993452b671d911e3c84fd12ff2e24b1843f6e94",
+  "titled_pdf_english_name": "Observation and interpretation",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/observation-interpretation/exports/a5-draft/blank.svg",
+    "pdf": "templates/observation-interpretation/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/observation-interpretation/exports/a5-draft/titled.pdf",
+    "preview": "templates/observation-interpretation/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/observation-interpretation/exports/a5-contrast/blank.svg",
+      "pdf": "templates/observation-interpretation/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/observation-interpretation/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/observation-interpretation/examples/zh-TW.svg",
+      "en": "templates/observation-interpretation/examples/en.svg",
+      "ja": "templates/observation-interpretation/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/observation-interpretation/README.zh-TW.md",
+      "en": "templates/observation-interpretation/README.en.md",
+      "ja": "templates/observation-interpretation/README.ja.md"
+    }
+  },
+  "variant_of": "two-equal-columns",
+  "variant_classification": "equivalent"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "quote-comment-parallel",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_quote_comment_parallel",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of two-equal-columns. Quotation and commentary are two equal parallel writing columns.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "cb939dbbc33770a6407c6e59c993452b671d911e3c84fd12ff2e24b1843f6e94",
+  "titled_pdf_english_name": "Quotation and comment",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/quote-comment-parallel/exports/a5-draft/blank.svg",
+    "pdf": "templates/quote-comment-parallel/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/quote-comment-parallel/exports/a5-draft/titled.pdf",
+    "preview": "templates/quote-comment-parallel/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/quote-comment-parallel/exports/a5-contrast/blank.svg",
+      "pdf": "templates/quote-comment-parallel/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/quote-comment-parallel/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/quote-comment-parallel/examples/zh-TW.svg",
+      "en": "templates/quote-comment-parallel/examples/en.svg",
+      "ja": "templates/quote-comment-parallel/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/quote-comment-parallel/README.zh-TW.md",
+      "en": "templates/quote-comment-parallel/README.en.md",
+      "ja": "templates/quote-comment-parallel/README.ja.md"
+    }
+  },
+  "variant_of": "two-equal-columns",
+  "variant_classification": "equivalent"
+}

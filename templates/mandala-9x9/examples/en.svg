@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="43.500" width="123.000" height="123.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="27.667" y1="43.500" x2="27.667" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="57.167" x2="137.000" y2="57.167" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="41.333" y1="43.500" x2="41.333" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="70.833" x2="137.000" y2="70.833" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="55.000" y1="43.500" x2="55.000" y2="166.500" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="84.500" x2="137.000" y2="84.500" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="68.667" y1="43.500" x2="68.667" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="98.167" x2="137.000" y2="98.167" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="82.333" y1="43.500" x2="82.333" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="111.833" x2="137.000" y2="111.833" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="96.000" y1="43.500" x2="96.000" y2="166.500" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="125.500" x2="137.000" y2="125.500" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="109.667" y1="43.500" x2="109.667" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="139.167" x2="137.000" y2="139.167" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="123.333" y1="43.500" x2="123.333" y2="166.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="152.833" x2="137.000" y2="152.833" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<text x="56.00" y="91.50" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Venue</text>
+<text x="69.67" y="91.50" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Time</text>
+<text x="83.33" y="91.50" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Books</text>
+<text x="56.00" y="105.17" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">People</text>
+<text x="83.33" y="105.17" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Items</text>
+<text x="56.00" y="118.83" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Talk</text>
+<text x="69.67" y="118.83" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Cost</text>
+<text x="83.33" y="118.83" fill="#514D47" stroke="none" font-family="Arial, sans-serif" font-size="2.10">Next</text>
+</g>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="28.667" y="64.167">Venue</text>
+<text x="69.667" y="64.167">Time</text>
+<text x="110.667" y="64.167">Books</text>
+<text x="28.667" y="105.167">People</text>
+<text x="69.667" y="105.167">Readi-</text>
+<text x="69.667" y="109.467">ng</text>
+<text x="69.667" y="113.767">group</text>
+<text x="110.667" y="105.167">Mater-</text>
+<text x="110.667" y="109.467">ials</text>
+<text x="28.667" y="146.167">Discu-</text>
+<text x="28.667" y="150.467">ssion</text>
+<text x="69.667" y="146.167">Budget</text>
+<text x="110.667" y="146.167">Follo-</text>
+<text x="110.667" y="150.467">w-up</text>
+</g>
+</svg>

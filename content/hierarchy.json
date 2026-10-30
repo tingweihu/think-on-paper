@@ -1,0 +1,50 @@
+{
+  "top-down-tree": {
+    "source_type":"common-geometry","source_note":"A vertical one-to-two-to-four containment tree uses generic hierarchy geometry without copied labels.",
+    "translations": {
+      "zh-TW":{"title":"由上而下的層級樹","purpose":"從總題依兩層分解成較小的類別，保留父子關係。","when":["把一場活動拆成兩個工作面向及四項任務。","整理一章內容的主題、小節與要點。"],"steps":["頂部寫範圍清楚的總題。","中層分成兩個互不重疊的大類。","底層每類各寫兩個具體子項，無法分類時回頭修訂大類。"],"unsuitable":"樹只表示上下歸屬；跨類連結或循環關係需另用網絡圖。","example":"虛構展覽的總題分成內容與現場，前者含作品、說明，後者含動線、照明。","labels":["社區展覽","內容","現場","作品","說明","動線","照明"]},
+      "en":{"title":"Top-down hierarchy tree","purpose":"Break a whole into two levels of smaller categories while keeping parent-child relations clear.","when":["Split a small event into two work areas and four tasks.","Outline a chapter as theme, sections, and key points."],"steps":["Name a bounded whole at the top.","Choose two distinct middle categories.","Put two concrete children under each and revise categories if an item does not fit."],"unsuitable":"A tree only shows containment; use a network for cross-category links or loops.","example":"A fictional exhibition splits into content and site: works and captions under content, route and lighting under site.","labels":["Exhibit","Content","Site","Works","Captions","Route","Lighting"]},
+      "ja":{"title":"上から下への階層樹","purpose":"全体から小さな分類へ二段階で分け、親子の関係を示します。","when":["小さな催しを二つの作業分野と四つの仕事に分けるとき。","章のテーマ、節、要点を整理するとき。"],"steps":["頂点に範囲を決めた全体を書きます。","中段を重ならない二分類にします。","各分類に具体例を二つ置き、合わない項目が出たら分類を直します。"],"unsuitable":"樹は上下の所属を示すだけです。分類をまたぐ線や循環にはネットワーク図が向きます。","example":"架空の展示を内容と会場に分け、内容には作品と説明、会場には動線と照明を置きます。","labels":["地域展示","内容","会場","作品","説明","動線","照明"]}
+    }
+  },
+  "stepped-hierarchy": {
+    "source_type":"original-layout","source_note":"Four staggered wide writing bands form a descending visual staircase.",
+    "translations": {
+      "zh-TW":{"title":"階梯式層級筆記","purpose":"把抽象想法逐階轉成更具體、可執行的層次。","when":["將活動宗旨逐步寫成工作項目。","讀完論述後，從大主張走向例子與檢查。"],"steps":["第一階寫總目標。","每下一階只增加一層具體性，保留與上一階的對應。","最後一階寫可觀察的下一步，檢查是否真由前面推得。"],"unsuitable":"階梯容易暗示必然先後；多條並行分支應改用樹或欄。","example":"虛構讀書會從『交流閱讀』走到『每月聚會』『輪流提問』『先約場地』。","labels":["交流閱讀","每月聚會","輪流提問","先約場地"]},
+      "en":{"title":"Stepped hierarchy notes","purpose":"Turn an abstract intention into increasingly concrete, actionable levels.","when":["Translate an event purpose into work items.","Move from a broad argument to an example and a check."],"steps":["State the overall aim on the first step.","Add one level of specificity at each step, preserving the connection above.","Make the last step observable and check that it follows from earlier ones."],"unsuitable":"Steps can imply a necessary sequence; use a tree or columns for parallel branches.","example":"A fictional reading circle moves from 'share reading' to 'monthly meeting', 'rotating questions', and 'book a room'.","labels":["Share reading","Meet monthly","Rotate prompts","Book a room"]},
+      "ja":{"title":"段階式の階層メモ","purpose":"抽象的な意図を一段ずつ具体的な行動へ変えます。","when":["催しの目的を作業項目に落とすとき。","大きな主張から例と確認事項へ進むとき。"],"steps":["最初の段に全体の目標を書きます。","次の段ごとに具体性を一段だけ増やし、上段との関係を保ちます。","最後は観察できる行動を書き、上段から導けるか確かめます。"],"unsuitable":"階段は必然的な順序に見えやすいため、並行する枝には樹形図や欄を使います。","example":"架空の読書会で『読書を共有』から『毎月集まる』『交代で質問』『部屋を予約』へ進みます。","labels":["読書共有","毎月集まる","質問を交代","部屋を予約"]}
+    }
+  },
+  "brace-decomposition": {
+    "source_type":"common-geometry","source_note":"A left parent area and a vertical brace-like spine feed three distinct component areas.",
+    "translations": {
+      "zh-TW":{"title":"大括號拆解圖","purpose":"用一個總項與三個子項，清楚表達整體的組成。","when":["將課程資源拆成教材、場地與人員。","摘要一個系統的輸入、處理與輸出。"],"steps":["左側寫要拆解的整體。","右側三框寫不同構成部分，不把同一項重複列入。","檢查是否還有缺漏，再視需要另頁續分。"],"unsuitable":"只適合一層、三項的摘要；多層組織需用樹，流向需用流程圖。","example":"虛構工作坊被拆為材料、空間與協助者，三項都是準備條件，沒有表示先後。","labels":["工作坊","材料","空間","協助者"]},
+      "en":{"title":"Brace decomposition","purpose":"Show a whole and three distinct components in one concise view.","when":["Divide course resources into materials, space, and people.","Summarize a system as input, process, and output."],"steps":["Put the whole on the left.","Name three different components on the right without duplicating an item.","Check for missing components, then continue on another page if needed."],"unsuitable":"This is a one-level summary; use a tree for multiple levels or a flow for sequence.","example":"A fictional workshop breaks into materials, space, and helpers as preparation needs, with no order implied.","labels":["Workshop","Materials","Space","Helpers"]},
+      "ja":{"title":"括弧で分ける構成図","purpose":"一つの全体と三つの異なる構成要素を簡潔に示します。","when":["講座の資源を教材、場所、人員に分けるとき。","仕組みを入力、処理、出力で要約するとき。"],"steps":["左に分けたい全体を書きます。","右の三枠に異なる構成要素を置き、同じ項目を重ねません。","漏れがないか確認し、必要なら別紙でさらに分けます。"],"unsuitable":"一段階・三項目の要約向けです。多階層には樹、順序には流れ図を使います。","example":"架空の講座を材料、会場、手伝いに分けます。三つは準備条件で、順序を示していません。","labels":["講座","材料","会場","手伝い"]}
+    }
+  },
+  "pyramid-three": {
+    "source_type":"common-geometry","source_note":"A three-tier triangle is generic layered geometry; the layers carry no preset ranks or values.",
+    "translations": {
+      "zh-TW":{"title":"三層金字塔","purpose":"把一個概念拆成底層基礎、中層做法與頂層目標等三層。","when":["解釋活動目標依賴哪些基礎資源。","整理論證由資料到推論再到主張的層次。"],"steps":["先自行定義三層的含義，避免把位置誤當價值高低。","從較寬的底層寫基礎，再向上填入較濃縮的內容。","逐層檢查上層是否真有下層支持。"],"unsuitable":"面積差不表示人數或權重；若要比較精確比例，應用數據圖表。","example":"虛構展覽在底層記作品與場地，中層記策展安排，頂層記讓社區交流的目標。","labels":["交流","策展安排","作品與場地"]},
+      "en":{"title":"Three-tier pyramid","purpose":"Arrange a concept as a broad base, a middle practice, and a concise top goal.","when":["Explain which resources support an event goal.","Outline an argument from observations through inference to claim."],"steps":["Define what the three levels mean; position alone does not prove value.","Fill the wide base before the more condensed middle and top.","Check whether each upper statement is supported by the level beneath."],"unsuitable":"Area does not encode population or weight; use a data chart for exact proportions.","example":"A fictional exhibition has works and venue at the base, curatorial planning in the middle, and community exchange at the top.","labels":["Exchange","Planning","Works and venue"]},
+      "ja":{"title":"三段のピラミッド","purpose":"広い土台、中段の方法、上段の目標など、概念を三層に整理します。","when":["催しの目標を支える資源を説明するとき。","観察から推論、主張へ進む論証を整理するとき。"],"steps":["三層の意味を先に決め、位置だけで価値の上下を決めません。","広い土台から、中段と上段へ内容を絞って書きます。","上段が下段に支えられているか確かめます。"],"unsuitable":"面積は人数や重みを示しません。正確な割合はデータの図表で示してください。","example":"架空の展示で、下段に作品と会場、中段に展示計画、上段に地域の交流という目的を置きます。","labels":["交流","展示計画","作品と会場"]}
+    }
+  },
+  "nested-rectangles": {
+    "source_type":"common-geometry","source_note":"Four concentric rectangular regions express nested scope, rather than separate cards.",
+    "translations": {
+      "zh-TW":{"title":"同心矩形範圍圖","purpose":"由外到內記錄四個包含關係，辨認範圍如何逐步縮小。","when":["從城市、街區、場地一路聚焦到一間教室。","將研究題目由大領域逐步界定成單一問題。"],"steps":["最外圈寫最大的範圍。","往內每圈只縮小一層，不能跳到無關分類。","在最內圈寫實際要處理的對象，回看邊界是否明確。"],"unsuitable":"同心結構只說明包含，不能顯示並列類別或時間順序。","example":"虛構活動從城市、社區、圖書館縮到一間閱讀室，讓場地討論有清楚範圍。","labels":["城市","社區","圖書館","閱讀室"]},
+      "en":{"title":"Nested scope rectangles","purpose":"Use four containing regions to narrow a topic from broad context to a specific object.","when":["Focus from city to neighborhood, venue, and one room.","Narrow a research area into a single question."],"steps":["Name the broadest scope on the outer band.","Narrow by one meaningful level at each inner band.","Put the actual object in the center and check that the boundaries are clear."],"unsuitable":"Containment does not show peers or time order; use another format for those relations.","example":"A fictional event narrows from city to neighborhood to library to reading room, making the venue discussion specific.","labels":["City","District","Library","Reading room"]},
+      "ja":{"title":"入れ子の範囲図","purpose":"四つの包含する領域で、大きな文脈から具体的な対象へ絞ります。","when":["市、地区、施設、一室へと場所を特定するとき。","研究分野から一つの問いへ焦点を狭めるとき。"],"steps":["一番外側に最も広い範囲を書きます。","内側へ一段ずつ意味のある範囲に狭めます。","中心に扱う対象を置き、境界が明確か確かめます。"],"unsuitable":"包含だけを示す図です。並列の分類や時間順序は表せません。","example":"架空の催しの場所を市、地区、図書館、読書室へと狭め、会場の話を具体化します。","labels":["市","地区","図書館","読書室"]}
+    }
+  },
+  "classification-wheel": {
+    "source_type":"common-geometry","source_note":"An annular eight-sector classifier surrounds a central subject; no preset category names are printed.",
+    "translations": {
+      "zh-TW":{"title":"八區分類輪","purpose":"把一個主題周圍的八種分類放在同一圈，方便檢查遺漏。","when":["盤點小型活動可能涉及的八種準備項目。","閱讀後整理一個概念的八個相關面向。"],"steps":["中心寫要盤點的主題。","沿外圈八區填入互相區分的類別，必要時留空。","回頭檢查重複與缺項，別因格數而湊足八項。"],"unsuitable":"扇區狹窄，只能寫短詞；格數不表示類別必須剛好八個。","example":"虛構社區講座的外圈寫講者、場地、座位、材料、宣傳、報名、設備及回饋。","labels":["社區講座","講者","場地","座位","材料","宣傳","報名","設備","回饋"]},
+      "en":{"title":"Eight-sector classification wheel","purpose":"Place up to eight categories around one subject to notice gaps and overlap.","when":["Inventory the preparation areas of a small event.","Organize eight related angles after reading about a concept."],"steps":["Write the subject in the center.","Fill distinct outer sectors, leaving unused sectors empty.","Check for duplicates and gaps without inventing categories just to fill eight."],"unsuitable":"Narrow sectors fit brief terms; eight is a layout capacity, not a required number of categories.","example":"A fictional community talk considers speaker, venue, seats, material, publicity, sign-ups, equipment, and feedback.","labels":["Talk","Speaker","Venue","Seats","Material","Publicity","Sign-up","Equipment","Feedback"]},
+      "ja":{"title":"八区分の分類輪","purpose":"一つの題材の周囲に最大八種類を置き、抜けや重複を見つけます。","when":["小さな催しの準備項目を洗い出すとき。","読後に概念の周辺要素を整理するとき。"],"steps":["中心に整理する題材を書きます。","外側には異なる分類を置き、余る区画は空けます。","重複と抜けを確認し、八区画を埋めるためだけの項目は作りません。"],"unsuitable":"扇形は狭く、短語向けです。分類が必ず八つあるという意味ではありません。","example":"架空の地域講座で、講師、会場、座席、資料、広報、申込、設備、感想を外側に置きます。","labels":["地域講座","講師","会場","座席","資料","広報","申込","設備","感想"]}
+    }
+  }
+}

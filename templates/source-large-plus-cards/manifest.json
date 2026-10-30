@@ -1,0 +1,39 @@
+{
+  "id": "source-large-plus-cards",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_source_large_plus_cards",
+  "source_type": "original-layout",
+  "source_note": "equivalent of hero-three-cards. One dominant source region with three subsidiary cards shares the existing hero-card composition.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "a0821516cb2a5efccfdbfe6c4a0c689d3112c243ab9738a9f6ed9dcf30fce2f7",
+  "titled_pdf_english_name": "Source card and three notes",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/source-large-plus-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/source-large-plus-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/source-large-plus-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/source-large-plus-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/source-large-plus-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/source-large-plus-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/source-large-plus-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/source-large-plus-cards/examples/zh-TW.svg",
+      "en": "templates/source-large-plus-cards/examples/en.svg",
+      "ja": "templates/source-large-plus-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/source-large-plus-cards/README.zh-TW.md",
+      "en": "templates/source-large-plus-cards/README.en.md",
+      "ja": "templates/source-large-plus-cards/README.ja.md"
+    }
+  },
+  "variant_of": "hero-three-cards",
+  "variant_classification": "equivalent"
+}

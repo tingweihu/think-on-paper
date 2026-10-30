@@ -1,0 +1,37 @@
+{
+  "id": "hero-three-cards",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.cards.hero_three_cards",
+  "source_type": "original-layout",
+  "source_note": "One large dominant area above three equal supporting cards.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "a0821516cb2a5efccfdbfe6c4a0c689d3112c243ab9738a9f6ed9dcf30fce2f7",
+  "titled_pdf_english_name": "Hero card with three supports",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/hero-three-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/hero-three-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hero-three-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/hero-three-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hero-three-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hero-three-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hero-three-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hero-three-cards/examples/zh-TW.svg",
+      "en": "templates/hero-three-cards/examples/en.svg",
+      "ja": "templates/hero-three-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hero-three-cards/README.zh-TW.md",
+      "en": "templates/hero-three-cards/README.en.md",
+      "ja": "templates/hero-three-cards/README.ja.md"
+    }
+  }
+}

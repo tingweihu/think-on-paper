@@ -1,0 +1,39 @@
+{
+  "id": "frayer",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_frayer",
+  "source_type": "original-layout",
+  "source_note": "equivalent of quadrant-center-circle. The classic four-area concept study fits the existing four quadrants around a central concept; labels are supplied by the guide, not printed.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e6f3eddfda55321b7c7252de916bee8608ae08c7f04c0b92580ce07fcc467478",
+  "titled_pdf_english_name": "Frayer concept map",
+  "shape_count": 5,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/frayer/exports/a5-draft/blank.svg",
+    "pdf": "templates/frayer/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/frayer/exports/a5-draft/titled.pdf",
+    "preview": "templates/frayer/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/frayer/exports/a5-contrast/blank.svg",
+      "pdf": "templates/frayer/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/frayer/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/frayer/examples/zh-TW.svg",
+      "en": "templates/frayer/examples/en.svg",
+      "ja": "templates/frayer/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/frayer/README.zh-TW.md",
+      "en": "templates/frayer/README.en.md",
+      "ja": "templates/frayer/README.ja.md"
+    }
+  },
+  "variant_of": "quadrant-center-circle",
+  "variant_classification": "equivalent"
+}

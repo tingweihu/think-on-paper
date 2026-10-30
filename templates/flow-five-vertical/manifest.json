@@ -1,0 +1,39 @@
+{
+  "id": "flow-five-vertical",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_flow_five_vertical",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of flow-four-horizontal. A linear flow rotated and given one extra equal step is an orientation/count variant.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "f01ef29ad15fbd05f1be2614e33b718bb6c98b3d157061db2d04891eb2f44618",
+  "titled_pdf_english_name": "Five-step vertical flow",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/flow-five-vertical/exports/a5-draft/blank.svg",
+    "pdf": "templates/flow-five-vertical/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flow-five-vertical/exports/a5-draft/titled.pdf",
+    "preview": "templates/flow-five-vertical/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flow-five-vertical/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flow-five-vertical/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flow-five-vertical/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flow-five-vertical/examples/zh-TW.svg",
+      "en": "templates/flow-five-vertical/examples/en.svg",
+      "ja": "templates/flow-five-vertical/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flow-five-vertical/README.zh-TW.md",
+      "en": "templates/flow-five-vertical/README.en.md",
+      "ja": "templates/flow-five-vertical/README.ja.md"
+    }
+  },
+  "variant_of": "flow-four-horizontal",
+  "variant_classification": "parameter"
+}

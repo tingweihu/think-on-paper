@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="79.980" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="23.426" x2="131.000" y2="23.426" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="34.851" x2="131.000" y2="34.851" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="46.277" x2="131.000" y2="46.277" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="57.703" x2="131.000" y2="57.703" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="69.129" x2="131.000" y2="69.129" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="80.554" x2="131.000" y2="80.554" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="103.980" x2="137.000" y2="103.980" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="114.427" x2="131.000" y2="114.427" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="124.873" x2="131.000" y2="124.873" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="135.320" x2="131.000" y2="135.320" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="145.767" x2="131.000" y2="145.767" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="156.213" x2="131.000" y2="156.213" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="166.660" x2="131.000" y2="166.660" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.000" y1="177.107" x2="131.000" y2="177.107" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="20.000" y="30.000">Notice: weekends</text>
+<text x="20.000" y="119.980">Thought: check transit</text>
+</g>
+</svg>

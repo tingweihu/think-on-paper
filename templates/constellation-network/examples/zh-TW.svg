@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="52.494" y1="35.680" x2="86.506" y2="34.320" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="98.860" y1="40.708" x2="116.140" y2="67.292" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="117.068" y1="81.226" x2="104.932" y2="106.774" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="103.786" y1="121.666" x2="116.214" y2="163.334" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="110.702" y1="169.213" x2="78.298" y2="161.787" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="63.656" y1="155.858" x2="39.344" y2="141.142" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="32.056" y1="129.012" x2="29.944" y2="90.988" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="31.932" y1="75.379" x2="42.068" y2="43.621" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="88.112" y1="38.816" x2="35.888" y2="78.184" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="116.479" y1="80.916" x2="74.521" y2="153.084" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="93.911" y1="116.530" x2="40.089" y2="134.470" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="44.500" cy="36.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="94.500" cy="34.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="120.500" cy="74.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="101.500" cy="114.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="118.500" cy="171.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70.500" cy="160.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="32.500" cy="137.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="29.500" cy="83.000" r="7.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="39.500" y="38.000">書店</text>
+<text x="89.500" y="36.000">讀者</text>
+<text x="115.500" y="76.000">作者</text>
+<text x="96.500" y="116.000">編輯</text>
+<text x="113.500" y="173.000">活動</text>
+<text x="65.500" y="162.000">圖書館</text>
+<text x="27.500" y="139.000">學生</text>
+<text x="24.500" y="85.000">教師</text>
+</g>
+</svg>

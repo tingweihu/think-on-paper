@@ -1,0 +1,37 @@
+{
+  "id": "double-bubble",
+  "family": "comparison",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.comparison.double_bubble",
+  "source_type": "existing-method-adaptation",
+  "source_note": "Two central subjects link to shared top/bottom traits and exclusive outer traits.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "99b256b85a5b5f07a76710e3d700582bb8da47d9764dfd03514d904ffac8ad81",
+  "titled_pdf_english_name": "Double-bubble comparison",
+  "shape_count": 12,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/double-bubble/exports/a5-draft/blank.svg",
+    "pdf": "templates/double-bubble/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/double-bubble/exports/a5-draft/titled.pdf",
+    "preview": "templates/double-bubble/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/double-bubble/exports/a5-contrast/blank.svg",
+      "pdf": "templates/double-bubble/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/double-bubble/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/double-bubble/examples/zh-TW.svg",
+      "en": "templates/double-bubble/examples/en.svg",
+      "ja": "templates/double-bubble/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/double-bubble/README.zh-TW.md",
+      "en": "templates/double-bubble/README.en.md",
+      "ja": "templates/double-bubble/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "mandala-9x9": {
+    "source_type": "existing-method-adaptation",
+    "source_note": "Nine grouped three-by-three blocks form 81 small cells; A5 use is limited to keywords.",
+    "translations": {
+      "zh-TW": {
+        "title": "八十一格概念展開",
+        "purpose": "用九組三乘三小格，從中心主題逐層分出短關鍵詞。",
+        "when": [
+          "已有八個子題，想各列幾個很短的延伸詞。",
+          "在文章規劃前盤點廣泛面向，而非寫完整段落。"
+        ],
+        "steps": [
+          "先在中央小格寫一個極短主題。",
+          "將八個子題放到中央區塊周圍，再移到對應外側區塊的中心。",
+          "各外側區塊只補短詞，遇到需要句子的內容就另開頁。"
+        ],
+        "unsuitable": "A5 上每格約 13.7 mm，只適合短詞或單字；手寫長句與精密印刷須另用更大紙張。",
+        "example": "示例以虛構社區讀書會為核心，八組先列場地、時間、選書、參與、材料、討論、預算、後續；只填代表性小格。",
+        "labels": [
+          "場地",
+          "時間",
+          "選書",
+          "參與",
+          "讀書會",
+          "材料",
+          "討論",
+          "預算",
+          "後續"
+        ]
+      },
+      "en": {
+        "title": "81-cell idea expansion",
+        "purpose": "Use nine grouped three-by-three blocks to extend a central topic into short keywords.",
+        "when": [
+          "You already have eight subtopics and want several brief extensions for each.",
+          "You need a broad topic inventory before outlining an article, not full paragraphs."
+        ],
+        "steps": [
+          "Put a very short topic in the center cell.",
+          "Place eight subtopics around the center and repeat each in the center of its outer block.",
+          "Add only short words to outer blocks; move ideas needing sentences to another page."
+        ],
+        "unsuitable": "At A5 each cell is about 13.7 mm wide, suitable for keywords only. Use larger paper for sentences or precise production work.",
+        "example": "A fictional reading group begins with venue, time, books, participation, materials, discussion, budget, and follow-up; only representative cells are filled.",
+        "labels": [
+          "Venue",
+          "Time",
+          "Books",
+          "People",
+          "Reading group",
+          "Materials",
+          "Discussion",
+          "Budget",
+          "Follow-up"
+        ]
+      },
+      "ja": {
+        "title": "81マスのアイデア展開",
+        "purpose": "九つの3×3区画を使い、中心の主題から短い語を段階的に広げます。",
+        "when": [
+          "八つの小主題があり、それぞれに短い関連語を足すとき。",
+          "文章の構成前に広い観点を洗い出し、段落は別に書くとき。"
+        ],
+        "steps": [
+          "中央の小さなマスに短い主題を書きます。",
+          "八つの小主題を中央の周囲に置き、対応する外側区画の中心にも写します。",
+          "外側は短い語だけにし、文が必要な考えは別のページへ移します。"
+        ],
+        "unsuitable": "A5では一マス約13.7 mmで、短い語向けです。長文や精密な印刷には大きな用紙が必要です。",
+        "example": "架空の読書会から会場、時間、本、参加、資料、討論、予算、次回へ広げ、代表的なマスだけを埋めています。",
+        "labels": [
+          "会場",
+          "時間",
+          "本",
+          "参加",
+          "読書会",
+          "資料",
+          "討論",
+          "予算",
+          "次回"
+        ]
+      }
+    }
+  },
+  "center-eight-boxes": {
+    "source_type": "original-layout",
+    "source_note": "Nine disconnected cards, with a visually stronger center card, separate each idea from its neighbors.",
+    "translations": {
+      "zh-TW": {
+        "title": "中心與八張分離卡",
+        "purpose": "中心主題周圍留出八個互不相連的卡片，讓面向各自獨立。",
+        "when": [
+          "列出活動的八種資源而不預設彼此相連。",
+          "從一個研究問題分出八個待查方向。"
+        ],
+        "steps": [
+          "先把主題寫在中央較強的框內。",
+          "周圍每卡只寫一個獨立面向。",
+          "若兩卡有關係，再由自己畫連線或另開關係圖。"
+        ],
+        "unsuitable": "卡片之間沒有預設流程；需要順序或依賴關係時不應只靠位置推斷。",
+        "example": "示例把虛構社區展覽放中央，外圍八卡依次記場地、作品、志工、導覽、交通、材料、時程與回饋。",
+        "labels": [
+          "場地",
+          "作品",
+          "志工",
+          "導覽",
+          "社區展覽",
+          "交通",
+          "材料",
+          "時程",
+          "回饋"
+        ]
+      },
+      "en": {
+        "title": "Center with eight separate cards",
+        "purpose": "Keep eight independent aspects around one stronger central topic card.",
+        "when": [
+          "List eight event resources without implying they connect.",
+          "Branch a research question into eight avenues to investigate."
+        ],
+        "steps": [
+          "Write the topic in the emphasized middle card.",
+          "Give each surrounding card one separate aspect.",
+          "If two aspects relate, draw that link yourself or move to a network page."
+        ],
+        "unsuitable": "The cards have no built-in sequence; position alone should not imply dependencies.",
+        "example": "A fictional neighborhood exhibition is surrounded by venue, works, volunteers, tour, access, materials, schedule, and feedback.",
+        "labels": [
+          "Venue",
+          "Works",
+          "Volunteers",
+          "Tour",
+          "Exhibition",
+          "Access",
+          "Materials",
+          "Schedule",
+          "Feedback"
+        ]
+      },
+      "ja": {
+        "title": "中心と八枚の独立カード",
+        "purpose": "強調した中心の主題の周りに、離れた八つの観点を置きます。",
+        "when": [
+          "催しの八種類の資源を、関係を決めずに列挙するとき。",
+          "研究の問いから八つの調査方向を考えるとき。"
+        ],
+        "steps": [
+          "中央の強い枠に主題を書きます。",
+          "周囲の各枠には独立した観点を一つ置きます。",
+          "二つが関係するなら自分で線を引くか関係図に移します。"
+        ],
+        "unsuitable": "枠に順序はありません。位置だけで依存関係を推測しないでください。",
+        "example": "架空の地域展示会を中心に、会場、作品、手伝い、案内、交通、材料、日程、意見を周囲に置きます。",
+        "labels": [
+          "会場",
+          "作品",
+          "手伝い",
+          "案内",
+          "地域展示",
+          "交通",
+          "材料",
+          "日程",
+          "意見"
+        ]
+      }
+    }
+  },
+  "diamond-eight-rays": {
+    "source_type": "original-layout",
+    "source_note": "A central diamond with eight rays and terminal writing guides.",
+    "translations": {
+      "zh-TW": {
+        "title": "菱心八向放射",
+        "purpose": "從中央菱形向八方伸展，讓每條射線承擔一個短方向。",
+        "when": [
+          "探索一個設計構想的八種外部影響。",
+          "在會議前快速列出八個討論方向。"
+        ],
+        "steps": [
+          "在中央寫清楚唯一主題。",
+          "沿八條射線末端各寫一個不同方向。",
+          "比較哪些方向需要合併或延伸，另頁詳述。"
+        ],
+        "unsuitable": "端點只有短註空間，不能容納完整論證；射線長短不表示重要性。",
+        "example": "示例以虛構公共閱讀角為核心，八端填入照明、座位、書、動線、噪音、維護、開放時間與標示。",
+        "labels": [
+          "閱讀角",
+          "照明",
+          "座位",
+          "書",
+          "動線",
+          "噪音",
+          "維護",
+          "時間",
+          "標示"
+        ]
+      },
+      "en": {
+        "title": "Diamond center with eight rays",
+        "purpose": "Extend eight brief directions from one central diamond topic.",
+        "when": [
+          "Explore eight outside influences on a design idea.",
+          "List eight discussion directions before a meeting."
+        ],
+        "steps": [
+          "Name one topic in the center.",
+          "Give each ray end a distinct short direction.",
+          "Compare which directions should merge or be developed on another page."
+        ],
+        "unsuitable": "Ray ends fit only short notes, and their equal length does not encode importance.",
+        "example": "A fictional public reading corner branches to light, seating, books, movement, noise, upkeep, hours, and signage.",
+        "labels": [
+          "Reading corner",
+          "Light",
+          "Seats",
+          "Books",
+          "Movement",
+          "Noise",
+          "Upkeep",
+          "Hours",
+          "Signs"
+        ]
+      },
+      "ja": {
+        "title": "ひし形中心の八方向",
+        "purpose": "中央のひし形から八方向に伸ばし、各線に短い観点を置きます。",
+        "when": [
+          "設計案に影響する八つの外的条件を探るとき。",
+          "会議前に八つの議論方向を素早く並べるとき。"
+        ],
+        "steps": [
+          "中央に一つの主題を書きます。",
+          "八本の線の先に異なる短い観点を置きます。",
+          "まとめるべき観点や別のページで深める観点を探します。"
+        ],
+        "unsuitable": "線の先は短い注記用で、長い論証は入りません。線の長さは重要度を示しません。",
+        "example": "架空の公共読書コーナーから照明、席、本、動線、音、維持、時間、表示へ広げます。",
+        "labels": [
+          "読書コーナー",
+          "照明",
+          "席",
+          "本",
+          "動線",
+          "音",
+          "維持",
+          "時間",
+          "表示"
+        ]
+      }
+    }
+  },
+  "flower-eight": {
+    "source_type": "original-layout",
+    "source_note": "One central circle surrounded by a single ring of eight overlapping circular writing zones.",
+    "translations": {
+      "zh-TW": {
+        "title": "八瓣想法花",
+        "purpose": "用中央圓與八個花瓣泡泡收集主題周圍的短想法。",
+        "when": [
+          "替故事主角發想八個性格線索。",
+          "替活動主題蒐集不同的參與方式。"
+        ],
+        "steps": [
+          "中央寫一個主題。",
+          "每瓣先填一個短詞，避免在第一輪重複。",
+          "回看相鄰花瓣，圈出值得組合的想法。"
+        ],
+        "unsuitable": "瓣形重疊不代表集合交集；需要精確分類時改用九宮或表格。",
+        "example": "示例圍繞虛構社區花園，填入種植、休息、學習、分享、維護、工具、雨水與步道。",
+        "labels": [
+          "社區花園",
+          "種植",
+          "休息",
+          "學習",
+          "分享",
+          "維護",
+          "工具",
+          "雨水",
+          "步道"
+        ]
+      },
+      "en": {
+        "title": "Eight-petal idea flower",
+        "purpose": "Collect short ideas around one central topic in eight circular petals.",
+        "when": [
+          "Brainstorm eight traits for a story character.",
+          "Explore different ways to join an event."
+        ],
+        "steps": [
+          "Name one central topic.",
+          "Put one short word in each petal and avoid early repetition.",
+          "Review neighboring petals for ideas worth combining."
+        ],
+        "unsuitable": "Overlapping petals do not represent mathematical set intersections; use a matrix for exact classification.",
+        "example": "A fictional community garden branches into planting, rest, learning, sharing, upkeep, tools, rainwater, and paths.",
+        "labels": [
+          "Garden",
+          "Planting",
+          "Rest",
+          "Learning",
+          "Sharing",
+          "Upkeep",
+          "Tools",
+          "Rainwater",
+          "Paths"
+        ]
+      },
+      "ja": {
+        "title": "八枚花びらの発想図",
+        "purpose": "中心の主題を囲む八つの丸い花びらに短い考えを集めます。",
+        "when": [
+          "物語の人物の性格を八つの手がかりから考えるとき。",
+          "催しへの参加方法を幅広く探るとき。"
+        ],
+        "steps": [
+          "中央に一つの主題を書きます。",
+          "各花びらに短い語を一つ書き、最初は重複を避けます。",
+          "隣の花びらを見直し、組み合わせたい案に印を付けます。"
+        ],
+        "unsuitable": "重なりは集合の交差を示しません。正確な分類には表やマトリクスを使います。",
+        "example": "架空の地域菜園から栽培、休憩、学習、共有、維持、道具、雨水、通路へ広げます。",
+        "labels": [
+          "地域菜園",
+          "栽培",
+          "休憩",
+          "学習",
+          "共有",
+          "維持",
+          "道具",
+          "雨水",
+          "通路"
+        ]
+      }
+    }
+  },
+  "flower-two-rings": {
+    "source_type": "original-layout",
+    "source_note": "Two nested six-part circular rings support a first and second level of short ideas.",
+    "translations": {
+      "zh-TW": {
+        "title": "雙環概念花",
+        "purpose": "內圈寫六個主要方向，外圈各接一個更具體的短詞。",
+        "when": [
+          "先列活動六種需求，再補具體行動。",
+          "研究主題分六面向後，給每面向一個待查例子。"
+        ],
+        "steps": [
+          "中央寫核心問題。",
+          "內圈沿六方向寫大類，外圈對應寫下一層細節。",
+          "逐方向檢查內外是否真有從屬關係，必要時改寫。"
+        ],
+        "unsuitable": "每個泡泡很小，只適合短詞；若某一方向需要多個細節，改用獨立頁。",
+        "example": "示例以虛構讀書會為中心，內圈記場地、選書、時間、邀請、材料、討論，外圈各補一個短例。",
+        "labels": [
+          "讀書會",
+          "場地",
+          "選書",
+          "時間",
+          "邀請",
+          "材料",
+          "討論",
+          "圖書館",
+          "短篇",
+          "週末",
+          "公告",
+          "摘錄",
+          "提問"
+        ]
+      },
+      "en": {
+        "title": "Two-ring idea flower",
+        "purpose": "Write six main directions in the inner ring and one concrete detail for each in the outer ring.",
+        "when": [
+          "List six event needs and then one action for each.",
+          "Give each of six research aspects one example to check."
+        ],
+        "steps": [
+          "Put the core question in the center.",
+          "Write broad aspects on the six inner petals and matching details outside.",
+          "Check that each outer word truly belongs to its inner aspect."
+        ],
+        "unsuitable": "Each bubble fits a short word; aspects needing several details deserve their own page.",
+        "example": "A fictional reading group has venue, books, time, invitation, materials, and discussion inside, each with one example outside.",
+        "labels": [
+          "Reading",
+          "Venue",
+          "Books",
+          "Time",
+          "Invite",
+          "Materials",
+          "Talk",
+          "Library",
+          "Shorts",
+          "Weekend",
+          "Notice",
+          "Excerpts",
+          "Questions"
+        ]
+      },
+      "ja": {
+        "title": "二重の発想花",
+        "purpose": "内側に六つの大きな方向、外側に対応する具体例を一つずつ置きます。",
+        "when": [
+          "催しの六つの必要事項を列挙し、行動を補うとき。",
+          "研究を六面に分け、それぞれ調べる例を置くとき。"
+        ],
+        "steps": [
+          "中央に核となる問いを書きます。",
+          "内側の六つに大きな観点、外側に対応する細部を書きます。",
+          "外の語が内の観点に本当に属するか確かめます。"
+        ],
+        "unsuitable": "泡は小さく短い語向けです。一つの方向に多くの細部が要るなら別のページを使います。",
+        "example": "架空の読書会を中心に、会場、本、時間、案内、資料、討論を内側に、各一例を外側に置きます。",
+        "labels": [
+          "読書会",
+          "会場",
+          "本",
+          "時間",
+          "案内",
+          "資料",
+          "討論",
+          "図書館",
+          "短編",
+          "週末",
+          "掲示",
+          "抜粋",
+          "質問"
+        ]
+      }
+    }
+  },
+  "mandala-extended": {
+    "source_type": "original-layout",
+    "source_note": "A central nine-cell square gains four separate outer continuation cards.",
+    "translations": {
+      "zh-TW": {
+        "title": "九宮加四向延伸",
+        "purpose": "先在中央九宮展開，再用四個外部小框保留下一輪方向。",
+        "when": [
+          "九宮格已填滿，仍有四個值得另頁追問的題目。",
+          "會議發想後選出四個需實際驗證的面向。"
+        ],
+        "steps": [
+          "中央格寫主題，周圍八格記第一輪想法。",
+          "在上、下、左、右外框只寫下一輪要深入的短題。",
+          "為外框各開新頁或任務，不把小框當完整筆記。"
+        ],
+        "unsuitable": "外框很窄，不適合長句；未需要第二輪展開時普通九宮較清楚。",
+        "example": "示例從虛構社區展覽出發，九宮列資源與人員，四外框留場地、預算、志工、宣傳供後續追查。",
+        "labels": [
+          "場地",
+          "作品",
+          "人員",
+          "時間",
+          "社區展覽",
+          "材料",
+          "導覽",
+          "交通",
+          "回饋",
+          "場地",
+          "預算",
+          "志工",
+          "宣傳"
+        ]
+      },
+      "en": {
+        "title": "Nine cells with four extensions",
+        "purpose": "Expand in a central nine-cell square, then reserve four outside cards for the next pass.",
+        "when": [
+          "The nine cells are full but four questions need further work.",
+          "Select four aspects to test after a brainstorming meeting."
+        ],
+        "steps": [
+          "Put the topic in the center and first-pass ideas around it.",
+          "Use the outer top, bottom, left, and right cards only for next-pass short topics.",
+          "Open a separate page or task for each extension instead of squeezing in full notes."
+        ],
+        "unsuitable": "Outer cards are narrow and cannot hold sentences; an ordinary nine-cell sheet is clearer without a second pass.",
+        "example": "A fictional neighborhood exhibition uses nine cells for resources and people, and outer cards for venue, budget, volunteers, and publicity to check.",
+        "labels": [
+          "Venue",
+          "Works",
+          "People",
+          "Time",
+          "Exhibition",
+          "Materials",
+          "Tour",
+          "Access",
+          "Feedback",
+          "Venue",
+          "Budget",
+          "Volunteers",
+          "Publicity"
+        ]
+      },
+      "ja": {
+        "title": "九マスと四方向の拡張",
+        "purpose": "中央の九マスで広げたあと、外側の四枠に次の検討方向を残します。",
+        "when": [
+          "九マスが埋まっても、さらに調べたい四つの問いがあるとき。",
+          "発想会議のあと、試すべき四面を選ぶとき。"
+        ],
+        "steps": [
+          "中央に主題、周囲に最初の考えを書きます。",
+          "上下左右の外枠には次に深める短い題だけを書きます。",
+          "外枠ごとに別のページや作業を作り、小枠を全文メモにしません。"
+        ],
+        "unsuitable": "外枠は狭く文を載せられません。次段階が不要なら普通の九マスの方が明確です。",
+        "example": "架空の地域展示会を九マスで考え、会場、予算、手伝い、周知などを外に残して調べます。",
+        "labels": [
+          "会場",
+          "作品",
+          "人",
+          "時間",
+          "地域展示",
+          "材料",
+          "案内",
+          "交通",
+          "意見",
+          "会場",
+          "予算",
+          "手伝い",
+          "周知"
+        ]
+      }
+    }
+  }
+}

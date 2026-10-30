@@ -1,0 +1,37 @@
+{
+  "id": "hypothesis-evidence",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.causal.hypothesis_evidence",
+  "source_type": "original-layout",
+  "source_note": "A top hypothesis branches to three evidence cards, then converges on a bottom assessment area.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "f13c21a6f4b257e7c3a481f6a9a3ef881a8c17ccc73b233b2815124e817686b6",
+  "titled_pdf_english_name": "Hypothesis and three evidence cards",
+  "shape_count": 23,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/hypothesis-evidence/exports/a5-draft/blank.svg",
+    "pdf": "templates/hypothesis-evidence/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hypothesis-evidence/exports/a5-draft/titled.pdf",
+    "preview": "templates/hypothesis-evidence/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hypothesis-evidence/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hypothesis-evidence/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hypothesis-evidence/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hypothesis-evidence/examples/zh-TW.svg",
+      "en": "templates/hypothesis-evidence/examples/en.svg",
+      "ja": "templates/hypothesis-evidence/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hypothesis-evidence/README.zh-TW.md",
+      "en": "templates/hypothesis-evidence/README.en.md",
+      "ja": "templates/hypothesis-evidence/README.ja.md"
+    }
+  }
+}

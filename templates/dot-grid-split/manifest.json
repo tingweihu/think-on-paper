@@ -1,0 +1,37 @@
+{
+  "id": "dot-grid-split",
+  "family": "grid-dot",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.grid_dot.dot_grid_split",
+  "source_type": "original-hybrid",
+  "source_note": "Left dot field and right square grid are separate writing behaviors on one page.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "78d848bcaf195d76093964faeafeba1575aba4045528a6429a9ae9d8687641c0",
+  "titled_pdf_english_name": "Dots beside grid",
+  "shape_count": 507,
+  "dot_count": 456,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/dot-grid-split/exports/a5-draft/blank.svg",
+    "pdf": "templates/dot-grid-split/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dot-grid-split/exports/a5-draft/titled.pdf",
+    "preview": "templates/dot-grid-split/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dot-grid-split/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dot-grid-split/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dot-grid-split/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dot-grid-split/examples/zh-TW.svg",
+      "en": "templates/dot-grid-split/examples/en.svg",
+      "ja": "templates/dot-grid-split/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dot-grid-split/README.zh-TW.md",
+      "en": "templates/dot-grid-split/README.en.md",
+      "ja": "templates/dot-grid-split/README.ja.md"
+    }
+  }
+}

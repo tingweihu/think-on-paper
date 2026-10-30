@@ -1,0 +1,39 @@
+{
+  "id": "storyboard-three",
+  "family": "storyboard",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_storyboard_three",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "parameter of storyboard-6. Panel count alone is a variant of equal sequential frames with caption bands.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "51e0d9d971e8ad8c5e3f9bd263bd270be8f12691dbe512b58f3cf39c49eb50d8",
+  "titled_pdf_english_name": "Three-panel storyboard",
+  "shape_count": 6,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/storyboard-three/exports/a5-draft/blank.svg",
+    "pdf": "templates/storyboard-three/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/storyboard-three/exports/a5-draft/titled.pdf",
+    "preview": "templates/storyboard-three/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/storyboard-three/exports/a5-contrast/blank.svg",
+      "pdf": "templates/storyboard-three/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/storyboard-three/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/storyboard-three/examples/zh-TW.svg",
+      "en": "templates/storyboard-three/examples/en.svg",
+      "ja": "templates/storyboard-three/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/storyboard-three/README.zh-TW.md",
+      "en": "templates/storyboard-three/README.en.md",
+      "ja": "templates/storyboard-three/README.ja.md"
+    }
+  },
+  "variant_of": "storyboard-6",
+  "variant_classification": "parameter"
+}

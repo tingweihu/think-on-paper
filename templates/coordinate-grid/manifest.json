@@ -1,0 +1,37 @@
+{
+  "id": "coordinate-grid",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.geometry_paper.coordinate_grid",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "Two central axes with ticks and arrows, without a full square lattice or printed values.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e0a50477632f260705e08daa83e644a63ea0dec87470ec2817b5f17998bceaf8",
+  "titled_pdf_english_name": "Unnumbered coordinate axes",
+  "shape_count": 30,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/coordinate-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/coordinate-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/coordinate-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/coordinate-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/coordinate-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/coordinate-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/coordinate-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/coordinate-grid/examples/zh-TW.svg",
+      "en": "templates/coordinate-grid/examples/en.svg",
+      "ja": "templates/coordinate-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/coordinate-grid/README.zh-TW.md",
+      "en": "templates/coordinate-grid/README.en.md",
+      "ja": "templates/coordinate-grid/README.ja.md"
+    }
+  }
+}

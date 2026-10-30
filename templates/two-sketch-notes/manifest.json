@@ -1,0 +1,39 @@
+{
+  "id": "two-sketch-notes",
+  "family": "storyboard",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_two_sketch_notes",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "parameter of storyboard-6. Two equal captioned sketch panels differ from the canonical storyboard by panel count only.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e12f77414163a0062e45ec548a83cb678b96ebbb52f8fbb7b6dde0029338976f",
+  "titled_pdf_english_name": "Two sketch notes",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/two-sketch-notes/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-sketch-notes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-sketch-notes/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-sketch-notes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-sketch-notes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-sketch-notes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-sketch-notes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-sketch-notes/examples/zh-TW.svg",
+      "en": "templates/two-sketch-notes/examples/en.svg",
+      "ja": "templates/two-sketch-notes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-sketch-notes/README.zh-TW.md",
+      "en": "templates/two-sketch-notes/README.en.md",
+      "ja": "templates/two-sketch-notes/README.ja.md"
+    }
+  },
+  "variant_of": "storyboard-6",
+  "variant_classification": "parameter"
+}

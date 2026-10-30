@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="16.000" y="25.000" width="34.000" height="29.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="52.000" y1="39.500" x2="91.000" y2="105.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="87.749" y2="102.862" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="90.670" y2="101.123" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="16.000" y="90.500" width="34.000" height="29.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="52.000" y1="105.000" x2="91.000" y2="105.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="87.500" y2="106.700" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="87.500" y2="103.300" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="16.000" y="156.000" width="34.000" height="29.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="52.000" y1="170.500" x2="91.000" y2="105.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="90.670" y2="108.877" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="91.000" y1="105.000" x2="87.749" y2="107.138" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="93.000" y="82.000" width="42.000" height="46.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="19.000" y="42.000">People</text>
+<text x="19.000" y="107.500">Books</text>
+<text x="19.000" y="173.000">Venue</text>
+<text x="97.000" y="107.000">Small trial</text>
+</g>
+</svg>

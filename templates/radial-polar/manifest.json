@@ -1,0 +1,37 @@
+{
+  "id": "radial-polar",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.geometry_paper.radial_polar",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "Concentric circles and twelve rays form radial placement zones without printed numbers or angles.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "134d9051ebd07a0105339333448ce5e70115685a7da31d30f28c818136ba0fa1",
+  "titled_pdf_english_name": "Radial polar paper",
+  "shape_count": 16,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/radial-polar/exports/a5-draft/blank.svg",
+    "pdf": "templates/radial-polar/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/radial-polar/exports/a5-draft/titled.pdf",
+    "preview": "templates/radial-polar/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/radial-polar/exports/a5-contrast/blank.svg",
+      "pdf": "templates/radial-polar/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/radial-polar/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/radial-polar/examples/zh-TW.svg",
+      "en": "templates/radial-polar/examples/en.svg",
+      "ja": "templates/radial-polar/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/radial-polar/README.zh-TW.md",
+      "en": "templates/radial-polar/README.en.md",
+      "ja": "templates/radial-polar/README.ja.md"
+    }
+  }
+}

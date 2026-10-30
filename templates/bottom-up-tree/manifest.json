@@ -1,0 +1,39 @@
+{
+  "id": "bottom-up-tree",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_bottom_up_tree",
+  "source_type": "common-geometry",
+  "source_note": "parameter of top-down-tree. Reading the same hierarchy upward is an orientation and interpretation variant.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "1e98c12d25fb4aba01079d09595065d24dfa2956f8668cb86795822444e84f00",
+  "titled_pdf_english_name": "Bottom-up tree",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/bottom-up-tree/exports/a5-draft/blank.svg",
+    "pdf": "templates/bottom-up-tree/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/bottom-up-tree/exports/a5-draft/titled.pdf",
+    "preview": "templates/bottom-up-tree/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/bottom-up-tree/exports/a5-contrast/blank.svg",
+      "pdf": "templates/bottom-up-tree/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/bottom-up-tree/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/bottom-up-tree/examples/zh-TW.svg",
+      "en": "templates/bottom-up-tree/examples/en.svg",
+      "ja": "templates/bottom-up-tree/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/bottom-up-tree/README.zh-TW.md",
+      "en": "templates/bottom-up-tree/README.en.md",
+      "ja": "templates/bottom-up-tree/README.ja.md"
+    }
+  },
+  "variant_of": "top-down-tree",
+  "variant_classification": "parameter"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mindmap-and-ruled",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.mindmap_and_ruled",
+  "source_type": "original-layout",
+  "source_note": "A compact radial concept graph occupies the upper page and a ruled reflection field occupies the lower page.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "dfa63b899a1f62da42dadfe738458635307e3073a75713ae5cad94f39aeff405",
+  "titled_pdf_english_name": "Concept map with ruled notes",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/mindmap-and-ruled/exports/a5-draft/blank.svg",
+    "pdf": "templates/mindmap-and-ruled/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mindmap-and-ruled/exports/a5-draft/titled.pdf",
+    "preview": "templates/mindmap-and-ruled/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mindmap-and-ruled/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mindmap-and-ruled/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mindmap-and-ruled/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mindmap-and-ruled/examples/zh-TW.svg",
+      "en": "templates/mindmap-and-ruled/examples/en.svg",
+      "ja": "templates/mindmap-and-ruled/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mindmap-and-ruled/README.zh-TW.md",
+      "en": "templates/mindmap-and-ruled/README.en.md",
+      "ja": "templates/mindmap-and-ruled/README.ja.md"
+    }
+  }
+}

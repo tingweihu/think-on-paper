@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="34.000" width="24.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="39.000" y1="49.000" x2="46.000" y2="49.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="46.000" y1="49.000" x2="42.500" y2="50.700" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="46.000" y1="49.000" x2="42.500" y2="47.300" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="47.000" y="34.000" width="24.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="72.000" y1="49.000" x2="79.000" y2="49.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="79.000" y1="49.000" x2="75.500" y2="50.700" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="79.000" y1="49.000" x2="75.500" y2="47.300" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="80.000" y="34.000" width="24.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.000" y1="49.000" x2="112.000" y2="49.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="112.000" y1="49.000" x2="108.500" y2="50.700" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="112.000" y1="49.000" x2="108.500" y2="47.300" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="113.000" y="34.000" width="24.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="95.000" x2="137.000" y2="95.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="51.000">探す</text>
+<text x="50.000" y="51.000">借りる</text>
+<text x="83.000" y="51.000">読む</text>
+<text x="116.000" y="51.000">返す</text>
+<text x="21.000" y="119.000">未所蔵・延滞</text>
+</g>
+</svg>

@@ -1,0 +1,218 @@
+{
+  "quadrant-center-circle": {
+    "source_type": "original-layout",
+    "source_note": "Four open sectors connect to a distinct central synthesis circle.",
+    "translations": {
+      "zh-TW": {
+        "title": "中心整合四象限",
+        "purpose": "先分四區整理觀點，再把共同結論放進中央圓。",
+        "when": [
+          "從四種參與者角度整合一個活動需求。",
+          "比較四類觀察後找出共同問題。"
+        ],
+        "steps": [
+          "先替四個區域各決定一個觀點。",
+          "在各區放短句與尚待查證的資訊。",
+          "只把四區都支持的結論或下一個共同問題寫在中央圓。"
+        ],
+        "unsuitable": "中央圓很小，不能當長篇總結；若四區彼此無關，強迫整合會失真。",
+        "example": "示例把虛構讀書會的場地、材料、人員、時間放四區，中央寫共同的『先試辦』決定。",
+        "labels": [
+          "先試辦",
+          "場地",
+          "材料",
+          "人員",
+          "時間"
+        ]
+      },
+      "en": {
+        "title": "Four sectors with central synthesis",
+        "purpose": "Sort four perspectives and place a shared conclusion in the center circle.",
+        "when": [
+          "Combine four participant views of an event need.",
+          "Look for a common issue across four observation types."
+        ],
+        "steps": [
+          "Assign a different perspective to each outer sector.",
+          "Add short statements and information still to verify.",
+          "Put only a genuinely shared conclusion or next question in the center."
+        ],
+        "unsuitable": "The center is too small for a long summary; forcing unrelated sectors into agreement can mislead.",
+        "example": "A fictional reading group puts venue, materials, people, and timing outside, with a shared decision to run a small trial in the middle.",
+        "labels": [
+          "Small trial",
+          "Venue",
+          "Materials",
+          "People",
+          "Time"
+        ]
+      },
+      "ja": {
+        "title": "中心で統合する四象限",
+        "purpose": "四つの観点を分け、共通する結論を中央の円に置きます。",
+        "when": [
+          "催しについて四種類の参加者の見方をまとめるとき。",
+          "四種類の観察から共通の課題を探すとき。"
+        ],
+        "steps": [
+          "外側の四領域に異なる観点を割り当てます。",
+          "各領域に短い記述と確認事項を書きます。",
+          "四領域で本当に共有できる結論か次の問いだけを中央に置きます。"
+        ],
+        "unsuitable": "中央は小さく長い要約は入りません。無関係な四領域を無理に統合すると誤解を招きます。",
+        "example": "架空の読書会で会場、材料、人、時間を外に置き、中央に小規模で試すという共通決定を書いています。",
+        "labels": [
+          "小さく試す",
+          "会場",
+          "材料",
+          "人",
+          "時間"
+        ]
+      }
+    }
+  },
+  "matrix-2x3": {
+    "source_type": "generic-geometry",
+    "source_note": "A contiguous two-row, three-column six-cell matrix with no prescribed labels.",
+    "translations": {
+      "zh-TW": {
+        "title": "二列三欄矩陣",
+        "purpose": "用六個相連格記兩類條件與三種選項的交會。",
+        "when": [
+          "比較三個場地在設備與交通兩項條件下的情況。",
+          "整理三篇資料對兩個問題的回應。"
+        ],
+        "steps": [
+          "先在紙上自訂兩列與三欄的意思。",
+          "每格只記該列與該欄交會的短證據。",
+          "橫向與縱向各讀一次，找出資料缺口。"
+        ],
+        "unsuitable": "每格寬度有限，不宜放完整段落；若需要精確分數請標明單位。",
+        "example": "示例把虛構讀書會的圖書館、社區中心、戶外亭放三欄，設備與交通放兩列。",
+        "labels": [
+          "館：投影設備",
+          "中心：音響",
+          "亭：無設備",
+          "館：步行5分",
+          "中心：車程15分",
+          "亭：步行30分"
+        ]
+      },
+      "en": {
+        "title": "Two-by-three matrix",
+        "purpose": "Use six adjoining cells for the intersection of two criteria and three options.",
+        "when": [
+          "Compare equipment and access for three venues.",
+          "Record how three sources answer two questions."
+        ],
+        "steps": [
+          "Define what the two rows and three columns mean on your own sheet.",
+          "Put brief evidence for each row-column intersection in its cell.",
+          "Read across and down to find missing information."
+        ],
+        "unsuitable": "Cells are too narrow for paragraphs; numerical scores need stated units.",
+        "example": "A fictional reading group compares library, community center, and pavilion across equipment and travel access.",
+        "labels": [
+          "Library: projector",
+          "Center: audio",
+          "Pavilion: none",
+          "Library: 5 min walk",
+          "Center: 15 min ride",
+          "Pavilion: 30 min walk"
+        ]
+      },
+      "ja": {
+        "title": "二行三列のマトリクス",
+        "purpose": "二つの条件と三つの選択肢が交わる六つのマスに記録します。",
+        "when": [
+          "三会場を設備と交通の二条件で比べるとき。",
+          "三資料が二つの問いにどう答えるか整理するとき。"
+        ],
+        "steps": [
+          "二行と三列が表すものを自分で決めます。",
+          "各交点のマスに短い根拠だけを書きます。",
+          "横と縦の両方向に読み、情報の欠けを探します。"
+        ],
+        "unsuitable": "マスは段落には狭く、数値評価には単位の明示が必要です。",
+        "example": "架空の読書会で図書館、地域センター、東屋を三列に、設備と交通を二行に置いています。",
+        "labels": [
+          "図書館：投影",
+          "施設：音響",
+          "東屋：設備なし",
+          "図書館：徒歩5分",
+          "施設：車で15分",
+          "東屋：徒歩30分"
+        ]
+      }
+    }
+  },
+  "quadrant-rings": {
+    "source_type": "original-layout",
+    "source_note": "Four directional sectors crossed by inner and outer radial levels.",
+    "translations": {
+      "zh-TW": {
+        "title": "環帶四象限",
+        "purpose": "同時用方向分區與距中心遠近兩層整理內容。",
+        "when": [
+          "比較四方位的近程與遠程觀察。",
+          "把四類工作分成先處理與後處理兩層。"
+        ],
+        "steps": [
+          "先自訂四個方向各代表什麼。",
+          "再決定內圈與外圈分別代表近遠或優先層級。",
+          "把項目放進扇區，回看分類邊界上的例外。"
+        ],
+        "unsuitable": "圓環面積不能代表數量；項目太多時扇區也會變得擁擠。",
+        "example": "示例把虛構社區花園的四方位分區，每區內圈記近期可做的事、外圈記待協調事項。",
+        "labels": [
+          "北：近期",
+          "東：待協調",
+          "西：近期",
+          "南：待協調"
+        ]
+      },
+      "en": {
+        "title": "Quadrants with rings",
+        "purpose": "Classify by direction and by two levels of distance or priority at once.",
+        "when": [
+          "Compare near and far observations in four directions.",
+          "Split four work categories into sooner and later layers."
+        ],
+        "steps": [
+          "Define what each of the four directions means.",
+          "Decide whether inner and outer rings represent distance or priority.",
+          "Place items in sectors and revisit those near a boundary."
+        ],
+        "unsuitable": "Ring area does not encode quantity, and crowded sectors lose clarity.",
+        "example": "A fictional community garden uses four directions; inner cells hold near-term tasks and outer cells matters requiring coordination.",
+        "labels": [
+          "North: soon",
+          "East: later",
+          "West: soon",
+          "South: later"
+        ]
+      },
+      "ja": {
+        "title": "環状の四象限",
+        "purpose": "方向による四分類と中心からの二段階を同時に使います。",
+        "when": [
+          "四方向の近い場所と遠い場所の観察を比べるとき。",
+          "四種類の作業を早期と後期の二層に分けるとき。"
+        ],
+        "steps": [
+          "四方向が何を表すか自分で決めます。",
+          "内側と外側を距離か優先度のどちらに使うか決めます。",
+          "項目を扇形に置き、境界付近の例外を見直します。"
+        ],
+        "unsuitable": "円の面積は数量を示さず、項目が多いと領域が窮屈になります。",
+        "example": "架空の地域菜園で四方向に分け、内側に近く行う作業、外側に調整待ちの事項を置きます。",
+        "labels": [
+          "北：近日",
+          "東：調整",
+          "西：近日",
+          "南：調整"
+        ]
+      }
+    }
+  }
+}

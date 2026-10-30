@@ -1,0 +1,50 @@
+{
+  "flow-four-horizontal": {
+    "source_type": "generic-geometry", "source_note": "Four equal left-to-right steps with arrow connectors; count and direction are parameters.",
+    "translations": {
+      "zh-TW": {"title": "四步橫向流程", "purpose": "把一件事寫成從左到右的四個連續動作。", "when": ["說明借書的主要步驟。", "檢查簡短活動的準備順序。"], "steps": ["先寫出起點與終點。", "把中間兩步填入方框，讓箭頭代表實際先後。", "通讀一次，確認是否有跳過的必要步驟。"], "unsuitable": "分岔、回圈或多角色責任無法由單一路徑充分表示。", "example": "示例用虛構圖書館借書流程：查找、取書、辦理、帶走。", "labels": ["查找", "取書", "辦理", "帶走"]},
+      "en": {"title": "Four-step horizontal flow", "purpose": "Show one process as four actions from left to right.", "when": ["Explain the main steps of borrowing a book.", "Check the order of preparation for a short event."], "steps": ["Name the start and the desired end.", "Fill the two middle boxes so the arrows reflect actual order.", "Read the sequence once to find a missing necessary step."], "unsuitable": "A single path cannot fully describe branching, loops, or several responsible roles.", "example": "A fictional library loan moves through search, pickup, checkout, and departure.", "labels": ["Search", "Pick up", "Check out", "Leave"]},
+      "ja": {"title": "四段階の横向きフロー", "purpose": "一つの作業を左から右へ四つの動作で示します。", "when": ["本を借りる主な手順を説明するとき。", "短い催しの準備順序を確かめるとき。"], "steps": ["始まりと終わりを決めます。", "途中の二段階を枠に入れ、矢印が実際の順序を示すようにします。", "通して読み、必要な手順が抜けていないか確かめます。"], "unsuitable": "分岐、循環、複数の担当者は一本道では十分に表せません。", "example": "架空の図書館で検索、取り出し、貸出手続き、持ち帰りを並べています。", "labels": ["検索", "本を取る", "貸出", "持ち帰る"]}
+    }
+  },
+  "flow-six-snake": {
+    "source_type": "original-layout", "source_note": "Six steps change direction at the row end, forming a two-row snake topology.",
+    "translations": {
+      "zh-TW": {"title": "六步折返流程", "purpose": "用上下兩排六個節點表示在頁面右側折返的連續過程。", "when": ["描述有六個階段的活動準備。", "畫出服務流程中從申請到回饋的完整一輪。"], "steps": ["先沿上排由左到右寫前三步。", "循右側箭頭下移，沿下排由右到左寫後三步。", "檢查折返處與最後一步是否清楚，不要把閱讀順序誤作兩條流程。"], "unsuitable": "有分岔或並行工作時，蛇形單一路徑會隱藏真實依賴。", "example": "示例是虛構社區工作坊：提出想法、找場地、邀請、準備材料、舉辦、收集回饋。", "labels": ["提出想法", "找場地", "邀請", "收集回饋", "舉辦", "備材料"]},
+      "en": {"title": "Six-step snake flow", "purpose": "Follow six steps across two rows with a turn at the right edge.", "when": ["Describe six stages of event preparation.", "Map a service from application through feedback."], "steps": ["Write the first three steps left to right across the top.", "Follow the right-hand downward arrow and write the last three right to left below.", "Check the turn and endpoint so readers see one path, not two independent rows."], "unsuitable": "Branching or parallel work is obscured by a single snake path.", "example": "A fictional community workshop moves from idea and venue to invitation, materials, event, and feedback.", "labels": ["Propose", "Find venue", "Invite", "Feedback", "Hold event", "Materials"]},
+      "ja": {"title": "六段階の折返しフロー", "purpose": "上段から右で折り返す二段六節点で連続した過程を示します。", "when": ["六段階の催しの準備を説明するとき。", "申込から感想までのサービスの一巡を描くとき。"], "steps": ["上段を左から右へ三段階書きます。", "右の下向き矢印に従い、下段を右から左へ三段階書きます。", "折返しと終点を確認し、二本の独立した流れと誤解されないようにします。"], "unsuitable": "分岐や並行作業を一つの蛇行線にすると本当の依存関係が隠れます。", "example": "架空の地域ワークショップで発案、会場、案内、材料、開催、感想を順に示します。", "labels": ["発案", "会場", "案内", "感想", "開催", "材料"]}
+    }
+  },
+  "cycle-four": {
+    "source_type": "generic-geometry", "source_note": "Four circular nodes and directed links form a loop rather than a finite line.",
+    "translations": {
+      "zh-TW": {"title": "四段循環", "purpose": "用四個節點表示會回到起點的反覆過程。", "when": ["整理觀察、調整、試行與回顧的反覆工作。", "說明材料再使用的簡化循環。"], "steps": ["從任一節點開始，先寫一輪的四個動作。", "沿箭頭檢查每一步如何引出下一步。", "說明何時停止或重新開始，不要把循環誤當永久保證。"], "unsuitable": "有明確終點或不可逆階段的流程，不該被畫成永遠回圈。", "example": "示例是虛構社區活動的觀察、提案、試辦、回顧，再回到觀察。", "labels": ["觀察", "提案", "試辦", "回顧"]},
+      "en": {"title": "Four-stage cycle", "purpose": "Show a repeatable process that returns from the fourth stage to the first.", "when": ["Organize observe, adjust, try, and review work.", "Explain a simplified material reuse loop."], "steps": ["Start at any node and name four actions in one pass.", "Follow the arrows and explain what leads to the next action.", "State when the loop stops or restarts rather than assuming endless repetition."], "unsuitable": "A process with a final endpoint or irreversible stage should not be drawn as a perpetual cycle.", "example": "A fictional neighborhood activity moves through observe, propose, pilot, and review before observing again.", "labels": ["Observe", "Propose", "Pilot", "Review"]},
+      "ja": {"title": "四段階の循環", "purpose": "四番目から最初へ戻る繰り返しの過程を示します。", "when": ["観察、調整、試行、振り返りを繰り返す仕事を整理するとき。", "材料の再利用を簡単な循環で説明するとき。"], "steps": ["どこから始めるか決め、一巡の四動作を書きます。", "矢印をたどり、次に進む理由を確認します。", "いつ止めるか、再開するかを明示し、永遠の循環だと決めつけません。"], "unsuitable": "終点や元に戻れない段階がある過程を永久循環として描いてはいけません。", "example": "架空の地域活動で観察、提案、試行、振り返りを経て再び観察します。", "labels": ["観察", "提案", "試行", "振り返り"]}
+    }
+  },
+  "decision-tree": {
+    "source_type": "traditional-format-adaptation", "source_note": "One root branches to two intermediate decisions and four leaves; no outcomes are preprinted.",
+    "translations": {
+      "zh-TW": {"title": "二層決策樹", "purpose": "從一個問題分出兩個判斷，再抵達四個可能結果。", "when": ["討論活動在不同天候下的備案。", "設計服務問題的簡單排查步驟。"], "steps": ["在頂端寫可回答的起始問題。", "第二層各放一個分岔條件，確認分岔互斥或清楚。", "在四個底端寫相應行動，逐路徑讀回起點。"], "unsuitable": "複雜決策、概率或權重不會由這張樹自動計算；太多條件也會擠滿 A5。", "example": "示例以虛構戶外讀書會為根，先分天候，再分場地可用性，底端寫四種安排。", "labels": ["戶外活動？", "天氣可行", "需要備案", "戶外舉辦", "改室內", "縮短活動", "另擇日期"]},
+      "en": {"title": "Two-level decision tree", "purpose": "Branch one question into two checks and four possible actions.", "when": ["Plan weather backups for an event.", "Sketch a simple service troubleshooting route."], "steps": ["Put an answerable starting question at the top.", "Give the middle branches clear, preferably exclusive conditions.", "Write an action at each leaf and read every route back to the root."], "unsuitable": "The tree does not calculate probabilities or weights; too many conditions also crowd an A5 page.", "example": "A fictional outdoor reading group branches by weather and venue availability, ending in four arrangements.", "labels": ["Outdoor event?", "Weather OK", "Need backup", "Hold outside", "Move inside", "Shorten", "Reschedule"]},
+      "ja": {"title": "二層の判断ツリー", "purpose": "一つの問いから二つの判断を経て四つの行動へ分けます。", "when": ["天候による催しの代案を考えるとき。", "サービスの簡単な問題切り分けを設計するとき。"], "steps": ["答えられる始まりの問いを一番上に書きます。", "中段に明確な分岐条件を置き、条件が重なりすぎないか確かめます。", "下段に行動を書き、各経路を根元まで読み戻します。"], "unsuitable": "確率や重みは自動計算されず、条件が多いとA5では窮屈です。", "example": "架空の屋外読書会を天候と会場の空きで分け、四つの対応にたどり着く例です。", "labels": ["屋外で開催？", "天候がよい", "代案が必要", "屋外開催", "屋内へ", "短縮", "日程変更"]}
+    }
+  },
+  "swimlane-flow": {
+    "source_type": "traditional-format-adaptation", "source_note": "Three horizontal lanes distinguish responsibility while diagonal arrows show handoffs.",
+    "translations": {
+      "zh-TW": {"title": "三泳道交接流程", "purpose": "把三個角色的工作放在不同橫帶，沿箭頭看交接。", "when": ["整理活動主辦、場地與志工的任務。", "記錄一份文件在三個處理者間的流轉。"], "steps": ["先替三條泳道各指定一個角色。", "在各帶寫該角色負責的動作。", "沿斜箭頭檢查交接資訊與下一步是否清楚。"], "unsuitable": "若同一時間有多條並行支線，這張簡化頁不足以完整表達。", "example": "示例由虛構主辦者提出需求、場地確認時段、志工準備材料，依序交接。", "labels": ["提出需求", "確認時段", "準備材料"]},
+      "en": {"title": "Three-lane handoff flow", "purpose": "Separate three roles into horizontal lanes and follow their handoffs with arrows.", "when": ["Sort tasks among event organizers, venue staff, and volunteers.", "Track a document passing through three handlers."], "steps": ["Assign one role to each lane.", "Write the action owned by that role in its lane.", "Follow each diagonal arrow and check what information the next role needs."], "unsuitable": "Several parallel branches at once need a more detailed process map.", "example": "A fictional organizer requests a venue, staff confirm a time, and volunteers prepare materials in sequence.", "labels": ["Request venue", "Confirm time", "Prepare materials"]},
+      "ja": {"title": "三つのレーンの引継ぎ", "purpose": "三役の仕事を横の帯で分け、矢印で引継ぎを追います。", "when": ["主催者、会場、手伝いの仕事を整理するとき。", "書類が三人の担当者を通る流れを記録するとき。"], "steps": ["各レーンに一人の役割を割り当てます。", "その役割の動作を対応する帯に書きます。", "斜めの矢印をたどり、次の担当者に必要な情報を確かめます。"], "unsuitable": "同時に複数の枝が走る複雑な工程には、より詳しい図が必要です。", "example": "架空の主催者が会場を依頼し、会場側が時間を確認し、手伝いが材料を用意する流れです。", "labels": ["会場を依頼", "時間を確認", "材料を準備"]}
+    }
+  },
+  "converging-flow": {
+    "source_type": "generic-geometry", "source_note": "Three separate inputs point toward one larger output node.",
+    "translations": {
+      "zh-TW": {"title": "三路匯流", "purpose": "把三項輸入收束到一個共同結果或決定。", "when": ["綜合三份資料形成待驗證結論。", "從人員、材料與場地條件規劃一場活動。"], "steps": ["左側三框各寫一項不同輸入。", "沿箭頭確認每項如何影響右側結果。", "在結果框寫目前能支持的暫定結論，標出缺失資訊。"], "unsuitable": "箭頭只表示資訊流，不證明三項因素有因果關係；需要回饋迴路時另選循環圖。", "example": "示例把虛構讀書會的人員、書目、場地匯入一次小型試辦計畫。", "labels": ["人員", "書目", "場地", "小型試辦"]},
+      "en": {"title": "Three inputs converge", "purpose": "Bring three inputs together toward one shared result or provisional decision.", "when": ["Combine three sources into a conclusion still to verify.", "Plan a gathering from people, materials, and venue conditions."], "steps": ["Give each left box a different input.", "Follow each arrow and explain how its input informs the right-hand result.", "Write only what the current information supports in the result box and mark gaps."], "unsuitable": "Arrows show information flow, not proven causation; a feedback loop needs a cycle diagram.", "example": "People, book choices, and venue feed a small trial plan for a fictional reading group.", "labels": ["People", "Books", "Venue", "Small trial"]},
+      "ja": {"title": "三方向からの合流", "purpose": "三つの入力を一つの結果や暫定的な判断へ集めます。", "when": ["三資料を合わせて確認待ちの結論を作るとき。", "人、材料、会場の条件から催しを計画するとき。"], "steps": ["左の三枠に異なる入力を書きます。", "各矢印をたどり、右側の結果にどう関係するか説明します。", "結果欄には今言えることだけを書き、不足情報に印を付けます。"], "unsuitable": "矢印は情報の流れで、因果関係の証明ではありません。戻りがあるなら循環図を使います。", "example": "架空の読書会で人、本、会場を小規模な試行計画へまとめます。", "labels": ["人", "本", "会場", "小さく試す"]}
+    }
+  }
+}

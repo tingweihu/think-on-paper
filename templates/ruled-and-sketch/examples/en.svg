@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="14.000" y1="118.020" x2="137.000" y2="118.020" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="20.000" x2="137.000" y2="20.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="28.000" x2="137.000" y2="28.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="36.000" x2="137.000" y2="36.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="44.000" x2="137.000" y2="44.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="52.000" x2="137.000" y2="52.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="60.000" x2="137.000" y2="60.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="68.000" x2="137.000" y2="68.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="76.000" x2="137.000" y2="76.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="84.000" x2="137.000" y2="84.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="92.000" x2="137.000" y2="92.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="100.000" x2="137.000" y2="100.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="108.000" x2="137.000" y2="108.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="116.000" x2="137.000" y2="116.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(34.00 141.00) scale(0.83000 0.47000)"><path d="M14 20 L48 20 L53 38 L82 38 M70 38 L70 70 Q70 79 58 79 H38 Q28 79 28 70 V48"/><rect x="50" y="34" width="13" height="9"/><path d="M34 61 H65 M48 34 V22"/></g>
+</g>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="30.000">Inlet and filter position</text>
+<text x="17.000" y="138.020">Rain collector sketch</text>
+</g>
+</svg>

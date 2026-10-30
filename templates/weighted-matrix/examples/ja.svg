@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="186.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="47.210" y1="12.000" x2="47.210" y2="198.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="93.950" y1="12.000" x2="93.950" y2="198.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="75.240" x2="137.000" y2="75.240" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">図書館：投影</text>
+<text x="17.000" y="91.240">施設：音響</text>
+<text x="50.210" y="28.000">東屋：設備なし</text>
+<text x="50.210" y="91.240">図書館：無料</text>
+<text x="96.950" y="28.000">施設：低料金</text>
+<text x="96.950" y="91.240">東屋：無料</text>
+</g>
+</svg>

@@ -1,0 +1,50 @@
+{
+  "triangular-grid": {
+    "source_type": "traditional-paper", "source_note": "Equilateral triangular lattice with three line directions; spacing remains provisional.",
+    "translations": {
+      "zh-TW": {"title": "三角網格", "purpose": "用三方向等距線條草擬斜向構造與三角分割。", "when": ["畫三角形拼接的材料配置。", "比較不同斜向支撐的草圖。"], "steps": ["先選一個三角邊長代表的暫定尺度。", "沿三個線向畫輪廓，避免把縮圖當精密量測。", "在格外記下需實測的角度與尺寸。"], "unsuitable": "長篇筆記或矩形表格不易沿三角格閱讀；尚未標定的網格不能替代製圖工具。", "example": "示例用三角網格標出虛構展架的三個支撐點和一條斜撐，旁邊保留待測尺寸。", "labels": ["支撐點 A", "斜撐", "待測尺寸"]},
+      "en": {"title": "Triangular grid", "purpose": "Use three equally spaced line directions to draft diagonal structures and triangular divisions.", "when": ["Sketch a surface built from triangular pieces.", "Compare diagonal bracing ideas."], "steps": ["Choose a provisional meaning for one triangle side.", "Trace outlines along the three directions without treating the thumbnail as a precise measure.", "Write down angles and dimensions that still need measurement."], "unsuitable": "Long prose and rectangular tables are awkward on triangles; an uncalibrated grid does not replace drafting tools.", "example": "A fictional display stand marks three support points and a diagonal brace, leaving its dimensions to measure.", "labels": ["Support A", "Diagonal brace", "Measure size"]},
+      "ja": {"title": "三角方眼", "purpose": "三方向の等間隔線で斜めの構造や三角形の分割を下描きします。", "when": ["三角形の部材を組み合わせる配置を描くとき。", "斜めの支え方を比べるとき。"], "steps": ["三角形の一辺が表す仮の尺度を決めます。", "三方向の線に沿って輪郭を描き、縮図を精密な測定と混同しません。", "実測が必要な角度や寸法を別に記します。"], "unsuitable": "長文や長方形の表は読みづらく、尺度未確認の方眼は製図道具の代わりにはなりません。", "example": "架空の展示台で三つの支点と斜めの補強を描き、寸法は後で測る例です。", "labels": ["支点 A", "斜めの補強", "寸法を測る"]}
+    }
+  },
+  "hex-grid": {
+    "source_type": "traditional-paper-adaptation", "source_note": "Contiguous hexagonal cells are drawn from a reusable lattice; shared edges are rendered once.",
+    "translations": {
+      "zh-TW": {"title": "六角蜂巢格", "purpose": "用相鄰六角格描述鄰接、群聚與路徑。", "when": ["比較哪些展位彼此相鄰。", "草擬桌面遊戲的區域與移動路徑。"], "steps": ["先決定每個六角格代表一個地點、物件或狀態。", "在相鄰格中放入相關項目，沿共同邊標記可通行關係。", "最後檢查是否有必須跨格說明的例外。"], "unsuitable": "六角格不適合逐列長文或精確矩形測量；格距仍是暫定值。", "example": "示例把虛構展區的入口、展示台與休息處放入相鄰蜂巢格，再描出一條參觀路徑。", "labels": ["入口", "展示台", "休息處"]},
+      "en": {"title": "Hexagonal grid", "purpose": "Use neighboring hexagonal cells to show adjacency, clusters, and routes.", "when": ["Compare which exhibition booths touch one another.", "Draft regions and movement for a tabletop game."], "steps": ["Decide what each hexagon represents: a place, object, or state.", "Put related items in neighboring cells and mark movement across shared edges.", "Check for exceptions that need an explanation outside the cells."], "unsuitable": "Hexagons do not support long rows of prose or exact rectangular measurement; cell size is provisional.", "example": "A fictional exhibition puts an entrance, displays, and rest area in adjacent cells, then sketches a visitor route.", "labels": ["Entrance", "Displays", "Rest area"]},
+      "ja": {"title": "六角形の格子", "purpose": "隣り合う六角形で接続、まとまり、通る道を表します。", "when": ["展示ブース同士の隣接を比べるとき。", "卓上ゲームの領域と移動を下描きするとき。"], "steps": ["一つの六角形が場所、物、状態のどれを表すか決めます。", "関連する項目を隣のマスに置き、共有する辺を通る関係を示します。", "マスをまたぐ例外があれば別に説明を加えます。"], "unsuitable": "長文を行ごとに書く用途や正確な長方形の測定には向きません。マスの大きさは暫定です。", "example": "架空の展示会で入口、展示台、休憩場所を隣接したマスに置き、見学経路を描く例です。", "labels": ["入口", "展示台", "休憩場所"]}
+    }
+  },
+  "rhombus-grid": {
+    "source_type": "traditional-paper-adaptation", "source_note": "Two crossed diagonal line families make diamond cells, distinct from three-axis triangular paper.",
+    "translations": {
+      "zh-TW": {"title": "菱形網格", "purpose": "以兩組交叉斜線形成菱形，方便觀察旋轉後的方格配置。", "when": ["試畫斜向鋪排的圖案。", "比較物件正放與斜放時的占位。"], "steps": ["先選一個菱格作為配置單位。", "沿斜線畫出邊界與重複方向。", "檢查圖案是否需要另外標註水平或垂直基準。"], "unsuitable": "若主要內容是水平文字或直角座標，菱形斜線會增加閱讀負擔。", "example": "示例用菱格草擬虛構地磚的斜向排列，標出入口與轉角位置。", "labels": ["入口", "斜向地磚", "轉角"]},
+      "en": {"title": "Rhombus grid", "purpose": "Cross two diagonal line families to study diamond cells and rotated square arrangements.", "when": ["Try a diagonal tiling pattern.", "Compare how an object occupies space when placed straight or at an angle."], "steps": ["Choose one diamond as a placement unit.", "Trace boundaries and repeats along the diagonal lines.", "Decide whether a separate horizontal or vertical reference must be noted."], "unsuitable": "Diagonal cells burden horizontal prose or right-angle coordinates.", "example": "A fictional floor-tile layout uses diamonds for its angled repeat and marks the entrance and turning point.", "labels": ["Entrance", "Angled tiles", "Turn"]},
+      "ja": {"title": "ひし形方眼", "purpose": "交差する二組の斜線でひし形を作り、傾けた配置を考えます。", "when": ["斜めに並ぶ敷き方を試すとき。", "物を正面向きと斜め向きに置いた場合を比べるとき。"], "steps": ["ひし形一つを配置の単位として選びます。", "斜線に沿って境界と繰り返す方向を描きます。", "水平や垂直の基準を別に書く必要があるか確かめます。"], "unsuitable": "横書きの文章や直角座標を中心に使う場合、斜線が読みづらさを増します。", "example": "架空の床タイルを斜めに並べ、入口と曲がる位置を示しています。", "labels": ["入口", "斜めのタイル", "曲がり角"]}
+    }
+  },
+  "diagonal-guides": {
+    "source_type": "original-layout", "source_note": "Four broad horizontal drawing bands with a single diagonal trajectory in each; not a dense diagonal lattice.",
+    "translations": {
+      "zh-TW": {"title": "分帶斜向導線", "purpose": "以四段寬帶中的斜線協助草擬方向、坡度與變化。", "when": ["比較四種坡道或物件傾斜方式。", "在不同區段畫出視線移動方向。"], "steps": ["讓每段只處理一種斜向構想。", "沿導線畫主要方向，旁邊補上起點和終點。", "比較四段後挑出需要實測的坡度。"], "unsuitable": "稀疏導線不能直接計算角度，也不適合填滿整頁的密集格圖。", "example": "示例在四段中比較虛構展場的四種引導路線，分別記起點與終點。", "labels": ["入口到展台", "展台到休息區", "休息區到出口", "替代路線"]},
+      "en": {"title": "Banded diagonal guides", "purpose": "Use a diagonal in each of four broad bands to draft direction, slope, or change.", "when": ["Compare four ramp or object tilts.", "Show a viewer's movement direction across different sections."], "steps": ["Give each band one diagonal idea.", "Draw the main direction along its guide and note start and end points.", "Compare the four bands and select slopes that need real measurement."], "unsuitable": "Sparse guides cannot calculate angles and are not a dense all-page grid.", "example": "Four fictional exhibition routes are compared by drawing where each begins and ends.", "labels": ["Entry to display", "Display to rest", "Rest to exit", "Alternative route"]},
+      "ja": {"title": "帯状の斜めガイド", "purpose": "四つの広い帯の斜線を使い、方向や傾きの案を描きます。", "when": ["四つの坂道や物の傾き方を比べるとき。", "区間ごとの視線の移動方向を描くとき。"], "steps": ["各帯では一つの斜め方向の案だけを扱います。", "ガイドに沿って方向を描き、始点と終点を補います。", "四案を比べ、実測すべき傾きを選びます。"], "unsuitable": "まばらな線だけでは角度を計算できず、全面の細かな格子にもなりません。", "example": "架空の展示会場で四つの誘導経路を比べ、それぞれの始点と終点を記しています。", "labels": ["入口から展示へ", "展示から休憩へ", "休憩から出口へ", "別の経路"]}
+    }
+  },
+  "radial-polar": {
+    "source_type": "traditional-paper-adaptation", "source_note": "Concentric circles and twelve rays form radial placement zones without printed numbers or angles.",
+    "translations": {
+      "zh-TW": {"title": "放射極座標紙", "purpose": "用同心圓與放射線整理距離中心的層次及方向。", "when": ["規劃以中心舞台向外的區域。", "比較不同方向與距離的觀察位置。"], "steps": ["在中心寫下要討論的物件或場所。", "自行定義各圓環與方向代表的距離或層級。", "把觀察放入相應扇區，未量測的距離不要當成實值。"], "unsuitable": "線條沒有角度或半徑數字；精密極座標繪圖需要另外標定刻度。", "example": "示例以虛構小廣場為中心，標出入口、座位、植栽與周邊步道的大致方向。", "labels": ["小廣場", "入口", "座位", "步道"]},
+      "en": {"title": "Radial polar paper", "purpose": "Use rings and rays to arrange directions and levels of distance from a center.", "when": ["Plan zones around a central stage.", "Compare observation positions by direction and approximate distance."], "steps": ["Write the object or place being studied at the center.", "Define what the rings and directions mean for this page.", "Place observations in sectors without treating unmeasured distance as a real value."], "unsuitable": "No angles or radii are numbered; precise polar plotting requires an added scale.", "example": "A fictional small plaza sits in the center, with an entrance, seats, planting, and path shown in approximate directions.", "labels": ["Plaza", "Entrance", "Seats", "Path"]},
+      "ja": {"title": "放射・極座標用紙", "purpose": "同心円と放射線で中心からの方向と距離の段階を整理します。", "when": ["中心の舞台から外へ向かう区域を考えるとき。", "観察する場所を方向と大まかな距離で比べるとき。"], "steps": ["中央に扱う物や場所を書きます。", "円環と方向がこのページで何を表すか自分で決めます。", "観察を扇形の領域に置き、未測定の距離を実測値とみなしません。"], "unsuitable": "角度や半径の数字はなく、精密な極座標図には別途目盛りが必要です。", "example": "架空の小広場を中心に、入口、席、植栽、道の大まかな方向を示します。", "labels": ["広場", "入口", "席", "道"]}
+    }
+  },
+  "coordinate-grid": {
+    "source_type": "traditional-paper-adaptation", "source_note": "Two central axes with ticks and arrows, without a full square lattice or printed values.",
+    "translations": {
+      "zh-TW": {"title": "無數字座標軸", "purpose": "用兩條中央軸與刻線觀察兩個量的方向和相對位置。", "when": ["草擬兩個變數的正負變化。", "比較幾個構想在兩個自訂面向上的位置。"], "steps": ["先在紙上自行標明橫軸與縱軸代表的量。", "決定每段刻線的單位，或註明只比較相對位置。", "標出項目，檢查是否誤把草圖當精確數據。"], "unsuitable": "未印數字與單位，不能直接用於精密數據圖；若只要四類分組，可用四象限。", "example": "示例以虛構活動的準備時間與參與人數為兩軸，暫放四個構想，之後再查數值。", "labels": ["小型導覽", "互動展板", "現場示範", "長篇講座"]},
+      "en": {"title": "Unnumbered coordinate axes", "purpose": "Use two central axes and ticks to explore the direction and relative position of two quantities.", "when": ["Sketch positive and negative changes in two variables.", "Compare ideas on two dimensions you define."], "steps": ["Label the horizontal and vertical quantities yourself.", "Decide what each tick means, or state that the drawing is only relative.", "Plot items and check that a rough sketch is not mistaken for measured data."], "unsuitable": "Without printed units or values this is not a precise data chart. For four simple categories, a quadrant page may be clearer.", "example": "Four fictional event ideas are positioned by preparation time and attendance, to be checked against real figures later.", "labels": ["Short tour", "Interactive board", "Live demo", "Long lecture"]},
+      "ja": {"title": "数字なしの座標軸", "purpose": "中央の二軸と目盛りで、二つの量の方向と相対的な位置を考えます。", "when": ["二変数の正負の変化を下描きするとき。", "自分で決めた二つの観点で複数の案を比べるとき。"], "steps": ["横軸と縦軸が表す量を自分で記します。", "各目盛りの単位を決めるか、相対位置だけの図だと明記します。", "項目を置き、草図を実測データと誤認しないよう確かめます。"], "unsuitable": "数字と単位がないため精密なグラフにはなりません。四分類だけなら4象限の方が明確です。", "example": "架空の催し四案を準備時間と参加人数で仮に置き、あとで実数を調べる例です。", "labels": ["短い案内", "対話型展示", "実演", "長い講演"]}
+    }
+  }
+}

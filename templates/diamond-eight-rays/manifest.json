@@ -1,0 +1,37 @@
+{
+  "id": "diamond-eight-rays",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.diamond_eight_rays",
+  "source_type": "original-layout",
+  "source_note": "A central diamond with eight rays and terminal writing guides.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e66861eab3321fa2b4d6b3e10521513a5cef0063d3053db07a30affb6dd9d240",
+  "titled_pdf_english_name": "Diamond center with eight rays",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/diamond-eight-rays/exports/a5-draft/blank.svg",
+    "pdf": "templates/diamond-eight-rays/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/diamond-eight-rays/exports/a5-draft/titled.pdf",
+    "preview": "templates/diamond-eight-rays/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/diamond-eight-rays/exports/a5-contrast/blank.svg",
+      "pdf": "templates/diamond-eight-rays/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/diamond-eight-rays/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/diamond-eight-rays/examples/zh-TW.svg",
+      "en": "templates/diamond-eight-rays/examples/en.svg",
+      "ja": "templates/diamond-eight-rays/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/diamond-eight-rays/README.zh-TW.md",
+      "en": "templates/diamond-eight-rays/README.en.md",
+      "ja": "templates/diamond-eight-rays/README.ja.md"
+    }
+  }
+}

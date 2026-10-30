@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="75.500" y1="83.000" x2="75.500" y2="127.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="61.565" y1="56.262" x2="42.197" y2="42.728" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="89.435" y1="56.262" x2="108.803" y2="42.728" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="61.408" y1="75.508" x2="42.290" y2="88.407" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="89.592" y1="75.508" x2="108.710" y2="88.407" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="61.408" y1="134.492" x2="42.290" y2="121.593" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="89.592" y1="134.492" x2="108.710" y2="121.593" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="61.565" y1="153.738" x2="42.197" y2="167.272" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="89.435" y1="153.738" x2="108.803" y2="167.272" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="66.000" r="16.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="144.000" r="16.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="34.000" cy="37.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="117.000" cy="37.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="34.000" cy="94.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="117.000" cy="94.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="34.000" cy="116.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="117.000" cy="116.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="34.000" cy="173.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="117.000" cy="173.000" r="9.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="61.500" y="68.000">線上</text>
+<text x="61.500" y="146.000">現場</text>
+<text x="27.000" y="39.000">平台</text>
+<text x="110.000" y="39.000">錄影</text>
+<text x="27.000" y="96.000">互動</text>
+<text x="110.000" y="96.000">技術</text>
+<text x="27.000" y="118.000">場地</text>
+<text x="110.000" y="118.000">座位</text>
+<text x="27.000" y="175.000">紙材</text>
+<text x="110.000" y="175.000">動線</text>
+</g>
+</svg>

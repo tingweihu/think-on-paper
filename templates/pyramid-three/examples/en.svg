@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<polygon points="75.500,23.000 129.000,185.000 22.000,185.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="57.667" y1="77.000" x2="93.333" y2="77.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="39.833" y1="131.000" x2="111.167" y2="131.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="68.500" y="68.000">Exchange</text>
+<text x="53.500" y="121.000">Planning</text>
+<text x="36.500" y="174.000">Works and venue</text>
+</g>
+</svg>

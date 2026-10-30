@@ -1,0 +1,39 @@
+{
+  "id": "six-cards",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_six_cards",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of four-cards. Only the count of equal cards in a regular grid changes.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "ee76ca0a44f889e40609dc0e9d0e127b4015f6eaa164e5f84cb6909c5433b0e8",
+  "titled_pdf_english_name": "Six separate cards",
+  "shape_count": 6,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/six-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/six-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/six-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/six-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/six-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/six-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/six-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/six-cards/examples/zh-TW.svg",
+      "en": "templates/six-cards/examples/en.svg",
+      "ja": "templates/six-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/six-cards/README.zh-TW.md",
+      "en": "templates/six-cards/README.en.md",
+      "ja": "templates/six-cards/README.ja.md"
+    }
+  },
+  "variant_of": "four-cards",
+  "variant_classification": "parameter"
+}

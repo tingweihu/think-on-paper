@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="75.500" y1="12.000" x2="75.500" y2="164.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="164.000" x2="137.000" y2="164.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="18.000" y="28.000">室內：設備穩定</text>
+<text x="79.500" y="28.000">戶外：空間開放</text>
+<text x="18.000" y="175.000">結論：先確認天候與備案</text>
+</g>
+</svg>

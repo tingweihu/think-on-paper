@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="16.000" width="58.500" height="52.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="59.000" x2="72.500" y2="59.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="16.000" width="58.500" height="52.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="78.500" y1="59.000" x2="137.000" y2="59.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="78.000" width="27.750" height="45.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="114.000" x2="41.750" y2="114.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="45.750" y="78.000" width="27.750" height="45.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="45.750" y1="114.000" x2="73.500" y2="114.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="77.500" y="78.000" width="27.750" height="45.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="77.500" y1="114.000" x2="105.250" y2="114.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="109.250" y="78.000" width="27.750" height="45.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="109.250" y1="114.000" x2="137.000" y2="114.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="133.000" width="58.500" height="55.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="179.000" x2="72.500" y2="179.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="133.000" width="58.500" height="55.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="78.500" y1="179.000" x2="137.000" y2="179.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(21.25 20.00) scale(0.44000)"><rect x="52" y="18" width="27" height="65"/><circle cx="70" cy="50" r="2"/><circle cx="27" cy="42" r="7"/><path d="M27 49 L27 73 M16 59 L39 59 M27 73 L17 87 M27 73 L39 87"/></g>
+<g transform="translate(85.75 20.00) scale(0.44000)"><rect x="12" y="15" width="58" height="68"/><path d="M12 38 H70 M12 61 H70 M30 16 V82 M50 16 V82"/><circle cx="80" cy="55" r="6"/><path d="M80 61 V80"/></g>
+<g transform="translate(18.00 90.62) scale(0.19750)"><path d="M12 34 Q32 25 50 37 Q68 25 88 34 V76 Q68 68 50 79 Q32 68 12 76 Z M50 37 V79 M23 49 H42 M58 49 H77"/></g>
+<g transform="translate(49.75 90.62) scale(0.19750)"><circle cx="30" cy="33" r="6"/><circle cx="70" cy="33" r="6"/><path d="M30 39 V68 M70 39 V68 M15 56 H85 M24 76 H76"/><path d="M38 16 Q50 6 63 16"/></g>
+<g transform="translate(81.50 90.62) scale(0.19750)"><path d="M12 75 H88 M34 75 L47 47 L64 75 M47 47 L47 22"/><circle cx="47" cy="17" r="5"/></g>
+<g transform="translate(113.25 90.62) scale(0.19750)"><rect x="18" y="32" width="28" height="39"/><rect x="52" y="23" width="28" height="48"/><path d="M17 76 H83 M25 41 H39 M59 33 H74"/></g>
+<g transform="translate(19.75 137.00) scale(0.47000)"><circle cx="25" cy="35" r="6"/><circle cx="72" cy="35" r="6"/><path d="M25 41 V70 M72 41 V70 M18 75 H80 M38 52 H60"/></g>
+<g transform="translate(84.25 137.00) scale(0.47000)"><rect x="22" y="22" width="56" height="52"/><path d="M30 34 H69 M30 47 H61 M30 60 H51"/><circle cx="72" cy="83" r="4"/></g>
+</g>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="66.000">入館</text>
+<text x="81.500" y="66.000">找到書</text>
+<text x="17.000" y="121.000">翻頁</text>
+<text x="48.750" y="121.000">抄寫</text>
+<text x="80.500" y="121.000">提問</text>
+<text x="112.250" y="121.000">交換</text>
+<text x="17.000" y="186.000">討論</text>
+<text x="81.500" y="186.000">離場</text>
+</g>
+</svg>

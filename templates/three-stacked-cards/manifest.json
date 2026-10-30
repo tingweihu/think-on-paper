@@ -1,0 +1,39 @@
+{
+  "id": "three-stacked-cards",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_three_stacked_cards",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of two-stacked-cards. Only the count of equal vertical cards changes.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "4fa68f98b7986ff410ed84aba53fc65e6f6fa8e81681803f74fbdfa0665c4153",
+  "titled_pdf_english_name": "Three stacked cards",
+  "shape_count": 3,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/three-stacked-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/three-stacked-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/three-stacked-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/three-stacked-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/three-stacked-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/three-stacked-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/three-stacked-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/three-stacked-cards/examples/zh-TW.svg",
+      "en": "templates/three-stacked-cards/examples/en.svg",
+      "ja": "templates/three-stacked-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/three-stacked-cards/README.zh-TW.md",
+      "en": "templates/three-stacked-cards/README.en.md",
+      "ja": "templates/three-stacked-cards/README.ja.md"
+    }
+  },
+  "variant_of": "two-stacked-cards",
+  "variant_classification": "parameter"
+}

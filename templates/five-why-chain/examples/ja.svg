@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="38.500" y="12.000" width="74.000" height="26.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="39.000" x2="75.500" y2="51.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="51.000" x2="73.800" y2="47.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="51.000" x2="77.200" y2="47.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="38.500" y="52.000" width="74.000" height="26.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="79.000" x2="75.500" y2="91.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="91.000" x2="73.800" y2="87.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="91.000" x2="77.200" y2="87.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="38.500" y="92.000" width="74.000" height="26.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="119.000" x2="75.500" y2="131.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="131.000" x2="73.800" y2="127.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="131.000" x2="77.200" y2="127.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="38.500" y="132.000" width="74.000" height="26.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="159.000" x2="75.500" y2="171.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="171.000" x2="73.800" y2="167.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="171.000" x2="77.200" y2="167.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="38.500" y="172.000" width="74.000" height="26.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="42.500" y="28.000">申込が少ない</text>
+<text x="42.500" y="68.000">案内が遅い？</text>
+<text x="42.500" y="108.000">計画が遅い？</text>
+<text x="42.500" y="148.000">資料が遅い？</text>
+<text x="42.500" y="188.000">担当未定？</text>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "id": "mindmap-eight",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_mindmap_eight",
+  "source_type": "common-geometry",
+  "source_note": "parameter of mindmap-six. Two extra equal spokes are a node-count parameter on the same radial concept topology.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "5d91927dc8a7faa3c6faa2e73feff7fa1f1cb2f58272013c10044b773204b5da",
+  "titled_pdf_english_name": "Eight-branch mind map",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/mindmap-eight/exports/a5-draft/blank.svg",
+    "pdf": "templates/mindmap-eight/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mindmap-eight/exports/a5-draft/titled.pdf",
+    "preview": "templates/mindmap-eight/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mindmap-eight/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mindmap-eight/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mindmap-eight/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mindmap-eight/examples/zh-TW.svg",
+      "en": "templates/mindmap-eight/examples/en.svg",
+      "ja": "templates/mindmap-eight/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mindmap-eight/README.zh-TW.md",
+      "en": "templates/mindmap-eight/README.en.md",
+      "ja": "templates/mindmap-eight/README.ja.md"
+    }
+  },
+  "variant_of": "mindmap-six",
+  "variant_classification": "parameter"
+}

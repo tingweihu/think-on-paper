@@ -1,0 +1,37 @@
+{
+  "id": "ruled-double",
+  "family": "foundation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.foundation.ruled_double",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "Paired writing guides distinguish a writing band from the space between bands.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "aa62a89fb1bd3f2fa064877e2445c116edea0cc8f01b8948ddcd125ecef38015",
+  "titled_pdf_english_name": "Double-ruled writing",
+  "shape_count": 28,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/ruled-double/exports/a5-draft/blank.svg",
+    "pdf": "templates/ruled-double/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/ruled-double/exports/a5-draft/titled.pdf",
+    "preview": "templates/ruled-double/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/ruled-double/exports/a5-contrast/blank.svg",
+      "pdf": "templates/ruled-double/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/ruled-double/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/ruled-double/examples/zh-TW.svg",
+      "en": "templates/ruled-double/examples/en.svg",
+      "ja": "templates/ruled-double/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/ruled-double/README.zh-TW.md",
+      "en": "templates/ruled-double/README.en.md",
+      "ja": "templates/ruled-double/README.ja.md"
+    }
+  }
+}

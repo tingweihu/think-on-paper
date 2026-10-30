@@ -1,0 +1,37 @@
+{
+  "id": "outline-notes",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.learning.outline_notes",
+  "source_type": "common-geometry",
+  "source_note": "Repeated indent levels and open writing lines form a generic outline without printed numbering.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "3fb1ddba9655e9b65a966532d78ab111711820ad8a8035299e6a6ac451641f23",
+  "titled_pdf_english_name": "Indented outline notes",
+  "shape_count": 18,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/outline-notes/exports/a5-draft/blank.svg",
+    "pdf": "templates/outline-notes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/outline-notes/exports/a5-draft/titled.pdf",
+    "preview": "templates/outline-notes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/outline-notes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/outline-notes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/outline-notes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/outline-notes/examples/zh-TW.svg",
+      "en": "templates/outline-notes/examples/en.svg",
+      "ja": "templates/outline-notes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/outline-notes/README.zh-TW.md",
+      "en": "templates/outline-notes/README.en.md",
+      "ja": "templates/outline-notes/README.ja.md"
+    }
+  }
+}

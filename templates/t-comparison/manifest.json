@@ -1,0 +1,39 @@
+{
+  "id": "t-comparison",
+  "family": "comparison",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.comparison.t_comparison",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "Full-width question band above two open comparison columns.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "a5f181b811700c4ea9a991c00c12034193b3b3cba883a11ca9a520458200b22d",
+  "titled_pdf_english_name": "T comparison",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/t-comparison/exports/a5-draft/blank.svg",
+    "pdf": "templates/t-comparison/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/t-comparison/exports/a5-draft/titled.pdf",
+    "preview": "templates/t-comparison/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/t-comparison/exports/a5-contrast/blank.svg",
+      "pdf": "templates/t-comparison/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/t-comparison/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/t-comparison/examples/zh-TW.svg",
+      "en": "templates/t-comparison/examples/en.svg",
+      "ja": "templates/t-comparison/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/t-comparison/README.zh-TW.md",
+      "en": "templates/t-comparison/README.en.md",
+      "ja": "templates/t-comparison/README.ja.md"
+    }
+  },
+  "variant_of": "two-equal-columns",
+  "variant_classification": "parameter"
+}

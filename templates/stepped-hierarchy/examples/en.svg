@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="21.000" y="28.000" width="108.000" height="30.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28.000" y1="59.000" x2="28.000" y2="68.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28.000" y1="68.000" x2="42.000" y2="68.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="35.000" y="69.000" width="94.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="42.000" y1="100.000" x2="42.000" y2="109.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="42.000" y1="109.000" x2="56.000" y2="109.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="49.000" y="110.000" width="80.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="56.000" y1="141.000" x2="56.000" y2="150.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="56.000" y1="150.000" x2="70.000" y2="150.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="63.000" y="151.000" width="66.000" height="30.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="25.000" y="46.000">Share reading</text>
+<text x="39.000" y="87.000">Meet monthly</text>
+<text x="53.000" y="128.000">Rotate prompts</text>
+<text x="67.000" y="169.000">Book a room</text>
+</g>
+</svg>

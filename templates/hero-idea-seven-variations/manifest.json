@@ -1,0 +1,39 @@
+{
+  "id": "hero-idea-seven-variations",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_hero_idea_seven_variations",
+  "source_type": "original-layout",
+  "source_note": "parameter of center-eight-boxes. The central idea and outer variations share the center-surrounding-boxes topology; seven versus eight is a count variant.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "98d11f78d6ae56a8b7dcb46d6643076ddfe3dc37d38cd857c1ea3634311f24ac",
+  "titled_pdf_english_name": "Hero idea with seven variations",
+  "shape_count": 8,
+  "dot_count": 0,
+  "example_slot_count": 8,
+  "files": {
+    "svg": "templates/hero-idea-seven-variations/exports/a5-draft/blank.svg",
+    "pdf": "templates/hero-idea-seven-variations/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hero-idea-seven-variations/exports/a5-draft/titled.pdf",
+    "preview": "templates/hero-idea-seven-variations/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hero-idea-seven-variations/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hero-idea-seven-variations/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hero-idea-seven-variations/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hero-idea-seven-variations/examples/zh-TW.svg",
+      "en": "templates/hero-idea-seven-variations/examples/en.svg",
+      "ja": "templates/hero-idea-seven-variations/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hero-idea-seven-variations/README.zh-TW.md",
+      "en": "templates/hero-idea-seven-variations/README.en.md",
+      "ja": "templates/hero-idea-seven-variations/README.ja.md"
+    }
+  },
+  "variant_of": "center-eight-boxes",
+  "variant_classification": "parameter"
+}

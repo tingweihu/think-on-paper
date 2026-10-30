@@ -1,0 +1,37 @@
+{
+  "id": "many-to-one-funnel",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.ideation.many_to_one_funnel",
+  "source_type": "original-layout",
+  "source_note": "Six idea nodes feed two grouping areas and one synthesis region in three stages.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "6553338df323e558f9e550f7beffaeb167f5e737daed090b146b70694d60bafd",
+  "titled_pdf_english_name": "Many-to-one idea funnel",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/many-to-one-funnel/exports/a5-draft/blank.svg",
+    "pdf": "templates/many-to-one-funnel/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/many-to-one-funnel/exports/a5-draft/titled.pdf",
+    "preview": "templates/many-to-one-funnel/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/many-to-one-funnel/exports/a5-contrast/blank.svg",
+      "pdf": "templates/many-to-one-funnel/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/many-to-one-funnel/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/many-to-one-funnel/examples/zh-TW.svg",
+      "en": "templates/many-to-one-funnel/examples/en.svg",
+      "ja": "templates/many-to-one-funnel/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/many-to-one-funnel/README.zh-TW.md",
+      "en": "templates/many-to-one-funnel/README.en.md",
+      "ja": "templates/many-to-one-funnel/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pyramid-three",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.pyramid_three",
+  "source_type": "common-geometry",
+  "source_note": "A three-tier triangle is generic layered geometry; the layers carry no preset ranks or values.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "b3d02cd5f7236d14d48c4912fb84092c95b57780fb0dd7715242984d988e6c89",
+  "titled_pdf_english_name": "Three-tier pyramid",
+  "shape_count": 3,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/pyramid-three/exports/a5-draft/blank.svg",
+    "pdf": "templates/pyramid-three/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/pyramid-three/exports/a5-draft/titled.pdf",
+    "preview": "templates/pyramid-three/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/pyramid-three/exports/a5-contrast/blank.svg",
+      "pdf": "templates/pyramid-three/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/pyramid-three/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/pyramid-three/examples/zh-TW.svg",
+      "en": "templates/pyramid-three/examples/en.svg",
+      "ja": "templates/pyramid-three/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/pyramid-three/README.zh-TW.md",
+      "en": "templates/pyramid-three/README.en.md",
+      "ja": "templates/pyramid-three/README.ja.md"
+    }
+  }
+}

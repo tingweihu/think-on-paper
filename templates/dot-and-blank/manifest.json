@@ -1,0 +1,37 @@
+{
+  "id": "dot-and-blank",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.dot_and_blank",
+  "source_type": "original-layout",
+  "source_note": "One upper dot field and one lower open field provide different mark-making surfaces on the same page.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "def89b801f61588c8bffa0b561285eb7b83e59ef95248e418f2faff83a0e1470",
+  "titled_pdf_english_name": "Dot field and open field",
+  "shape_count": 353,
+  "dot_count": 352,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/dot-and-blank/exports/a5-draft/blank.svg",
+    "pdf": "templates/dot-and-blank/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dot-and-blank/exports/a5-draft/titled.pdf",
+    "preview": "templates/dot-and-blank/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dot-and-blank/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dot-and-blank/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dot-and-blank/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dot-and-blank/examples/zh-TW.svg",
+      "en": "templates/dot-and-blank/examples/en.svg",
+      "ja": "templates/dot-and-blank/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dot-and-blank/README.zh-TW.md",
+      "en": "templates/dot-and-blank/README.en.md",
+      "ja": "templates/dot-and-blank/README.ja.md"
+    }
+  }
+}

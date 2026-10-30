@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="16.000" y="82.000" width="32.000" height="46.000" fill="none" stroke="#333333" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="52.000" y1="105.000" x2="63.000" y2="105.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="69.000,40.000 63.000,40.000 63.000,170.000 69.000,170.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="69.000" y1="47.000" x2="81.000" y2="47.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="81.000" y="29.000" width="54.000" height="36.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="69.000" y1="105.000" x2="81.000" y2="105.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="81.000" y="87.000" width="54.000" height="36.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="69.000" y1="163.000" x2="81.000" y2="163.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="81.000" y="145.000" width="54.000" height="36.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

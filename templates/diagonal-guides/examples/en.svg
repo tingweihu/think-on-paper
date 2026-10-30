@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="14.000" y1="58.500" x2="137.000" y2="12.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="105.000" x2="137.000" y2="58.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="58.500" x2="137.000" y2="58.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="151.500" x2="137.000" y2="105.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="105.000" x2="137.000" y2="105.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="198.000" x2="137.000" y2="151.500" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="151.500" x2="137.000" y2="151.500" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<line x1="37.00" y1="139.00" x2="62.00" y2="108.00"/>
+<line x1="62.00" y1="108.00" x2="93.00" y2="130.00"/>
+<line x1="93.00" y1="130.00" x2="121.00" y2="99.00"/>
+<circle cx="37.00" cy="139.00" r="3.00"/>
+<circle cx="121.00" cy="99.00" r="3.00"/>
+</g>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="19.000" y="27.000">Entry to display</text>
+<text x="19.000" y="73.500">Display to rest</text>
+<text x="19.000" y="120.000">Rest to exit</text>
+<text x="19.000" y="166.500">Alternative route</text>
+</g>
+</svg>

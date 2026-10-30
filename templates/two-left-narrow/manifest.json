@@ -1,0 +1,37 @@
+{
+  "id": "two-left-narrow",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.columns.two_left_narrow",
+  "source_type": "generic-geometry",
+  "source_note": "A narrow reference rail beside a large uninterrupted working area; no lower summary as in Cornell notes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "0d3a3190b1e5bfaaee2989517ea537ec61c37a55f5c0f5fc0573e51a4bcac0d3",
+  "titled_pdf_english_name": "Narrow left reference column",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/two-left-narrow/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-left-narrow/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-left-narrow/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-left-narrow/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-left-narrow/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-left-narrow/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-left-narrow/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-left-narrow/examples/zh-TW.svg",
+      "en": "templates/two-left-narrow/examples/en.svg",
+      "ja": "templates/two-left-narrow/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-left-narrow/README.zh-TW.md",
+      "en": "templates/two-left-narrow/README.en.md",
+      "ja": "templates/two-left-narrow/README.ja.md"
+    }
+  }
+}

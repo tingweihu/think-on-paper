@@ -1,0 +1,39 @@
+{
+  "id": "engineering-grid",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_engineering_grid",
+  "source_type": "traditional-paper",
+  "source_note": "parameter of grid-standard. A uniform grid with emphasized major lines is a line-weight variant; the overview/detail topology is separately represented by grid-hierarchical.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "7ab390d960d8f4c94ed1709df4806ff7987e21a161658d877e5eba92e159992c",
+  "titled_pdf_english_name": "Engineering grid",
+  "shape_count": 63,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/engineering-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/engineering-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/engineering-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/engineering-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/engineering-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/engineering-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/engineering-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/engineering-grid/examples/zh-TW.svg",
+      "en": "templates/engineering-grid/examples/en.svg",
+      "ja": "templates/engineering-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/engineering-grid/README.zh-TW.md",
+      "en": "templates/engineering-grid/README.en.md",
+      "ja": "templates/engineering-grid/README.ja.md"
+    }
+  },
+  "variant_of": "grid-standard",
+  "variant_classification": "parameter"
+}

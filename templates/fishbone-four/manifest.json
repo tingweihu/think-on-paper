@@ -1,0 +1,39 @@
+{
+  "id": "fishbone-four",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_fishbone_four",
+  "source_type": "existing-method-adaptation",
+  "source_note": "parameter of fishbone. Cause-branch count changes; it is a parameter of the fishbone topology.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "a6d2922d1e01e165c25ad7ad36f863549019fbe6df6e0566b93c046430f4234c",
+  "titled_pdf_english_name": "Four-branch fishbone",
+  "shape_count": 10,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/fishbone-four/exports/a5-draft/blank.svg",
+    "pdf": "templates/fishbone-four/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/fishbone-four/exports/a5-draft/titled.pdf",
+    "preview": "templates/fishbone-four/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/fishbone-four/exports/a5-contrast/blank.svg",
+      "pdf": "templates/fishbone-four/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/fishbone-four/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/fishbone-four/examples/zh-TW.svg",
+      "en": "templates/fishbone-four/examples/en.svg",
+      "ja": "templates/fishbone-four/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/fishbone-four/README.zh-TW.md",
+      "en": "templates/fishbone-four/README.en.md",
+      "ja": "templates/fishbone-four/README.ja.md"
+    }
+  },
+  "variant_of": "fishbone",
+  "variant_classification": "parameter"
+}

@@ -1,0 +1,51 @@
+{
+  "five-why-chain": {
+    "zh-TW": {
+      "steps": ["先寫下可觀察的問題，避免把推測當成問題本身。", "逐格追問前一個回答為什麼會發生，並記下支持或反駁它的線索。", "證據不足時標記待查；可以提早停止或另開分枝，不必湊滿五次。"],
+      "unsuitable": "一條追問鏈不能涵蓋互相影響的多個原因；連續寫下五個回答也不等於證明因果。"
+    },
+    "en": {
+      "steps": ["State an observable problem without presenting a guess as the problem itself.", "Ask why the previous answer occurred in each next box and note evidence that supports or challenges it.", "Mark evidence gaps; stop early or branch elsewhere when needed rather than forcing five answers."],
+      "unsuitable": "One questioning chain cannot cover interacting causes; writing five answers does not establish causation."
+    },
+    "ja": {
+      "steps": ["観察できる問題を書き、推測を問題そのものとして扱わないようにします。", "次の枠で直前の答えの『なぜ』を問い、支持する根拠や反例を記します。", "根拠が足りなければ確認待ちとし、五回に合わせず途中で止めたり別の枝を作ったりします。"],
+      "unsuitable": "一本の問いの鎖だけでは相互に影響する原因を扱いきれず、五つの答えを書いても因果は証明できません。"
+    }
+  },
+  "two-right-narrow": {
+    "zh-TW": {"steps": ["左側大欄記主筆記或草圖，右側窄欄記頁碼、來源代碼或短問題。", "用相同記號對應左右內容，避免長句擠進右欄。", "完成後逐項核對右欄的問題，將仍待查的項目留下記號。"]},
+    "en": {"steps": ["Use the large left area for notes or sketches and the narrow right rail for page numbers, source codes or short questions.", "Match related entries with the same mark and keep long sentences out of the right rail.", "Review the right-hand questions and mark those still unresolved."]},
+    "ja": {"steps": ["左の広い欄に本文や図、右の細い欄にページ番号・出典記号・短い問いを書きます。", "左右の対応に同じ印を使い、長文を右欄へ詰め込まないようにします。", "右欄の問いを一つずつ確かめ、未解決のものに印を残します。"]}
+  },
+  "bottom-up-tree": {
+    "zh-TW": {"steps": ["上方四個末端各寫一條具體觀察或需求。", "把可歸在一起的項目合併成中間兩個類別，註明分類依據。", "在下方寫可由這兩類支持的總結，回查是否遺漏反例。"]},
+    "en": {"steps": ["Put one specific observation or need in each of the four upper leaves.", "Group related entries into the two middle categories and explain the grouping rule.", "Write a synthesis supported by both groups at the bottom and check for overlooked counterexamples."]},
+    "ja": {"steps": ["上の四つの末端に、具体的な観察や必要事項を一つずつ置きます。", "関連する項目を中間の二分類へまとめ、分類の根拠を記します。", "下に両分類から支えられる総括を書き、反例の見落としがないか戻って確かめます。"]}
+  },
+  "frayer": {
+    "zh-TW": {"steps": ["中央寫要學習的概念，周圍四區分別指定為定義、特徵、例子與非例。", "用自己的話寫定義與特徵，再加入一個符合與一個不符合定義的具體案例。", "逐一說明案例為何屬於或不屬於這個概念，必要時回頭修訂定義。"]},
+    "en": {"steps": ["Put the concept in the center and assign the four regions to definition, characteristics, examples and nonexamples.", "Write the definition and characteristics in your own words, then add one qualifying case and one nonexample.", "Explain why each case fits or does not fit and revise the definition if needed."]},
+    "ja": {"steps": ["中心に概念を書き、四領域を定義・特徴・例・非例に割り当てます。", "自分の言葉で定義と特徴を記し、当てはまる具体例と当てはまらない例を加えます。", "各例が該当する理由としない理由を説明し、必要なら定義を直します。"]}
+  },
+  "cue-answer": {
+    "zh-TW": {"steps": ["左側窄欄寫一個能自問的短問題，右側寫完整答案。", "遮住右欄，僅看問題回想答案，再打開核對。", "把回答不完整的地方改寫成更明確的提示或補充說明。"]},
+    "en": {"steps": ["Write a short self-test question in the narrow left column and its full answer on the right.", "Cover the right column, recall the answer from the question, then uncover and compare.", "Turn incomplete answers into clearer cues or add the missing explanation."]},
+    "ja": {"steps": ["左の細い欄に自分への短い問い、右に十分な答えを書きます。", "右欄を隠して問いから答えを思い出し、開いて照合します。", "答えが不十分だった箇所には、明確な手がかりや不足する説明を加えます。"]}
+  },
+  "observation-interpretation": {
+    "zh-TW": {"steps": ["左欄只記看到或聽到的具體現象，不寫原因猜測。", "右欄寫可能解釋，並以記號連回對應觀察。", "檢查每項解釋還需要哪些資料，保留其他可能的解讀。"]},
+    "en": {"steps": ["Record only specific things seen or heard on the left, leaving causal guesses out.", "Write possible interpretations on the right and mark their matching observations.", "Ask what evidence each interpretation still needs and retain alternative explanations."]},
+    "ja": {"steps": ["左欄には見聞きした具体的な現象だけを記し、原因の推測を入れません。", "右欄に考えられる解釈を書き、対応する観察へ印で結びます。", "各解釈に必要な追加資料を確かめ、別の説明の可能性も残します。"]}
+  },
+  "source-large-plus-cards": {
+    "zh-TW": {"steps": ["主卡記下資料的標題、來源與要保留的原文。", "三張小卡分別放主張、支持依據與待查問題，區分引文和自己的話。", "回到原資料核對各張小卡，將缺少來源或日期的地方標出。"]},
+    "en": {"steps": ["Record the source title, provenance and passage to retain on the main card.", "Use the three small cards for a claim, supporting evidence and open questions, separating quotations from your words.", "Check the small cards against the original source and flag missing provenance or dates."]},
+    "ja": {"steps": ["主カードに資料名・出典・残したい原文を書きます。", "三枚の小カードに主張・根拠・確認点を分け、引用と自分の言葉を区別します。", "元資料へ戻って各カードを照合し、出典や日付の不足に印を付けます。"]}
+  },
+  "research-index-cards": {
+    "zh-TW": {"steps": ["四張卡各指定一份資料或一條研究線索，先寫可回查的來源。", "每卡記一項主張、相關引文與待查問題，避免混入另一份資料的內容。", "比對四卡的共同點與衝突，列出下一輪要補的資料。"]},
+    "en": {"steps": ["Assign each of the four cards to a source or research lead and record how to find it again.", "Put a claim, relevant quotation and open question on each card without mixing sources.", "Compare agreements and conflicts across the four cards and list material to seek next."]},
+    "ja": {"steps": ["四枚のカードに資料か調査の手がかりを一つずつ割り当て、再確認できる出典を書きます。", "各カードに主張・関連する引用・問いを記し、別資料の内容を混ぜません。", "四枚の共通点と食い違いを比べ、次に集める資料を挙げます。"]}
+  }
+}

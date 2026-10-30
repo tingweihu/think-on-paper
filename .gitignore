@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.log
+*.tmp
+/*.zip
+.DS_Store
+Thumbs.db
+# Local development instructions and QA reports stay out of the public source tree.
+/AGENTS.md
+/SECURITY-BOUNDARY.md
+/specs/
+/reports/
+/.agents/
+/.codex/
+/.aws/

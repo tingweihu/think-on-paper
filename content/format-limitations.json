@@ -1,0 +1,147 @@
+{
+  "ruled-narrow": {
+    "zh-TW": "5.5 mm 行距適合小字短記；字跡較大或常需在行間補註時容易擁擠，宜改用標準或寬行距。",
+    "en": "The 5.5 mm spacing suits compact handwriting; larger letters or frequent interline additions can crowd the page, so choose standard or wide ruling instead.",
+    "ja": "5.5 mmの行間は小さな字向けです。大きな文字や行間の追記が多い場合は窮屈になるため、標準か広い横罫を選びます。"
+  },
+  "ruled-wide": {
+    "zh-TW": "10 mm 行距方便放大字跡，但同頁可寫行數較少；長篇逐字稿需要更多頁，不能靠縮小字體恢復容量。",
+    "en": "The 10 mm spacing leaves room for larger handwriting but fewer lines per page; a long transcript needs additional pages rather than compressed lettering.",
+    "ja": "10 mmの行間は大きな字に向きますが、一ページの行数は少なくなります。長い逐語記録には、字を詰めるより追加のページが必要です。"
+  },
+  "grid-fine": {
+    "zh-TW": "3 mm 細格適合短符號與局部草圖，不適合每格寫長詞；若要表達實際尺寸，仍須另訂比例與單位。",
+    "en": "The 3 mm cells suit short symbols and small details, not long words in each cell; real dimensions still require an explicit scale and unit.",
+    "ja": "3 mmの細かいマスは短い記号や細部の下書き向けで、一マスに長い語を書く用途には向きません。実寸には縮尺と単位の指定が必要です。"
+  },
+  "grid-large": {
+    "zh-TW": "8 mm 大格便於放大符號，但小型零件的細節難以逐格表達；每格代表多少長度或數量須先自行約定。",
+    "en": "The 8 mm cells accommodate larger symbols but give limited resolution for small component details; define the length or quantity represented by each square first.",
+    "ja": "8 mmの大きいマスには記号を大きく書けますが、小さな部品の細部を表すには粗くなります。一マスの長さや数量を先に決めます。"
+  },
+  "engineering-grid": {
+    "zh-TW": "每五格的主線只是定位輔助，不自動提供工程公差、比例尺或尺寸標註；需要製作依據時應另附完整規格。",
+    "en": "Every-fifth-cell guides help alignment but do not supply tolerances, a scale or dimensions; a drawing intended for fabrication needs a separate specification.",
+    "ja": "五マスごとの主線は位置合わせの補助で、公差・縮尺・寸法を自動で定めるものではありません。製作に使う図には別途仕様が必要です。"
+  },
+  "cornell-mirrored": {
+    "zh-TW": "右提示欄只宜短問題或關鍵詞；長篇問答、寬幅草圖與連續推導可能放不下，鏡像配置本身也不代表更適合某種慣用手。",
+    "en": "The right cue column holds short questions or keywords; long answers, wide sketches and extended derivations may not fit, and mirroring alone does not establish a handwriting advantage.",
+    "ja": "右の手がかり欄は短い問いや語句向けです。長い答え、横長の図、連続した導出には狭く、左右反転だけで利き手への適性は決まりません。"
+  },
+  "recall-strip": {
+    "zh-TW": "額外回想帶只能留下精簡的回想結果，不能取代完整答案區；若只是照抄上方摘要，就無法用來檢查自己記得多少。",
+    "en": "The extra strip holds a brief recall result rather than a full answer; copying the summary above into it does not test what you can remember unaided.",
+    "ja": "追加の想起帯は短い想起結果のための欄で、十分な答えを書く領域の代わりにはなりません。上の要約を書き写すだけでは自力での想起を確かめられません。"
+  },
+  "storyboard-three": {
+    "zh-TW": "三格只能保留少量關鍵轉折；需要呈現細部動作、鏡頭銜接或精確時長的故事，應增加畫格與拍攝註記。",
+    "en": "Three frames retain only a few key turns; detailed action, shot transitions or exact timing require more frames and production notes.",
+    "ja": "三コマでは少数の重要な転換しか残せません。細かな動作、カットの接続、正確な時間には追加のコマや制作メモが必要です。"
+  },
+  "storyboard-four": {
+    "zh-TW": "四格便於檢查短事件的起承轉合，但不能完整記錄多條支線；每格包含幾個鏡頭或多久時間，也須另外註明。",
+    "en": "Four frames help structure a short event but cannot fully capture several subplots; the number of shots or duration represented by a frame must be noted separately.",
+    "ja": "四コマは短い出来事の流れを点検するのに便利ですが、複数の筋を十分には記録できません。一コマのカット数や長さは別に示します。"
+  },
+  "two-sketch-notes": {
+    "zh-TW": "兩個畫面適合成對比較，無法單獨交代三個以上的連續狀態；若要說明改動過程，應另加流程或更多畫格。",
+    "en": "Two pictures support a paired comparison but cannot by themselves explain three or more successive states; add a flow or more frames to show the transition process.",
+    "ja": "二枚の図は一対の比較向けで、三つ以上の連続する状態をそれだけでは説明できません。変化の過程には流れ図や追加のコマを使います。"
+  },
+  "six-cards": {
+    "zh-TW": "六卡可各放一項摘要，但彼此位置不表示時間順序或因果；完整訪談逐字稿與跨卡關係需要另外記錄。",
+    "en": "Each of the six cards holds a summary, while card position conveys neither chronology nor causation; full interview transcripts and links between cards need separate space.",
+    "ja": "六枚のカードには一項ずつ要約できますが、配置だけでは順序や因果を示せません。聞き取りの全文やカード間の関係は別に記録します。"
+  },
+  "eight-cards": {
+    "zh-TW": "八個等大區塊不會自動區分主次或優先級；內容長短差異很大時，強行平均分配會讓部分卡片擁擠。",
+    "en": "Eight equal areas do not establish hierarchy or priority; forcing entries of very different lengths into equal cards can crowd some of them.",
+    "ja": "同じ大きさの八領域だけでは重要度や優先順位は決まりません。長さの違う内容を均等に割り当てると、一部が窮屈になります。"
+  },
+  "crazy-eight": {
+    "zh-TW": "八格用來保留快速構想，不能替代可行性評估或使用者回饋；為湊格數重畫同一案，也不會增加方案差異。",
+    "en": "Eight rapid sketches do not replace feasibility checks or user feedback; redrawing the same idea to fill cells does not create useful variation.",
+    "ja": "八案の素早いスケッチは実現性の確認や利用者の反応の代わりにはなりません。同じ案でマスを埋めても有用な違いは増えません。"
+  },
+  "seven-ideation-cards": {
+    "zh-TW": "七張卡只是收集提案的容量，不是構想品質或完整性的門檻；篩選時仍須另訂條件，不宜用卡片位置當作排名。",
+    "en": "Seven cards are a collection capacity, not a quality or completeness threshold; define selection criteria separately rather than treating card position as a ranking.",
+    "ja": "七枚は案を集める容量で、質や網羅性の基準ではありません。カードの位置を順位とせず、選ぶ条件を別に定めます。"
+  },
+  "mirrored-compare-cards": {
+    "zh-TW": "左右對應卡只有在使用相同問題、單位與資料範圍時才便於比較；四張卡的面積不能當成權重或分數。",
+    "en": "Paired cards are comparable only when their questions, units and evidence scope match; the four card areas are not weights or scores.",
+    "ja": "左右のカードは問い・単位・資料の範囲がそろって初めて比較できます。四枚の面積は重みや点数を表しません。"
+  },
+  "causal-chain": {
+    "zh-TW": "單向鏈容易漏掉共同原因、回饋與反例；箭頭只能記錄待查的因果假設，先後發生也不足以證明前者造成後者。",
+    "en": "A one-way chain can hide common causes, feedback and counterexamples; arrows record causal hypotheses, and temporal order alone does not establish one event caused another.",
+    "ja": "一方向の鎖では共通原因・フィードバック・反例を見落としやすくなります。矢印は因果の仮説で、出来事の前後だけでは原因を証明できません。"
+  },
+  "frayer": {
+    "zh-TW": "例子與非例是否成立取決於採用的定義與脈絡；四區填滿不代表概念已理解，仍應說明分類理由並檢查邊界案例。",
+    "en": "Examples and nonexamples depend on the chosen definition and context; filling all four regions does not establish understanding without reasons and boundary cases.",
+    "ja": "例と非例は採用した定義や文脈に依存します。四領域を埋めるだけで理解が確かになるわけではなく、分類理由と境界事例の検討が必要です。"
+  },
+  "cue-answer": {
+    "zh-TW": "答案欄若一直可見，容易把辨認文字當成獨立回想；提示過於明顯或答案缺少來源，也會讓自測結果失真。",
+    "en": "Leaving the answer visible can turn recognition into an apparent recall success; overly revealing cues or unsupported answers also weaken the self-test.",
+    "ja": "答えを見たままでは、文字を見分けただけで想起できたと判断しがちです。答えを明かしすぎる手がかりや根拠のない答えも自測を弱めます。"
+  },
+  "concept-examples-six": {
+    "zh-TW": "六個例子不是完整或具代表性的樣本；只選相似例子可能掩蓋概念邊界，必要時應另加非例與反例。",
+    "en": "Six examples are not an exhaustive or representative sample; similar cases can hide a concept's boundary, so add nonexamples or counterexamples elsewhere when needed.",
+    "ja": "六つの例は網羅的でも代表的な標本でもありません。似た例ばかりでは概念の境界が隠れるため、必要に応じて非例や反例を追加します。"
+  },
+  "quote-side-notes": {
+    "zh-TW": "旁欄只容納精簡註記，不能取代完整的上下文與來源記錄；截取短句時要回查前後文，避免改變原意。",
+    "en": "The side rail holds brief annotations rather than full context and provenance; check the surrounding passage so a short excerpt does not change the original meaning.",
+    "ja": "脇の欄は短い注記向けで、文脈や出典の十分な記録の代わりにはなりません。短い引用が原意を変えないよう前後を読み返します。"
+  },
+  "quote-comment-parallel": {
+    "zh-TW": "並排評論不代表原作者同意你的解讀；引文與改寫須清楚區分，跨多段的論證也不宜拆成失去脈絡的單句。",
+    "en": "A comment beside a quotation does not show the author agrees with your interpretation; distinguish quotation from paraphrase and avoid stripping multi-paragraph arguments into isolated lines.",
+    "ja": "引用の隣に置いたコメントは、原著者がその解釈に同意することを示しません。引用と要約を区別し、複数段落の論証を文脈のない一文に切り分けないようにします。"
+  },
+  "observation-interpretation": {
+    "zh-TW": "可見行為不能直接證明他人的動機；觀察者的選擇與視角也會影響記錄，解釋欄應保留其他可能與待查資料。",
+    "en": "Visible behavior does not directly establish another person's motives; the observer's selection and viewpoint also shape the record, so retain alternative explanations and open checks.",
+    "ja": "見えた行動だけでは他人の動機を確定できません。観察者の選び方や視点も記録に影響するため、別の説明と確認点を残します。"
+  },
+  "source-large-plus-cards": {
+    "zh-TW": "一張資料主卡加三張註記卡，仍然只圍繞單一來源；卡片彼此一致不能當成多個獨立來源的交叉佐證。",
+    "en": "A source card with three annotation cards still centers on one source; agreement among those cards is not corroboration by several independent sources.",
+    "ja": "主資料一枚と注記三枚でも、扱う中心は一つの出典です。カード同士が一致していても、複数の独立資料による裏付けにはなりません。"
+  },
+  "research-index-cards": {
+    "zh-TW": "四張索引卡只能整理選入的研究線索，不會自動評估來源可信度；每卡仍須保留足以回查的作者、日期或位置資訊。",
+    "en": "Four index cards organize selected research leads but do not assess source reliability; each still needs enough author, date or location information to find its source again.",
+    "ja": "四枚の索引カードは選んだ調査の手がかりを整理するもので、出典の信頼性を自動で評価しません。著者・日付・場所など再確認できる情報を残します。"
+  },
+  "pixel-stitch-grid": {
+    "zh-TW": "紙上的方格比例不一定等於實際針目或線材伸展後的比例；格數可用來規劃圖樣，但成品大小與材料用量須另行換算。",
+    "en": "Paper squares may not match the proportions of real stitches or stretched yarn; cell counts can plan a motif, but finished dimensions and material quantities require separate conversion.",
+    "ja": "紙の正方形は実際の編み目や伸びた糸の比率と一致するとは限りません。マス数で模様を考えられますが、仕上がり寸法や材料量は別に換算します。"
+  },
+  "matrix-3x2": {
+    "zh-TW": "三列兩欄只提供六個交叉位置；比較維度增加時不宜把多個問題硬塞同格，數值也須維持相同單位與尺度。",
+    "en": "Three rows and two columns provide only six intersections; extra criteria need more space rather than several questions forced into one cell, and numbers need consistent units and scales.",
+    "ja": "三行二列で扱える交点は六つです。観点が増えたら複数の問いを一マスに押し込まず領域を増やし、数値の単位や尺度をそろえます。"
+  },
+  "weighted-matrix": {
+    "zh-TW": "不等大的格子只是分配書寫空間，並未定義數學權重；若要計算總分，須另列係數、評分尺度與計算方式。",
+    "en": "Unequal cells allocate writing space rather than mathematical weights; a total score requires explicit coefficients, a rating scale and a calculation method elsewhere.",
+    "ja": "大小のマスは記入量を配分するもので、数学的な重みを定めてはいません。合計点には係数・評価尺度・計算方法を別に記します。"
+  },
+  "flower-six": {
+    "zh-TW": "六個花瓣用來展開面向，重疊外形不表示集合交集或因果；需要明確分類規則與隸屬關係時，應改用矩陣或概念網絡。",
+    "en": "The six petals expand facets, while their overlapping outlines imply neither set intersections nor causation; use a matrix or concept network for explicit membership rules and relations.",
+    "ja": "六つの花弁は観点を広げるためのもので、輪郭の重なりは集合の共通部分や因果を示しません。所属規則や関係を明示するには表や概念網を使います。"
+  },
+  "idea-bubbles-six": {
+    "zh-TW": "六個氣泡只保留候選想法，不表示可行性、重要性或完整範圍；挑選方案前仍須比較條件，不能以填滿氣泡作為結論。",
+    "en": "Six bubbles hold candidate ideas without indicating feasibility, importance or completeness; compare conditions before selecting, rather than treating filled bubbles as a conclusion.",
+    "ja": "六つの円は候補を残す場所で、実現性・重要度・網羅性を示しません。円が埋まったことを結論とせず、選ぶ前に条件を比べます。"
+  }
+}

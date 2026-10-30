@@ -1,0 +1,329 @@
+{
+  "grid-standard": {
+    "source_type": "traditional-paper",
+    "source_note": "A uniform square grid; 5 mm spacing is a provisional size variant, not a separate format family.",
+    "translations": {
+      "zh-TW": {
+        "title": "方格筆記",
+        "purpose": "用等距方格對齊短語、簡圖與比例草稿。",
+        "when": [
+          "畫簡單的座位或空間配置草圖。",
+          "整理需要逐格對齊的少量數據。"
+        ],
+        "steps": [
+          "先決定一格在這頁代表的長度或一個項目。",
+          "沿格線放置線條或短語，保留相鄰格作註解。",
+          "最後檢查比例假設，必要時在紙外記下實際尺寸。"
+        ],
+        "unsuitable": "5 mm 格適合短字或圖，不適合長篇手寫；未標定單位時也不能當精密工程圖。",
+        "example": "示例用幾格表示虛構閱讀角的桌、椅與通道，旁邊記下要量測的寬度。",
+        "labels": [
+          "桌：兩張",
+          "通道：留空",
+          "待量：入口寬度"
+        ]
+      },
+      "en": {
+        "title": "Square grid",
+        "purpose": "Align short notes, simple drawings, and proportional drafts on equal squares.",
+        "when": [
+          "Sketch a simple seating or room layout.",
+          "Line up a small set of values or symbols cell by cell."
+        ],
+        "steps": [
+          "Decide what one square represents on this page.",
+          "Place lines or short labels on the grid and leave adjacent cells for notes.",
+          "Check scale assumptions afterward and record real measurements separately."
+        ],
+        "unsuitable": "Five-millimeter cells suit short marks rather than long handwriting. Without a stated unit, the sheet is not a precise engineering drawing.",
+        "example": "A fictional reading corner uses cells for a table, chairs, and passage, with a width still to measure.",
+        "labels": [
+          "Two tables",
+          "Keep passage clear",
+          "Measure entry width"
+        ]
+      },
+      "ja": {
+        "title": "方眼ノート",
+        "purpose": "等間隔のマスで短い語句、簡単な図、比率の下描きをそろえます。",
+        "when": [
+          "座席や部屋の配置を簡単に描くとき。",
+          "少数の数値や記号をマスごとにそろえるとき。"
+        ],
+        "steps": [
+          "このページで一マスが表す長さや項目を決めます。",
+          "格子に沿って線や短い語を書き、隣のマスを注記用に残します。",
+          "あとで縮尺の仮定を確かめ、実測値は別に記します。"
+        ],
+        "unsuitable": "5 mmのマスは短い記入向けで、長文には狭いものです。単位を決めないまま精密な製図には使えません。",
+        "example": "架空の読書コーナーについて、机、椅子、通路をマスで表し、幅を後で測る例です。",
+        "labels": [
+          "机を二台",
+          "通路を空ける",
+          "入口の幅を測る"
+        ]
+      }
+    }
+  },
+  "dot-standard": {
+    "source_type": "traditional-paper",
+    "source_note": "Uniform dot lattice with no full grid lines; dot spacing is a profile parameter.",
+    "translations": {
+      "zh-TW": {
+        "title": "等距點陣",
+        "purpose": "以淡點輔助對齊，同時保留比方格更開放的書寫感。",
+        "when": [
+          "自由畫框線與箭頭，但仍希望大致對齊。",
+          "在短筆記旁加入小尺寸示意圖。"
+        ],
+        "steps": [
+          "把點當作定位參考，不必每個點都用到。",
+          "先寫主題，再以點連成需要的框或線。",
+          "回看時檢查畫出的結構是否比文字更清楚。"
+        ],
+        "unsuitable": "需要明確格界或連續橫線時，只有點可能不夠醒目。",
+        "example": "示例把虛構社區活動的場地、材料與人員畫成三個對齊的短區塊。",
+        "labels": [
+          "場地：圖書館",
+          "材料：書與筆",
+          "人員：約十人"
+        ]
+      },
+      "en": {
+        "title": "Dot grid",
+        "purpose": "Use faint dots for alignment while leaving writing more open than a full square grid.",
+        "when": [
+          "Draw boxes and arrows freely but keep them roughly aligned.",
+          "Add a small diagram beside short notes."
+        ],
+        "steps": [
+          "Treat dots as references rather than marks to fill.",
+          "Write the topic, then connect only the dots needed for boxes or lines.",
+          "Review whether the drawn structure clarifies the written notes."
+        ],
+        "unsuitable": "Dots can be too subtle when a clear cell boundary or continuous writing baseline is needed.",
+        "example": "Three aligned blocks describe the venue, materials, and people for a fictional neighborhood event.",
+        "labels": [
+          "Venue: library",
+          "Materials: books and pens",
+          "People: about ten"
+        ]
+      },
+      "ja": {
+        "title": "等間隔ドット方眼",
+        "purpose": "薄い点で位置をそろえながら、方眼より自由な書き心地を残します。",
+        "when": [
+          "枠や矢印を自由に描きつつ、おおよそそろえたいとき。",
+          "短いメモの横に小さな図を加えるとき。"
+        ],
+        "steps": [
+          "点は位置の目安として使い、すべてを埋めようとしません。",
+          "主題を書き、必要な点だけを結んで枠や線を作ります。",
+          "描いた構造が文章を分かりやすくしたか見直します。"
+        ],
+        "unsuitable": "明確なマス目や連続した書字の基準線が必要な場合、点だけでは弱すぎます。",
+        "example": "架空の地域イベントの会場、材料、担当者を三つのそろった区画で示しています。",
+        "labels": [
+          "会場：図書館",
+          "材料：本と筆記具",
+          "参加者：約十人"
+        ]
+      }
+    }
+  },
+  "dot-staggered": {
+    "source_type": "traditional-paper-adaptation",
+    "source_note": "Offset dot rows provide triangular alignment axes rather than the square axes of a standard dot grid.",
+    "translations": {
+      "zh-TW": {
+        "title": "交錯點陣",
+        "purpose": "讓相鄰點列交錯，便於畫斜向與三角形配置。",
+        "when": [
+          "草擬六角或三角排列的物件。",
+          "比較直線排列與交錯排列的座位草圖。"
+        ],
+        "steps": [
+          "先沿一列點標出主要方向。",
+          "利用下一列半格錯位的點連出斜邊。",
+          "再檢查圖是否需要標明比例與實際距離。"
+        ],
+        "unsuitable": "一般橫直表格較難沿交錯點保持整齊；此點陣也不是已標定單位的工程紙。",
+        "example": "示例把虛構展場的三排展示台排成交錯列，再留一處通行缺口。",
+        "labels": [
+          "第一排展示台",
+          "交錯第二排",
+          "通行缺口"
+        ]
+      },
+      "en": {
+        "title": "Staggered dot grid",
+        "purpose": "Offset alternate rows of dots to guide diagonal and triangular arrangements.",
+        "when": [
+          "Sketch objects in hexagonal or triangular patterns.",
+          "Compare straight and staggered seating arrangements."
+        ],
+        "steps": [
+          "Mark a main direction along one row of dots.",
+          "Connect points in the next half-offset row to establish diagonals.",
+          "Check whether the drawing needs an explicit scale and real distances."
+        ],
+        "unsuitable": "Ordinary rectangular tables are harder to align on offset dots. The dots have no certified engineering scale.",
+        "example": "Three display rows in a fictional exhibition are staggered, with an opening left for passage.",
+        "labels": [
+          "First display row",
+          "Offset second row",
+          "Passage gap"
+        ]
+      },
+      "ja": {
+        "title": "千鳥配置のドット方眼",
+        "purpose": "隣の点列を半マスずらし、斜めや三角形の配置を描きやすくします。",
+        "when": [
+          "六角形や三角形状の配置を下描きするとき。",
+          "椅子の直線配置と千鳥配置を比べるとき。"
+        ],
+        "steps": [
+          "一列の点に沿って主な方向を決めます。",
+          "半マスずれた次の列の点を結び、斜めの辺を作ります。",
+          "縮尺と実際の距離を明示する必要があるか確認します。"
+        ],
+        "unsuitable": "普通の長方形の表はそろえにくく、点には認証済みの製図縮尺もありません。",
+        "example": "架空の展示会場で展示台を千鳥に三列並べ、通路のための隙間を残しています。",
+        "labels": [
+          "最初の展示列",
+          "ずらした二列目",
+          "通路の隙間"
+        ]
+      }
+    }
+  },
+  "grid-hierarchical": {
+    "source_type": "original-layout",
+    "source_note": "Coarse overview grid plus a localized fine-detail area; not merely stronger grid lines.",
+    "translations": {
+      "zh-TW": {
+        "title": "總覽與細節方格",
+        "purpose": "以大格規劃全局，再在中央細格區展開一個局部。",
+        "when": [
+          "先畫房間分區，再在中央細畫一處工作桌。",
+          "規劃展板配置後，細畫最重要的一塊。"
+        ],
+        "steps": [
+          "先用外圍大格配置主要區塊。",
+          "選中央細格作為一個需要放大的局部，不把兩種比例混為一談。",
+          "在旁邊記下大格與細格各代表的尺度。"
+        ],
+        "unsuitable": "若所有區域都需要同等細節，局部細格會造成偏重；精密製圖仍需明確尺寸。",
+        "example": "示例把虛構閱讀角先分成座位、書架、通道，再在中央細格標出桌面配置。",
+        "labels": [
+          "書架",
+          "桌面細節",
+          "通道"
+        ]
+      },
+      "en": {
+        "title": "Overview and detail grid",
+        "purpose": "Use large cells for the whole plan and a localized finer grid for one important area.",
+        "when": [
+          "Block out a room, then detail one worktable in the center.",
+          "Plan a display board before refining its key panel."
+        ],
+        "steps": [
+          "Assign the main regions using the coarse outer cells.",
+          "Use the center fine grid for one enlarged detail without confusing the two scales.",
+          "Note what a large and a small cell each represents."
+        ],
+        "unsuitable": "A local detail zone biases the page when every region needs equal detail. Precise drafting still requires stated measurements.",
+        "example": "A fictional reading corner is divided into seating, shelves, and passage; the center grid expands the tabletop arrangement.",
+        "labels": [
+          "Shelves",
+          "Table detail",
+          "Passage"
+        ]
+      },
+      "ja": {
+        "title": "全体と細部の方眼",
+        "purpose": "大きなマスで全体を考え、中央の細かい格子で一部分を詳しく描きます。",
+        "when": [
+          "部屋の区画を描いてから中央の作業机を詳しく見るとき。",
+          "展示板を配置してから重要な一区画を詰めるとき。"
+        ],
+        "steps": [
+          "外側の大きなマスで主要な区画を決めます。",
+          "中央の細かい格子を拡大する部分に使い、二つの縮尺を混同しません。",
+          "大きなマスと小さなマスがそれぞれ何を表すか記します。"
+        ],
+        "unsuitable": "すべての場所に同じ細かさが必要なら局所的な細格子は偏ります。精密な図には寸法も必要です。",
+        "example": "架空の読書コーナーを座席、棚、通路に分け、中央で机の配置を詳しく描く例です。",
+        "labels": [
+          "本棚",
+          "机の細部",
+          "通路"
+        ]
+      }
+    }
+  },
+  "dot-grid-split": {
+    "source_type": "original-hybrid",
+    "source_note": "Left dot field and right square grid are separate writing behaviors on one page.",
+    "translations": {
+      "zh-TW": {
+        "title": "左點右格",
+        "purpose": "一頁同時保留自由連線的點陣與規整對齊的方格。",
+        "when": [
+          "左邊畫關係草圖，右邊整理對應的數量。",
+          "比較自由構圖與規整布局的兩種方案。"
+        ],
+        "steps": [
+          "先決定左邊要探索的關係或輪廓。",
+          "右邊把需要逐格對齊的資料或比例另行整理。",
+          "用自己的註記連結兩側，但不要假定兩側自動共享比例。"
+        ],
+        "unsuitable": "每側僅半頁寬；長篇筆記或大型細圖會受限。",
+        "example": "示例左邊記虛構花園的植物關係，右邊把花盆數量與排列放到格上。",
+        "labels": [
+          "日照與葉色有關？",
+          "三盆植物分組比較"
+        ]
+      },
+      "en": {
+        "title": "Dots beside grid",
+        "purpose": "Place an open dot field beside a regular square grid on the same page.",
+        "when": [
+          "Sketch relationships on the left and align related quantities on the right.",
+          "Compare a free composition with an orderly arrangement."
+        ],
+        "steps": [
+          "Decide what relationship or outline to explore in the left dot field.",
+          "Use the right grid for quantities or proportions that need cell alignment.",
+          "Connect the sides with your own notes, without assuming they share one scale."
+        ],
+        "unsuitable": "Each side is only half a page wide, limiting long notes or large detailed drawings.",
+        "example": "The left side explores plants in a fictional garden; the right aligns the number and placement of pots.",
+        "labels": [
+          "Light related to leaf color?",
+          "Compare three plant pots"
+        ]
+      },
+      "ja": {
+        "title": "左ドット・右方眼",
+        "purpose": "自由につなげる点の領域と、整然と並べる方眼を一枚に置きます。",
+        "when": [
+          "左に関係図を描き、右に対応する数量を並べるとき。",
+          "自由な構図と規則的な配置の二案を比べるとき。"
+        ],
+        "steps": [
+          "左のドット領域で探る関係や輪郭を決めます。",
+          "右の方眼ではマスにそろえる数量や比率を整理します。",
+          "自分の注記で両側を結びますが、縮尺が同じとは決めつけません。"
+        ],
+        "unsuitable": "各領域は半ページ幅なので、長文や大きな詳細図には狭いものです。",
+        "example": "架空の庭で左に植物の関係、右に鉢の数と配置を記入しています。",
+        "labels": [
+          "日照と葉色は関係する？",
+          "鉢植え三つを比べる"
+        ]
+      }
+    }
+  }
+}

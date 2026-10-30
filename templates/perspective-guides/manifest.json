@@ -1,0 +1,37 @@
+{
+  "id": "perspective-guides",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.special_paper.perspective_guides",
+  "source_type": "common-geometry",
+  "source_note": "A horizon and two vanishing points with converging construction rays support rough two-point perspective.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "7f1b720cafce1670a7f73f10c70707e693aa00837d45d3e5c489e4be25e38c03",
+  "titled_pdf_english_name": "Two-point perspective guides",
+  "shape_count": 11,
+  "dot_count": 0,
+  "example_slot_count": 1,
+  "files": {
+    "svg": "templates/perspective-guides/exports/a5-draft/blank.svg",
+    "pdf": "templates/perspective-guides/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/perspective-guides/exports/a5-draft/titled.pdf",
+    "preview": "templates/perspective-guides/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/perspective-guides/exports/a5-contrast/blank.svg",
+      "pdf": "templates/perspective-guides/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/perspective-guides/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/perspective-guides/examples/zh-TW.svg",
+      "en": "templates/perspective-guides/examples/en.svg",
+      "ja": "templates/perspective-guides/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/perspective-guides/README.zh-TW.md",
+      "en": "templates/perspective-guides/README.en.md",
+      "ja": "templates/perspective-guides/README.ja.md"
+    }
+  }
+}

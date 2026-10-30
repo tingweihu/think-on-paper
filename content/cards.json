@@ -1,0 +1,344 @@
+{
+  "two-stacked-cards": {
+    "source_type": "generic-geometry",
+    "source_note": "Two independent bordered writing areas in a vertical sequence.",
+    "translations": {
+      "zh-TW": {
+        "title": "上下雙卡",
+        "purpose": "用上下兩張獨立卡片記錄兩個階段或兩種觀點。",
+        "when": [
+          "先寫觀察，再寫尚待確認的推測。",
+          "把活動前與活動後的印象分開。"
+        ],
+        "steps": [
+          "先定義上卡與下卡各承擔的內容。",
+          "各卡只寫一個主要主題，避免交叉混寫。",
+          "回看兩卡的差異，記下仍無法解釋的地方。"
+        ],
+        "unsuitable": "長篇連續記錄會被卡片邊界打斷；更多階段應改用流程或變體。",
+        "example": "示例上卡記虛構展覽的進場觀察，下卡記離場後仍有的問題。",
+        "labels": [
+          "進場：入口明確",
+          "離場：想再看材料"
+        ]
+      },
+      "en": {
+        "title": "Two stacked cards",
+        "purpose": "Use two separate vertical cards for two stages or viewpoints.",
+        "when": [
+          "Separate an observation from a hypothesis still to check.",
+          "Record impressions before and after an event."
+        ],
+        "steps": [
+          "Define the role of the upper and lower card.",
+          "Keep one main topic in each rather than mixing stages.",
+          "Compare the two and note what still lacks an explanation."
+        ],
+        "unsuitable": "Borders interrupt long continuous notes; more stages call for a flow page or a card-count variant.",
+        "example": "A fictional exhibition uses the top card for arrival observations and the bottom for questions left afterward.",
+        "labels": [
+          "Arrival: clear entry",
+          "Afterward: inspect materials"
+        ]
+      },
+      "ja": {
+        "title": "上下二枚のカード",
+        "purpose": "上下の独立した枠に二つの段階や見方を分けて書きます。",
+        "when": [
+          "観察と未確認の仮説を分けるとき。",
+          "催しの前後の印象を分けるとき。"
+        ],
+        "steps": [
+          "上と下の枠の役割を決めます。",
+          "各枠では一つの主題だけを扱い、段階を混ぜません。",
+          "二つを比べ、まだ説明できない点を記します。"
+        ],
+        "unsuitable": "長い連続記録は枠で途切れます。段階が多い場合は流れ図か枚数違いの変種を使います。",
+        "example": "架空の展示会で上に入場時の観察、下に退出後に残った問いを書いています。",
+        "labels": [
+          "入場：入口が明確",
+          "退出後：素材を再確認"
+        ]
+      }
+    }
+  },
+  "four-cards": {
+    "source_type": "generic-geometry",
+    "source_note": "Four separated equal writing cards; gaps make each unit independent, unlike an open quadrant cross.",
+    "translations": {
+      "zh-TW": {
+        "title": "四張獨立卡",
+        "purpose": "將四個小主題各放入有留白間隔的獨立區塊。",
+        "when": [
+          "工作坊前替四個討論題各備一張摘要。",
+          "閱讀後記錄四個互不依賴的概念。"
+        ],
+        "steps": [
+          "每卡先寫一個短題目。",
+          "在卡內放相關短句或小圖，不必強行逐列對齊。",
+          "完成後移動閱讀順序，檢查是否有內容應合併。"
+        ],
+        "unsuitable": "需要兩軸交叉分類時應用四象限；四張卡沒有預設的軸關係。",
+        "example": "示例把虛構社區活動的場地、材料、邀請與流程分別放在四張卡。",
+        "labels": [
+          "場地：圖書館約十席",
+          "材料：四本短篇",
+          "邀請：週五前通知",
+          "流程：閱讀後討論"
+        ]
+      },
+      "en": {
+        "title": "Four separate cards",
+        "purpose": "Give four small topics independent bordered areas with visible gaps between them.",
+        "when": [
+          "Prepare one brief for each of four workshop questions.",
+          "Record four concepts that do not depend on one another after reading."
+        ],
+        "steps": [
+          "Give each card a short topic.",
+          "Add related phrases or a small sketch inside without forcing row alignment.",
+          "Review the order and check whether any cards should be combined."
+        ],
+        "unsuitable": "Use a quadrant for two crossing dimensions; separate cards do not imply axes.",
+        "example": "A fictional neighborhood event separates venue, materials, invitations, and schedule into four cards.",
+        "labels": [
+          "Venue: library, 10 seats",
+          "Materials: four short books",
+          "Invite by Friday",
+          "Read, then discuss"
+        ]
+      },
+      "ja": {
+        "title": "四枚の独立カード",
+        "purpose": "四つの小さな主題を余白で離した枠に分けます。",
+        "when": [
+          "ワークショップの四つの話題を個別に準備するとき。",
+          "読書後に互いに独立した四概念を書くとき。"
+        ],
+        "steps": [
+          "各枠に短い主題を一つ置きます。",
+          "関連する語句や小さな図を枠内に加え、無理に行をそろえません。",
+          "読む順序を見直し、まとめた方がよい枠がないか確かめます。"
+        ],
+        "unsuitable": "二つの観点が交差する分類には4象限を使います。独立カードに軸の意味はありません。",
+        "example": "架空の地域活動について、会場、材料、案内、進行を四枚に分けています。",
+        "labels": [
+          "会場：図書館の十席",
+          "材料：短い本を四冊",
+          "案内：金曜まで",
+          "読書後に話し合う"
+        ]
+      }
+    }
+  },
+  "center-four-satellites": {
+    "source_type": "original-layout",
+    "source_note": "One central card linked to four directional satellite cards; hierarchy differs from a regular card grid.",
+    "translations": {
+      "zh-TW": {
+        "title": "中心與四衛星卡",
+        "purpose": "把核心主題放中央，四個方向各記一種相連的因素。",
+        "when": [
+          "整理一個活動的場地、人員、材料與時間。",
+          "探索一個產品構想周圍的四種限制。"
+        ],
+        "steps": [
+          "先在中央寫唯一的核心主題。",
+          "在上下左右卡片各填一個不同面向。",
+          "沿連線檢查每個面向如何影響核心，再圈出仍缺資料者。"
+        ],
+        "unsuitable": "四個外圍卡較小，不能承載長篇說明；多層依賴也不宜硬塞進單一中心。",
+        "example": "示例以虛構讀書會為中心，周圍列出場地、時間、選書與邀請。",
+        "labels": [
+          "讀書會",
+          "場地",
+          "邀請",
+          "時間",
+          "選書"
+        ]
+      },
+      "en": {
+        "title": "Center with four satellites",
+        "purpose": "Place one central topic among four linked directional factors.",
+        "when": [
+          "Organize a gathering around venue, people, materials, and timing.",
+          "Explore four constraints around one product idea."
+        ],
+        "steps": [
+          "Write a single core topic in the center.",
+          "Give the top, bottom, left, and right cards different aspects.",
+          "Follow each link back to the core and mark aspects that still lack information."
+        ],
+        "unsuitable": "Small outer cards cannot carry long explanations, and complex dependencies may need a network instead of one center.",
+        "example": "A fictional reading group sits at the center with venue, time, books, and invitations around it.",
+        "labels": [
+          "Reading group",
+          "Venue",
+          "Invites",
+          "Time",
+          "Books"
+        ]
+      },
+      "ja": {
+        "title": "中心と四つの衛星カード",
+        "purpose": "中心の主題に対して四方向に異なる要素を置きます。",
+        "when": [
+          "催しの会場、人、材料、時間を整理するとき。",
+          "製品案の周りにある四つの制約を探るとき。"
+        ],
+        "steps": [
+          "中央には一つの主題を書きます。",
+          "上下左右の枠に異なる観点を置きます。",
+          "各線をたどって主題との関係を確かめ、情報が足りないものに印を付けます。"
+        ],
+        "unsuitable": "外側の枠は小さく長文を載せられません。複雑な依存関係にはネットワーク図が適します。",
+        "example": "架空の読書会を中心に置き、会場、時間、本、案内を周囲に配置しています。",
+        "labels": [
+          "読書会",
+          "会場",
+          "案内",
+          "時間",
+          "本"
+        ]
+      }
+    }
+  },
+  "hero-three-cards": {
+    "source_type": "original-layout",
+    "source_note": "One large dominant area above three equal supporting cards.",
+    "translations": {
+      "zh-TW": {
+        "title": "主卡加三輔卡",
+        "purpose": "上方給主要構想較大空間，下方保留三個支持面向。",
+        "when": [
+          "畫主視覺草圖後列材料、受眾與風險。",
+          "描述一個研究問題後分列三項證據線索。"
+        ],
+        "steps": [
+          "先把主要構想或問題放入大卡。",
+          "在下方三卡各寫一個支援條件或反例。",
+          "回看三卡是否真正支持主卡，刪去無關項目。"
+        ],
+        "unsuitable": "四個主題同等重要時，大卡會造成不合理的視覺優先順序。",
+        "example": "示例的大卡是虛構雨水收集器，下方分記材料、使用者與待測風險。",
+        "labels": [
+          "雨水收集：入口→濾網",
+          "材料：桶與網",
+          "使用者：社區花圃",
+          "待測：容量"
+        ]
+      },
+      "en": {
+        "title": "Hero card with three supports",
+        "purpose": "Give one main idea a large area and reserve three smaller supporting areas below.",
+        "when": [
+          "Sketch a main visual, then note materials, audience, and risks.",
+          "State a research question and list three evidence leads."
+        ],
+        "steps": [
+          "Put the main idea or question in the large upper card.",
+          "Use the three lower cards for support conditions or counterexamples.",
+          "Check that each lower card really relates to the main one and remove irrelevant entries."
+        ],
+        "unsuitable": "When all four topics matter equally, the oversized card creates a misleading priority.",
+        "example": "A fictional rainwater collector occupies the large card; materials, users, and a risk to test sit below.",
+        "labels": [
+          "Rain collector: inlet to filter",
+          "Materials: tub and mesh",
+          "Users: garden group",
+          "Test: capacity"
+        ]
+      },
+      "ja": {
+        "title": "主カードと三つの補助カード",
+        "purpose": "主な考えに広い枠を与え、下に三つの支える観点を置きます。",
+        "when": [
+          "主な図を描いたあと材料、対象者、リスクを並べるとき。",
+          "研究の問いを書き、三つの根拠の手がかりを探すとき。"
+        ],
+        "steps": [
+          "大きい上の枠に主な考えや問いを置きます。",
+          "下の三枠に支える条件や反例を一つずつ書きます。",
+          "各枠が主題と本当に関係するか見直し、無関係なら外します。"
+        ],
+        "unsuitable": "四つの話題が同じ重みなら大きな枠が誤った優先順位を作ります。",
+        "example": "架空の雨水収集器を大きな枠に置き、下に材料、利用者、試すべきリスクを書いています。",
+        "labels": [
+          "雨水：入口から網へ",
+          "材料：桶と網",
+          "利用者：地域菜園",
+          "確認：容量"
+        ]
+      }
+    }
+  },
+  "mosaic-cards": {
+    "source_type": "original-layout",
+    "source_note": "Asymmetric two-by-two mosaic with unequal left and right card proportions.",
+    "translations": {
+      "zh-TW": {
+        "title": "不等比分格卡",
+        "purpose": "用大小不同的四張卡區分主內容、補充資料與短註。",
+        "when": [
+          "記錄一個物件的大圖、規格、材料與問題。",
+          "把一篇文章的核心論點與三類旁註排在同頁。"
+        ],
+        "steps": [
+          "把需要最多空間的內容放左上大卡。",
+          "其餘三卡分別放補充資料，不必強求同長。",
+          "從大卡出發逐張檢查旁註是否仍有關聯。"
+        ],
+        "unsuitable": "資料量差不多時不等大的區域會浪費空間；也不適合固定欄寬表格。",
+        "example": "示例以虛構閱讀角為主圖，其他卡分別記照明、座位和待測的動線。",
+        "labels": [
+          "閱讀角：桌椅位置",
+          "照明：靠窗",
+          "座位：約十席",
+          "動線：寬度待量"
+        ]
+      },
+      "en": {
+        "title": "Asymmetric mosaic cards",
+        "purpose": "Separate a main item, supporting information, and short notes in four unequal cards.",
+        "when": [
+          "Record a large object drawing with specifications, materials, and questions.",
+          "Place an article's main claim beside three types of annotation."
+        ],
+        "steps": [
+          "Put the content needing most room in the large upper-left card.",
+          "Use the other three for different support details without forcing equal length.",
+          "Review each side note against the main card to keep it relevant."
+        ],
+        "unsuitable": "Equal-sized topics waste space in unequal zones, and fixed-width tables need a regular grid.",
+        "example": "A fictional reading-corner sketch is the main card; lighting, seats, and an untested route occupy the others.",
+        "labels": [
+          "Reading corner: table plan",
+          "Light: near window",
+          "Seats: about ten",
+          "Route: measure width"
+        ]
+      },
+      "ja": {
+        "title": "不等幅のモザイクカード",
+        "purpose": "大きさの異なる四枠で主内容、補足情報、短い注記を分けます。",
+        "when": [
+          "物の大きな図と仕様、材料、疑問を一枚に置くとき。",
+          "文章の主張と三種類の注記を並べるとき。"
+        ],
+        "steps": [
+          "最も場所が必要な内容を左上の大きな枠に置きます。",
+          "残る三枠に異なる補足を入れ、同じ長さにそろえる必要はありません。",
+          "主な枠から順に注記を見直し、関係のないものを外します。"
+        ],
+        "unsuitable": "同じ量の話題には不等幅が無駄になり、固定幅の表にも向きません。",
+        "example": "架空の読書コーナーの図を主枠に、照明、席、未検証の動線を他の枠に置きます。",
+        "labels": [
+          "読書角：机と椅子",
+          "照明：窓際",
+          "席：約十席",
+          "動線：幅を測る"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hybrid-multi-zone",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.hybrid_multi_zone",
+  "source_type": "original-layout",
+  "source_note": "Three small top cards, one large central sketch and a bottom ruled conclusion form three different writing modes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "0ec7d83b6b91d447c2566df9495f7b0d44de74f6841158a345c5db41fedbcbcb",
+  "titled_pdf_english_name": "Three cards, main sketch, conclusion",
+  "shape_count": 10,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/hybrid-multi-zone/exports/a5-draft/blank.svg",
+    "pdf": "templates/hybrid-multi-zone/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hybrid-multi-zone/exports/a5-draft/titled.pdf",
+    "preview": "templates/hybrid-multi-zone/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hybrid-multi-zone/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hybrid-multi-zone/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hybrid-multi-zone/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hybrid-multi-zone/examples/zh-TW.svg",
+      "en": "templates/hybrid-multi-zone/examples/en.svg",
+      "ja": "templates/hybrid-multi-zone/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hybrid-multi-zone/README.zh-TW.md",
+      "en": "templates/hybrid-multi-zone/README.en.md",
+      "ja": "templates/hybrid-multi-zone/README.ja.md"
+    }
+  }
+}

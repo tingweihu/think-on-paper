@@ -1,0 +1,37 @@
+{
+  "id": "two-columns-summary",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.columns.two_columns_summary",
+  "source_type": "original-layout",
+  "source_note": "Two equal upper sources converge on a full-width synthesis region below.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "91334b06a69cf541738fc6d29f6c21924416a864081b8d058f586a109ac4235f",
+  "titled_pdf_english_name": "Two columns with synthesis",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/two-columns-summary/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-columns-summary/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-columns-summary/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-columns-summary/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-columns-summary/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-columns-summary/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-columns-summary/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-columns-summary/examples/zh-TW.svg",
+      "en": "templates/two-columns-summary/examples/en.svg",
+      "ja": "templates/two-columns-summary/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-columns-summary/README.zh-TW.md",
+      "en": "templates/two-columns-summary/README.en.md",
+      "ja": "templates/two-columns-summary/README.ja.md"
+    }
+  }
+}

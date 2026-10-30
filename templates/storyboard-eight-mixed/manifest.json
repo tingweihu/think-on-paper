@@ -1,0 +1,37 @@
+{
+  "id": "storyboard-eight-mixed",
+  "family": "storyboard",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.storyboard_extra.storyboard_eight_mixed",
+  "source_type": "original-layout",
+  "source_note": "Eight sequential frames alternate two broad scenes, four small beats, and two broad closing scenes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "18e66e2735a8cdad6bb8aedc37ca80c79b74a88bd8fcb123e9fa02820aaa053f",
+  "titled_pdf_english_name": "Mixed-scale eight-panel storyboard",
+  "shape_count": 16,
+  "dot_count": 0,
+  "example_slot_count": 8,
+  "files": {
+    "svg": "templates/storyboard-eight-mixed/exports/a5-draft/blank.svg",
+    "pdf": "templates/storyboard-eight-mixed/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/storyboard-eight-mixed/exports/a5-draft/titled.pdf",
+    "preview": "templates/storyboard-eight-mixed/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/storyboard-eight-mixed/exports/a5-contrast/blank.svg",
+      "pdf": "templates/storyboard-eight-mixed/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/storyboard-eight-mixed/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/storyboard-eight-mixed/examples/zh-TW.svg",
+      "en": "templates/storyboard-eight-mixed/examples/en.svg",
+      "ja": "templates/storyboard-eight-mixed/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/storyboard-eight-mixed/README.zh-TW.md",
+      "en": "templates/storyboard-eight-mixed/README.en.md",
+      "ja": "templates/storyboard-eight-mixed/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mosaic-cards",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.cards.mosaic_cards",
+  "source_type": "original-layout",
+  "source_note": "Asymmetric two-by-two mosaic with unequal left and right card proportions.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "563c7568f546a72360b23ce607e93a3c16cb94c7cbc1cfe36d18eafbf0a682af",
+  "titled_pdf_english_name": "Asymmetric mosaic cards",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/mosaic-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/mosaic-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mosaic-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/mosaic-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mosaic-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mosaic-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mosaic-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mosaic-cards/examples/zh-TW.svg",
+      "en": "templates/mosaic-cards/examples/en.svg",
+      "ja": "templates/mosaic-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mosaic-cards/README.zh-TW.md",
+      "en": "templates/mosaic-cards/README.en.md",
+      "ja": "templates/mosaic-cards/README.ja.md"
+    }
+  }
+}

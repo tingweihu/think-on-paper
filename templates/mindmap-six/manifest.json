@@ -1,0 +1,37 @@
+{
+  "id": "mindmap-six",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.mindmap_six",
+  "source_type": "common-geometry",
+  "source_note": "A central subject and six equal spokes use generic radial graph geometry; no method text is copied.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "3ce96e0ab0010152f5d7c1afce4f0296b4153bea48b6ba6b9b5ec24d3575409a",
+  "titled_pdf_english_name": "Six-branch concept map",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/mindmap-six/exports/a5-draft/blank.svg",
+    "pdf": "templates/mindmap-six/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mindmap-six/exports/a5-draft/titled.pdf",
+    "preview": "templates/mindmap-six/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mindmap-six/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mindmap-six/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mindmap-six/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mindmap-six/examples/zh-TW.svg",
+      "en": "templates/mindmap-six/examples/en.svg",
+      "ja": "templates/mindmap-six/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mindmap-six/README.zh-TW.md",
+      "en": "templates/mindmap-six/README.en.md",
+      "ja": "templates/mindmap-six/README.ja.md"
+    }
+  }
+}

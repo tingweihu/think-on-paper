@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="60.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="96.000" width="37.667" height="72.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56.667" y="96.000" width="37.667" height="72.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="99.333" y="96.000" width="37.667" height="72.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(49.50 16.00) scale(0.52000)"><rect x="52" y="18" width="27" height="65"/><circle cx="70" cy="50" r="2"/><circle cx="27" cy="42" r="7"/><path d="M27 49 L27 73 M16 59 L39 59 M27 73 L17 87 M27 73 L39 87"/></g>
+<g transform="translate(18.00 117.17) scale(0.29667)"><rect x="12" y="15" width="58" height="68"/><path d="M12 38 H70 M12 61 H70 M30 16 V82 M50 16 V82"/><circle cx="80" cy="55" r="6"/><path d="M80 61 V80"/></g>
+<g transform="translate(60.67 117.17) scale(0.29667)"><path d="M12 34 Q32 25 50 37 Q68 25 88 34 V76 Q68 68 50 79 Q32 68 12 76 Z M50 37 V79 M23 49 H42 M58 49 H77"/></g>
+<g transform="translate(103.33 117.17) scale(0.29667)"><circle cx="30" cy="33" r="6"/><circle cx="70" cy="33" r="6"/><path d="M30 39 V68 M70 39 V68 M15 56 H85 M24 76 H76"/><path d="M38 16 Q50 6 63 16"/></g>
+</g>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="84.000">Entering scene</text>
+<text x="17.000" y="179.000">Find book</text>
+<text x="59.667" y="179.000">Read</text>
+<text x="102.333" y="179.000">Discuss</text>
+</g>
+</svg>

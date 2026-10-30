@@ -1,0 +1,37 @@
+{
+  "id": "causal-network",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.causal.causal_network",
+  "source_type": "original-layout",
+  "source_note": "Five cause candidates have cross-links, allowing more than one path toward later nodes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "2b5cb26006584c5115e55d7d8028cee0cf8f59172395a57c12aba2901d0177f9",
+  "titled_pdf_english_name": "Cross-linked cause network",
+  "shape_count": 26,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/causal-network/exports/a5-draft/blank.svg",
+    "pdf": "templates/causal-network/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/causal-network/exports/a5-draft/titled.pdf",
+    "preview": "templates/causal-network/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/causal-network/exports/a5-contrast/blank.svg",
+      "pdf": "templates/causal-network/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/causal-network/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/causal-network/examples/zh-TW.svg",
+      "en": "templates/causal-network/examples/en.svg",
+      "ja": "templates/causal-network/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/causal-network/README.zh-TW.md",
+      "en": "templates/causal-network/README.en.md",
+      "ja": "templates/causal-network/README.ja.md"
+    }
+  }
+}

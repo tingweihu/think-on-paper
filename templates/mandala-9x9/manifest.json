@@ -1,0 +1,37 @@
+{
+  "id": "mandala-9x9",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.mandala_9x9",
+  "source_type": "existing-method-adaptation",
+  "source_note": "Nine grouped three-by-three blocks form 81 small cells; A5 use is limited to keywords.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "a7826bb2162b84a3180b11bee4e13deb37b2f1989cd081b786a2762325107e11",
+  "titled_pdf_english_name": "81-cell idea expansion",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/mandala-9x9/exports/a5-draft/blank.svg",
+    "pdf": "templates/mandala-9x9/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mandala-9x9/exports/a5-draft/titled.pdf",
+    "preview": "templates/mandala-9x9/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mandala-9x9/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mandala-9x9/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mandala-9x9/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mandala-9x9/examples/zh-TW.svg",
+      "en": "templates/mandala-9x9/examples/en.svg",
+      "ja": "templates/mandala-9x9/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mandala-9x9/README.zh-TW.md",
+      "en": "templates/mandala-9x9/README.en.md",
+      "ja": "templates/mandala-9x9/README.ja.md"
+    }
+  }
+}

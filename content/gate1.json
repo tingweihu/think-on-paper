@@ -1,0 +1,461 @@
+{
+  "ruled-standard": {
+    "source_type": "traditional-paper",
+    "source_note": "Original geometry for a conventional ruled writing sheet; no exclusive method claim.",
+    "translations": {
+      "zh-TW": {
+        "title": "橫線筆記",
+        "purpose": "以固定行距連續記錄句子，保留整頁自由書寫的空間。",
+        "when": [
+          "聽完一段短講後，依先後順序記下重點。",
+          "閱讀散文時，逐段記錄自己的提問與回應。"
+        ],
+        "steps": [
+          "先在第一行寫下這頁的主題。",
+          "每個新想法換行，相關內容接在其後。",
+          "遇到需要查證的敘述，在旁邊做自己看得懂的記號。",
+          "結束時回看記號，把待查內容補到原句附近。"
+        ],
+        "unsuitable": "若需要比較多個並列方案或畫因果關係，連續橫線會讓關係不易看清。",
+        "example": "示例記錄一次虛構的社區讀書會：先寫活動目標，再記場地、流程、尚待確認的設備，最後留下下一次討論的問題。",
+        "labels": [
+          "社區讀書會：交流閱讀心得",
+          "場地可容納約十人",
+          "先分享摘錄，再自由討論",
+          "待確認：投影設備"
+        ]
+      },
+      "en": {
+        "title": "Ruled notes",
+        "purpose": "Record continuous sentences at a steady line spacing while keeping the page open to free writing.",
+        "when": [
+          "Capture points in order after a short talk.",
+          "Write questions and responses paragraph by paragraph while reading an essay."
+        ],
+        "steps": [
+          "Write the topic on the first line.",
+          "Start a new line for each new idea and continue related details underneath.",
+          "Mark claims that need checking with a symbol you will recognize.",
+          "Review those marks afterward and add the missing information near the original line."
+        ],
+        "unsuitable": "Continuous lines are awkward when several options need side-by-side comparison or when the relationships between causes matter.",
+        "example": "The example follows a fictional neighborhood reading group: its aim, venue, sequence, equipment still to confirm, and a question for the next meeting.",
+        "labels": [
+          "Reading group: exchange ideas",
+          "Venue seats about ten",
+          "Share passages, then discuss",
+          "Check: projection equipment"
+        ]
+      },
+      "ja": {
+        "title": "横罫ノート",
+        "purpose": "一定の行間で文章を順に記録しながら、ページ全体を自由に使える形式です。",
+        "when": [
+          "短い講演を聞いたあと、話の流れに沿って要点を残すとき。",
+          "随筆を読み、段落ごとに疑問と自分の考えを書くとき。"
+        ],
+        "steps": [
+          "一行目にこのページの主題を書きます。",
+          "新しい考えは改行し、関連する内容はその下に続けます。",
+          "確認が必要な記述には、自分で分かる印を付けます。",
+          "あとで印を見直し、分かったことを元の行の近くに追記します。"
+        ],
+        "unsuitable": "複数の案を横並びで比べたり、原因同士の関係を描いたりするには、横罫だけでは見通しが悪くなります。",
+        "example": "架空の地域読書会を例に、目的、会場、進行、未確認の設備、次回の問いを順に記入しています。",
+        "labels": [
+          "読書会：感想を交換",
+          "会場は十人程度",
+          "抜粋を共有して討論",
+          "確認：投影機材"
+        ]
+      }
+    }
+  },
+  "cornell": {
+    "source_type": "existing-method-adaptation",
+    "source_note": "Geometric adaptation of the widely known Cornell note-taking structure; method history is not asserted here.",
+    "translations": {
+      "zh-TW": {
+        "title": "康乃爾式筆記頁",
+        "purpose": "把提示、詳細筆記與頁末摘要分開，方便回想與整理。",
+        "when": [
+          "聽課時先記內容，課後補上能引出答案的提示。",
+          "閱讀技術文章後，用側欄問題檢查自己是否理解。"
+        ],
+        "steps": [
+          "在右側較大的區域記下內容，不必邊聽邊寫完美摘要。",
+          "整理時在左欄寫問題或關鍵詞，每一項對應右側的一段。",
+          "遮住右側，試著只看左欄口述答案。",
+          "在下方用自己的話寫出這頁最重要的結論，並標出仍不明白處。"
+        ],
+        "unsuitable": "需要大幅繪圖或材料主要是連續數學推導時，狹窄提示欄可能浪費空間。",
+        "example": "虛構的植物觀察課：右欄記日照與葉片變化，左欄提出『日照如何影響葉色？』，底欄寫目前可支持的簡短結論。",
+        "labels": [
+          "日照與葉色？",
+          "觀察：窗邊葉片較深。需比較澆水量。",
+          "目前只看到相關性，還不能確定原因。"
+        ]
+      },
+      "en": {
+        "title": "Cornell notes",
+        "purpose": "Separate recall cues, detailed notes, and a closing summary so the page can be reviewed actively.",
+        "when": [
+          "Take notes during a lesson, then add prompts after class.",
+          "Check your understanding of a technical article with questions in the cue column."
+        ],
+        "steps": [
+          "Record the main material in the wide right area without trying to summarize perfectly while listening.",
+          "Afterward, write a question or key term in the left column for each important section.",
+          "Cover the right area and answer from the cues alone.",
+          "Write the main conclusion in your own words at the bottom, including anything still unclear."
+        ],
+        "unsuitable": "A large drawing or continuous mathematical derivation may be cramped by the narrow cue column.",
+        "example": "A fictional plant observation lesson uses the main area for light and leaf observations, the cue column for a question about leaf color, and the bottom for a cautious conclusion.",
+        "labels": [
+          "Light and leaf color?",
+          "Window leaves look darker; compare watering too.",
+          "Correlation seen; cause not yet established."
+        ]
+      },
+      "ja": {
+        "title": "コーネル式ノート",
+        "purpose": "手がかり、詳しい記録、最後の要約を分け、後から思い出しながら復習する形式です。",
+        "when": [
+          "授業中に内容を記録し、授業後に問いを補うとき。",
+          "技術記事を読んだあと、左欄の問いで理解を確かめるとき。"
+        ],
+        "steps": [
+          "広い右欄に内容を記録します。聞きながら完全な要約を作る必要はありません。",
+          "整理するとき、右欄のまとまりに対応する問いや語句を左欄に書きます。",
+          "右欄を隠し、左欄だけを見て答えを説明してみます。",
+          "下欄に最も大事な結論と、まだ分からない点を自分の言葉で書きます。"
+        ],
+        "unsuitable": "大きな図や連続した数式の展開には、手がかり欄が書く面積を圧迫する場合があります。",
+        "example": "架空の植物観察授業を例に、右欄へ日照と葉の変化、左欄へ葉色の問い、下欄へ慎重な結論を書いています。",
+        "labels": [
+          "日照と葉色？",
+          "窓辺の葉が濃い。水やりも比較する。",
+          "関連は見えるが、原因はまだ不明。"
+        ]
+      }
+    }
+  },
+  "quadrant": {
+    "source_type": "generic-geometry",
+    "source_note": "Four equal writing regions with no predefined axes or exclusive quadrant theory.",
+    "translations": {
+      "zh-TW": {
+        "title": "四象限筆記",
+        "purpose": "用兩個自訂面向把想法分成四區，觀察分布與缺口。",
+        "when": [
+          "準備工作坊時，用參與價值與準備投入比較活動構想。",
+          "讀書時，用主題與證據強度整理不同段落。"
+        ],
+        "steps": [
+          "先選兩個不同的比較面向，在紙上自行註明四區的意思。",
+          "每個想法寫成短句，放入最接近的區域。",
+          "不確定的想法先放在邊界，並記下需要查證的條件。",
+          "比較各區密度，選出下一步要試做或調查的項目。"
+        ],
+        "unsuitable": "互相依賴很多的條件或需要精確權重的決策，不宜只靠四區分類。",
+        "example": "虛構的小型工作坊規劃：把現場示範、完整互動教材、提問時間與長篇講義依參與價值和準備投入暫時分區。",
+        "labels": [
+          "提問：高價值低投入",
+          "告示：低價值低投入",
+          "互動練習：高價值高投入",
+          "長講義：低價值高投入"
+        ]
+      },
+      "en": {
+        "title": "Four-quadrant notes",
+        "purpose": "Sort ideas into four areas defined by two dimensions you choose, then inspect the pattern.",
+        "when": [
+          "Compare workshop activities by participant value and preparation effort.",
+          "Organize reading notes by topic and strength of evidence."
+        ],
+        "steps": [
+          "Choose two distinct dimensions and write your own meaning for each area on the sheet.",
+          "Place each short idea in the area that fits best.",
+          "Put uncertain ideas near a boundary and note what needs checking.",
+          "Compare the distribution and choose what to test or investigate next."
+        ],
+        "unsuitable": "Many interdependent conditions or decisions requiring precise weights cannot be resolved by four areas alone.",
+        "example": "For a fictional small workshop, a live demonstration, a complete interactive lesson, question time, and a long handout are provisionally sorted by value and effort.",
+        "labels": [
+          "Q&A: high value, low prep",
+          "Poster: low value, low prep",
+          "Hands-on: high value, high prep",
+          "Long handout: low value, high prep"
+        ]
+      },
+      "ja": {
+        "title": "4象限ノート",
+        "purpose": "自分で決めた二つの観点で考えを四つに分け、偏りや抜けを見ます。",
+        "when": [
+          "ワークショップの案を参加価値と準備の手間で比べるとき。",
+          "読書メモを話題と根拠の強さで整理するとき。"
+        ],
+        "steps": [
+          "異なる二つの観点を選び、各領域の意味を自分で紙に書きます。",
+          "考えを短い言葉にし、最も近い領域に置きます。",
+          "判断できない案は境界付近に置き、確認すべき条件を添えます。",
+          "分布を比べ、次に試す案や調べる点を選びます。"
+        ],
+        "unsuitable": "条件が複雑に依存する判断や、正確な重み付けが必要な判断は四つの領域だけでは扱えません。",
+        "example": "架空の小規模ワークショップについて、実演、教材、質問時間、長い配布資料を参加価値と準備の手間で仮に分けています。",
+        "labels": [
+          "質問：高価値・低準備",
+          "掲示：低価値・低準備",
+          "実習：高価値・高準備",
+          "長い資料：低価値・高準備"
+        ]
+      }
+    }
+  },
+  "mandala-3x3": {
+    "source_type": "existing-method-adaptation",
+    "source_note": "A nine-cell center-and-surrounding idea expansion; no claim of a unique or prescribed method origin.",
+    "translations": {
+      "zh-TW": {
+        "title": "九宮概念展開",
+        "purpose": "把核心問題放在中間，向八個方向展開不同切面。",
+        "when": [
+          "在文章動筆前列出可寫的不同角度。",
+          "替社區活動發想參與者、場地、材料等面向。"
+        ],
+        "steps": [
+          "在中央格寫一個明確的主題或問題。",
+          "在周圍八格各填一個不同面向，先求多樣，不急著評分。",
+          "檢查是否有重複或過於籠統的面向，必要時改寫。",
+          "挑出兩三格另開新頁深入研究，並記下仍缺的資料。"
+        ],
+        "unsuitable": "當每個面向需要長段文字或嚴格的先後流程時，九個等大的格子會過於侷促。",
+        "example": "以虛構的社區讀書會為中心，周圍填入時間、場地、選書、邀請、討論、材料、無障礙與後續聯繫。",
+        "labels": [
+          "時間",
+          "場地",
+          "選書",
+          "邀請",
+          "社區讀書會",
+          "討論",
+          "材料",
+          "無障礙",
+          "後續聯繫"
+        ]
+      },
+      "en": {
+        "title": "3×3 idea expansion",
+        "purpose": "Put one question in the center and explore eight distinct aspects around it.",
+        "when": [
+          "List possible angles before drafting an article.",
+          "Explore participants, venue, materials, and other aspects of a community event."
+        ],
+        "steps": [
+          "Write one clear topic or question in the middle cell.",
+          "Fill the eight surrounding cells with different aspects before judging them.",
+          "Look for repetition or vague entries and revise them.",
+          "Choose two or three cells for deeper work on another page, noting information still missing."
+        ],
+        "unsuitable": "Equal small cells are limiting when each aspect needs a long paragraph or when a strict sequence matters.",
+        "example": "A fictional neighborhood reading group is placed in the center, surrounded by time, venue, books, invitations, discussion, materials, access, and follow-up.",
+        "labels": [
+          "Time",
+          "Venue",
+          "Books",
+          "Invites",
+          "Reading group",
+          "Discussion",
+          "Materials",
+          "Access",
+          "Follow-up"
+        ]
+      },
+      "ja": {
+        "title": "3×3のアイデア展開",
+        "purpose": "中心に一つの問いを置き、周囲の八方向へ異なる観点を広げます。",
+        "when": [
+          "文章を書く前に、扱える切り口を洗い出すとき。",
+          "地域の催しについて、参加者、会場、資料などを考えるとき。"
+        ],
+        "steps": [
+          "中央のマスに明確な主題か問いを書きます。",
+          "周囲の八マスに、評価する前に異なる観点を一つずつ書きます。",
+          "重複や曖昧な言葉がないか見直して直します。",
+          "二、三のマスを別のページで深め、足りない情報も記録します。"
+        ],
+        "unsuitable": "各観点に長い文章が必要な場合や順序が重要な場合、同じ大きさの小さなマスでは窮屈です。",
+        "example": "架空の地域読書会を中心に置き、時間、会場、本、案内、討論、資料、参加しやすさ、後日の連絡を周囲に書いています。",
+        "labels": [
+          "時間",
+          "会場",
+          "本",
+          "案内",
+          "読書会",
+          "討論",
+          "資料",
+          "参加しやすさ",
+          "後日の連絡"
+        ]
+      }
+    }
+  },
+  "fishbone": {
+    "source_type": "existing-method-adaptation",
+    "source_note": "Unlabeled cause-and-effect fishbone geometry inspired by the established diagram form; categories are user-defined.",
+    "translations": {
+      "zh-TW": {
+        "title": "魚骨因果圖",
+        "purpose": "從一個待釐清的結果往回列可能原因，避免只盯著第一個解釋。",
+        "when": [
+          "活動報名偏少時，探索宣傳、時間與流程等可能原因。",
+          "製作過程有反覆錯誤時，整理人員、材料和步驟方面的假設。"
+        ],
+        "steps": [
+          "在右端寫下具體、可觀察的結果，不先寫責任歸屬。",
+          "沿著主幹替各分枝自訂原因類別。",
+          "在每枝旁寫可能原因，將推測與已有證據分開。",
+          "選出最值得查證的原因，寫下下一步要蒐集的資料。"
+        ],
+        "unsuitable": "這張圖只能整理假設；沒有資料時不能從線條推論因果已被證實。",
+        "example": "以虛構活動報名偏少為結果，上下分枝暫記時段、通知、流程、地點、主題與報名頁，作為後續查證清單。",
+        "labels": [
+          "時段",
+          "通知",
+          "流程",
+          "地點",
+          "主題",
+          "報名頁",
+          "報名偏少"
+        ]
+      },
+      "en": {
+        "title": "Fishbone diagram",
+        "purpose": "Work backward from an observed outcome to possible causes instead of settling on the first explanation.",
+        "when": [
+          "Explore why sign-ups for an event were low across publicity, timing, and process.",
+          "Sort hypotheses about repeated production errors across people, materials, and steps."
+        ],
+        "steps": [
+          "Write a specific observable outcome at the right end without assigning blame.",
+          "Give each branch a cause category relevant to the situation.",
+          "Add possible causes beside the branches, separating guesses from evidence.",
+          "Choose which causes to check first and note what information to collect."
+        ],
+        "unsuitable": "The diagram organizes hypotheses; without evidence, its lines cannot establish that a cause is real.",
+        "example": "A fictional event with low sign-ups has branches for timing, notices, process, location, topic, and the registration page, all awaiting checks.",
+        "labels": [
+          "Timing",
+          "Notices",
+          "Process",
+          "Location",
+          "Topic",
+          "Sign-up page",
+          "Low sign-ups"
+        ]
+      },
+      "ja": {
+        "title": "特性要因図",
+        "purpose": "観察した結果から考えられる原因をさかのぼり、最初の説明だけで決めつけないための図です。",
+        "when": [
+          "催しの申込が少ない理由を、周知、時間、手続きなどから探るとき。",
+          "制作中の繰り返す誤りを、人、材料、工程の仮説に分けるとき。"
+        ],
+        "steps": [
+          "右端に具体的に観察できる結果を書き、責任を先に決めません。",
+          "各枝に、その問題に合う原因の分類を自分で付けます。",
+          "枝の近くに候補を書き、推測と確認済みの事実を分けます。",
+          "優先して確かめる候補を選び、集める情報を書きます。"
+        ],
+        "unsuitable": "図は仮説の整理用です。根拠がないまま線を結んでも、因果関係が証明されたことにはなりません。",
+        "example": "架空の催しで申込が少なかった状況を例に、時間、周知、手続き、場所、内容、申込ページを確認候補として書いています。",
+        "labels": [
+          "時間",
+          "周知",
+          "手続き",
+          "場所",
+          "内容",
+          "申込ページ",
+          "申込が少ない"
+        ]
+      }
+    }
+  },
+  "storyboard-6": {
+    "source_type": "traditional-format-adaptation",
+    "source_note": "Six sequential drawing frames with separate brief caption areas; not copied from a proprietary sheet.",
+    "translations": {
+      "zh-TW": {
+        "title": "六格故事板",
+        "purpose": "用六個連續畫面草擬事件順序，並在每格下方補一句描述。",
+        "when": [
+          "設計短影片前，先看鏡頭之間是否能連起來。",
+          "規劃服務使用流程時，描繪使用者看到的六個關鍵時刻。"
+        ],
+        "steps": [
+          "先用一行文字決定這六格要呈現的起點與終點。",
+          "按閱讀順序在畫面框中畫粗略構圖，不追求細節。",
+          "在各框下方寫動作、聲音或轉場的短註。",
+          "通讀六格，找出跳躍太大的位置，再修改畫面順序。"
+        ],
+        "unsuitable": "長篇分鏡或需要精確鏡頭時長的製作，六格和簡短註解帶不足以承載全部規格。",
+        "example": "以虛構的借書流程為例：走進圖書館、找書、查看目錄、取書、借閱、離開，註解帶寫每一步的動作。",
+        "labels": [
+          "走進館內",
+          "查看書架",
+          "查目錄",
+          "找到書",
+          "辦理借閱",
+          "帶書離開"
+        ]
+      },
+      "en": {
+        "title": "Six-panel storyboard",
+        "purpose": "Sketch a sequence in six frames and add one short action note beneath each image.",
+        "when": [
+          "Check whether shots connect before making a short video.",
+          "Map six moments a person sees while using a service."
+        ],
+        "steps": [
+          "Decide the start and end of the six-frame sequence in one sentence.",
+          "Sketch rough compositions in reading order without polishing details.",
+          "Write a brief action, sound, or transition note under each frame.",
+          "Read the sequence through and revise any jump that is too large."
+        ],
+        "unsuitable": "A long sequence or production that needs exact shot timing requires more frames and a fuller specification.",
+        "example": "A fictional library visit moves from entering, browsing, checking the catalog, finding a book, borrowing it, and leaving; the caption strips name each action.",
+        "labels": [
+          "Enter library",
+          "Browse shelves",
+          "Check catalog",
+          "Find book",
+          "Borrow book",
+          "Leave with book"
+        ]
+      },
+      "ja": {
+        "title": "6コマの絵コンテ",
+        "purpose": "六つの場面で出来事の順序を下描きし、各コマの下に短い説明を添えます。",
+        "when": [
+          "短い動画を作る前に、場面のつながりを確かめるとき。",
+          "サービス利用中に見える六つの重要な場面を考えるとき。"
+        ],
+        "steps": [
+          "六コマの始まりと終わりを一文で決めます。",
+          "読む順番に大まかな構図を描き、細部は後回しにします。",
+          "各コマの下に動作、音、切り替えを短く書きます。",
+          "通して見て、飛躍が大きい箇所の順序や内容を直します。"
+        ],
+        "unsuitable": "長い物語や正確な秒数が必要な制作には、六コマと短い説明欄だけでは足りません。",
+        "example": "架空の図書館で本を借りる流れを例に、入館、棚を見る、目録を調べる、本を見つける、貸出、退館を並べています。",
+        "labels": [
+          "入館する",
+          "棚を見る",
+          "目録を調べる",
+          "本を見つける",
+          "借りる",
+          "本を持ち帰る"
+        ]
+      }
+    }
+  }
+}

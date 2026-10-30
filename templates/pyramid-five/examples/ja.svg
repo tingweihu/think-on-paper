@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<polygon points="75.500,19.000 129.620,191.000 21.380,191.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="64.676" y1="53.400" x2="86.324" y2="53.400" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="53.852" y1="87.800" x2="97.148" y2="87.800" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="43.028" y1="122.200" x2="107.972" y2="122.200" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="32.204" y1="156.600" x2="118.796" y2="156.600" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="69.500" y="43.768">交流</text>
+<text x="59.883" y="78.168">企画</text>
+<text x="49.059" y="112.568">作品</text>
+<text x="38.235" y="146.968">会場</text>
+<text x="27.411" y="181.368">材料</text>
+</g>
+</svg>

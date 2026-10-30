@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="12.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="60.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="60.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="108.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="108.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14.000" y="156.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="78.500" y="156.000" width="58.500" height="42.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">図書館の十席</text>
+<text x="81.500" y="28.000">短い本を四冊</text>
+<text x="17.000" y="76.000">金曜までに案内</text>
+<text x="81.500" y="76.000">土曜の午後</text>
+<text x="17.000" y="124.000">進行役を二人</text>
+<text x="81.500" y="124.000">予算を確認</text>
+<text x="17.000" y="172.000">通路を空ける</text>
+<text x="81.500" y="172.000">感想を集める</text>
+</g>
+</svg>

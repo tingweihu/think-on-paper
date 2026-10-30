@@ -1,0 +1,39 @@
+{
+  "id": "pixel-stitch-grid",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_pixel_stitch_grid",
+  "source_type": "traditional-paper",
+  "source_note": "equivalent of grid-standard. Regular square cells for pixels or stitches are a use case of the standard grid; count and pitch are variants.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "6f3e759ff7774ec02f7092a5b6df89811e90e7222fbb46a48f6acd538ab4bb37",
+  "titled_pdf_english_name": "Pixel and stitch grid",
+  "shape_count": 63,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/pixel-stitch-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/pixel-stitch-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/pixel-stitch-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/pixel-stitch-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/pixel-stitch-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/pixel-stitch-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/pixel-stitch-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/pixel-stitch-grid/examples/zh-TW.svg",
+      "en": "templates/pixel-stitch-grid/examples/en.svg",
+      "ja": "templates/pixel-stitch-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/pixel-stitch-grid/README.zh-TW.md",
+      "en": "templates/pixel-stitch-grid/README.en.md",
+      "ja": "templates/pixel-stitch-grid/README.ja.md"
+    }
+  },
+  "variant_of": "grid-standard",
+  "variant_classification": "equivalent"
+}

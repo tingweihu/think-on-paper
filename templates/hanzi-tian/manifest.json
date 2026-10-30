@@ -1,0 +1,37 @@
+{
+  "id": "hanzi-tian",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.special_paper.hanzi_tian",
+  "source_type": "common-geometry",
+  "source_note": "Thirty-five equal character squares carry vertical and horizontal center guides; no character is preprinted.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "ea228e9e4b090d07e1b1e705aa84c4bf0bc851565025b6b325fe3bccaa152910",
+  "titled_pdf_english_name": "Tian character practice grid",
+  "shape_count": 105,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/hanzi-tian/exports/a5-draft/blank.svg",
+    "pdf": "templates/hanzi-tian/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hanzi-tian/exports/a5-draft/titled.pdf",
+    "preview": "templates/hanzi-tian/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hanzi-tian/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hanzi-tian/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hanzi-tian/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hanzi-tian/examples/zh-TW.svg",
+      "en": "templates/hanzi-tian/examples/en.svg",
+      "ja": "templates/hanzi-tian/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hanzi-tian/README.zh-TW.md",
+      "en": "templates/hanzi-tian/README.en.md",
+      "ja": "templates/hanzi-tian/README.ja.md"
+    }
+  }
+}

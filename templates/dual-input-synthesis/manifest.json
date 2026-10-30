@@ -1,0 +1,39 @@
+{
+  "id": "dual-input-synthesis",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_dual_input_synthesis",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of converging-flow. Two inputs rather than three converge on one output; the merge topology is unchanged.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "36b2290d442bca9311e039fd142154474e9d1c0fd7218c41ba201f30e4d1392d",
+  "titled_pdf_english_name": "Two-input synthesis",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/dual-input-synthesis/exports/a5-draft/blank.svg",
+    "pdf": "templates/dual-input-synthesis/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dual-input-synthesis/exports/a5-draft/titled.pdf",
+    "preview": "templates/dual-input-synthesis/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dual-input-synthesis/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dual-input-synthesis/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dual-input-synthesis/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dual-input-synthesis/examples/zh-TW.svg",
+      "en": "templates/dual-input-synthesis/examples/en.svg",
+      "ja": "templates/dual-input-synthesis/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dual-input-synthesis/README.zh-TW.md",
+      "en": "templates/dual-input-synthesis/README.en.md",
+      "ja": "templates/dual-input-synthesis/README.ja.md"
+    }
+  },
+  "variant_of": "converging-flow",
+  "variant_classification": "parameter"
+}

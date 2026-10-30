@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="75.500" cy="105.000" r="24.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="105.000" r="48.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="27.500" y1="105.000" x2="123.500" y2="105.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="57.000" x2="75.500" y2="153.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="zh-TW" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="39.500" y="86.000">北：近期</text>
+<text x="85.500" y="86.000">東：待協調</text>
+<text x="39.500" y="131.000">西：近期</text>
+<text x="85.500" y="131.000">南：待協調</text>
+</g>
+</svg>

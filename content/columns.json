@@ -1,0 +1,326 @@
+{
+  "two-equal-columns": {
+    "source_type": "generic-geometry",
+    "source_note": "Two equal uninterrupted writing regions, without a fixed comparison meaning.",
+    "translations": {
+      "zh-TW": {
+        "title": "等寬雙欄",
+        "purpose": "讓兩組同等重要的內容並排，逐行或整體對照。",
+        "when": [
+          "比較兩篇短文對同一問題的說法。",
+          "把一段原文與自己的改寫放在左右兩邊。"
+        ],
+        "steps": [
+          "先決定左右各代表什麼，寫在你自己的筆記中。",
+          "在相近高度放對應內容，必要時以箭頭連結。",
+          "回看哪些項目只在一側出現，記下需要補查的來源。"
+        ],
+        "unsuitable": "若一側只是短提示、另一側是長篇內容，等寬分配會浪費空間。",
+        "example": "示例把虛構展覽的紙本導覽與口頭導覽並列，對照可取得的資訊與疑問。",
+        "labels": [
+          "紙本導覽：可帶走",
+          "口頭導覽：可提問"
+        ]
+      },
+      "en": {
+        "title": "Equal two columns",
+        "purpose": "Place two equally important streams side by side for rowwise or whole-page comparison.",
+        "when": [
+          "Compare what two short articles say about one question.",
+          "Place an original passage beside your own rewrite."
+        ],
+        "steps": [
+          "Decide what each side represents and write that meaning in your notes.",
+          "Keep corresponding items at similar heights, adding arrows if useful.",
+          "Look for items present on only one side and note which source needs checking."
+        ],
+        "unsuitable": "Equal width wastes room when one side holds only short cues and the other needs long notes.",
+        "example": "A fictional exhibition's paper and spoken guides are compared by what visitors can learn and ask.",
+        "labels": [
+          "Paper guide: take home",
+          "Spoken guide: ask questions"
+        ]
+      },
+      "ja": {
+        "title": "等幅の二段組",
+        "purpose": "同じ重みの二種類の内容を左右に置き、行ごとや全体で比べます。",
+        "when": [
+          "同じ問いについて二つの短い記事を比べるとき。",
+          "原文と自分の書き換えを左右に置くとき。"
+        ],
+        "steps": [
+          "左右が何を表すか決め、自分のメモに記します。",
+          "対応する内容を近い高さに置き、必要なら矢印で結びます。",
+          "片側だけにある項目を見つけ、確認が必要な資料を記します。"
+        ],
+        "unsuitable": "片側が短い手がかりで、もう一方が長文なら等幅は余白を無駄にします。",
+        "example": "架空の展示会の紙の案内と口頭案内を並べ、得られる情報や質問のしやすさを比べています。",
+        "labels": [
+          "紙の案内：持ち帰れる",
+          "口頭案内：質問できる"
+        ]
+      }
+    }
+  },
+  "two-left-narrow": {
+    "source_type": "generic-geometry",
+    "source_note": "A narrow reference rail beside a large uninterrupted working area; no lower summary as in Cornell notes.",
+    "translations": {
+      "zh-TW": {
+        "title": "窄左欄主筆記",
+        "purpose": "窄欄放參照線索，寬欄保留大幅連續書寫或作圖空間。",
+        "when": [
+          "閱讀資料時左邊放來源代碼，右邊畫關係圖。",
+          "訪談整理時左邊記主題，右邊寫完整摘記。"
+        ],
+        "steps": [
+          "先決定左欄只收短索引，不放完整句子。",
+          "在右欄記錄主要內容，對應左欄的索引保持相近高度。",
+          "回顧時以左欄快速定位，確認右欄仍有足夠脈絡。"
+        ],
+        "unsuitable": "需要頁末總結與遮住主文自測時，康乃爾版型更適合。",
+        "example": "示例以虛構訪談為題，左欄放『場地』線索，右欄記受訪者描述的空間安排。",
+        "labels": [
+          "場地",
+          "入口靠近書架，座位在窗邊。"
+        ]
+      },
+      "en": {
+        "title": "Narrow left reference column",
+        "purpose": "Keep brief references on the left and leave the wide area for continuous notes or drawings.",
+        "when": [
+          "Put source codes on the left while drawing a relationship map on the right.",
+          "Use short interview themes beside fuller notes."
+        ],
+        "steps": [
+          "Reserve the left rail for short indexes rather than full sentences.",
+          "Record the main material on the right at roughly the same height as its cue.",
+          "Review using the rail and check that the main text still has enough context."
+        ],
+        "unsuitable": "For a bottom summary and self-testing by covering the main text, choose a Cornell layout.",
+        "example": "A fictional interview uses a venue cue at left and a description of entrances and seating at right.",
+        "labels": [
+          "Venue",
+          "Entrance near shelves; seats by window."
+        ]
+      },
+      "ja": {
+        "title": "左に狭い参照欄",
+        "purpose": "左に短い参照を置き、広い右側を文章や図に使います。",
+        "when": [
+          "左に資料番号を置き、右に関係図を描くとき。",
+          "聞き取りの話題を左に、詳しい記録を右に書くとき。"
+        ],
+        "steps": [
+          "左欄は短い索引だけに使い、文章は入れません。",
+          "右に主な内容を書き、対応する手がかりと高さをそろえます。",
+          "左欄を見て探し直し、右側に十分な文脈があるか確かめます。"
+        ],
+        "unsuitable": "下部の要約や主文を隠した自己テストには、コーネル式が向いています。",
+        "example": "架空の聞き取りで左に会場という語、右に入口と座席の配置の説明を置いています。",
+        "labels": [
+          "会場",
+          "入口は棚の近く、席は窓辺。"
+        ]
+      }
+    }
+  },
+  "three-columns": {
+    "source_type": "generic-geometry",
+    "source_note": "Three equal vertical writing regions for three parallel streams.",
+    "translations": {
+      "zh-TW": {
+        "title": "等寬三欄",
+        "purpose": "讓三組平行資訊同頁對照，保留各自的完整縱向脈絡。",
+        "when": [
+          "比較三個方案的優點與疑問。",
+          "整理三份資料對同一主題的觀點。"
+        ],
+        "steps": [
+          "先替三欄各自決定一個來源或方案。",
+          "沿欄由上而下寫短項目，對應資訊放在相近高度。",
+          "逐列查看共同點與空白，補上仍需查證的資料。"
+        ],
+        "unsuitable": "每欄寬度只有全頁三分之一，不適合長句或大幅圖。",
+        "example": "示例比較虛構讀書會的三種場地：圖書館、社區中心與戶外亭。",
+        "labels": [
+          "圖書館",
+          "社區中心",
+          "戶外亭"
+        ]
+      },
+      "en": {
+        "title": "Three equal columns",
+        "purpose": "Compare three parallel streams while preserving each one's vertical context.",
+        "when": [
+          "List strengths and questions for three proposals.",
+          "Compare how three sources address the same subject."
+        ],
+        "steps": [
+          "Assign one source or option to each column.",
+          "Write short entries downward, keeping comparable items near the same height.",
+          "Scan across for shared points and gaps that need checking."
+        ],
+        "unsuitable": "Each column is only a third of the page; long sentences and large drawings are cramped.",
+        "example": "Three fictional reading-group venues are compared: a library, community center, and outdoor pavilion.",
+        "labels": [
+          "Library",
+          "Community center",
+          "Outdoor pavilion"
+        ]
+      },
+      "ja": {
+        "title": "等幅の三段組",
+        "purpose": "三つの並行する情報を比べ、それぞれの縦の流れも保ちます。",
+        "when": [
+          "三案の利点と疑問を比べるとき。",
+          "三つの資料が同じ話題をどう扱うか整理するとき。"
+        ],
+        "steps": [
+          "各欄に一つの資料や案を割り当てます。",
+          "短い項目を上から書き、比較する項目の高さを近づけます。",
+          "横に見て共通点と空欄を探し、確認事項を補います。"
+        ],
+        "unsuitable": "各欄はページの三分の一幅なので、長文や大きな図には狭すぎます。",
+        "example": "架空の読書会で図書館、地域センター、屋外の東屋という三つの会場を比べています。",
+        "labels": [
+          "図書館",
+          "地域センター",
+          "屋外の東屋"
+        ]
+      }
+    }
+  },
+  "column-dot-main": {
+    "source_type": "original-hybrid",
+    "source_note": "Narrow ruled cue rail beside an open dot lattice for diagrams.",
+    "translations": {
+      "zh-TW": {
+        "title": "左線右點筆記",
+        "purpose": "左欄逐行列線索，右側用點陣畫對應結構。",
+        "when": [
+          "列出三個概念後，畫出它們的連線。",
+          "左欄記步驟，右邊畫物件布局。"
+        ],
+        "steps": [
+          "在左側每行寫一個短線索。",
+          "在右側點陣畫位置、框或箭頭，對照左欄項目。",
+          "檢查兩側是否一一對應，沒有對應的線索另做記號。"
+        ],
+        "unsuitable": "主內容全是長文時，點陣區缺少書寫基線；精密尺寸也需另標。",
+        "example": "示例左欄列虛構花園的入口與座位，右側把兩處畫在點陣上，並標出動線。",
+        "labels": [
+          "入口：左側",
+          "座位靠窗",
+          "通道保持暢通"
+        ]
+      },
+      "en": {
+        "title": "Ruled cue rail and dot field",
+        "purpose": "List cues on narrow rules at left and draw their structure in the dot field at right.",
+        "when": [
+          "List three concepts and then show connections between them.",
+          "Write steps on the left and sketch an object layout on the right."
+        ],
+        "steps": [
+          "Write one short cue on each left-hand line.",
+          "Use right-hand dots for positions, boxes, or arrows related to those cues.",
+          "Check which cues have a visual counterpart and flag any that do not."
+        ],
+        "unsuitable": "Long prose lacks baselines in the dot field, and exact dimensions still need separate notation.",
+        "example": "A fictional garden's entrance and seats are listed at left, positioned at right, and joined by a route.",
+        "labels": [
+          "Entry: left",
+          "Seats by window",
+          "Keep passage clear"
+        ]
+      },
+      "ja": {
+        "title": "左罫線・右ドット",
+        "purpose": "左欄に手がかりを一行ずつ並べ、右の点で対応する構造を描きます。",
+        "when": [
+          "三つの概念を列挙し、つながりを描くとき。",
+          "左に手順を書き、右に物の配置を描くとき。"
+        ],
+        "steps": [
+          "左の各行に短い手がかりを一つ書きます。",
+          "右の点を使って、対応する位置、枠、矢印を描きます。",
+          "両側が対応しているか確かめ、対応しない語には印を付けます。"
+        ],
+        "unsuitable": "長文には右の点だけでは書字線が不足し、正確な寸法も別に記す必要があります。",
+        "example": "架空の庭の入口と席を左に並べ、右でその位置と通り道を描いています。",
+        "labels": [
+          "入口：左",
+          "席は窓際",
+          "通路を空ける"
+        ]
+      }
+    }
+  },
+  "two-columns-summary": {
+    "source_type": "original-layout",
+    "source_note": "Two equal upper sources converge on a full-width synthesis region below.",
+    "translations": {
+      "zh-TW": {
+        "title": "雙欄加總結",
+        "purpose": "先保留兩邊的不同觀點，再在底部寫一個整合結論。",
+        "when": [
+          "比較兩份資料後寫出暫時的共同結論。",
+          "討論兩種方案，再整理尚待驗證的折衷方向。"
+        ],
+        "steps": [
+          "上方左右各寫一個來源或方案。",
+          "沿同一高度記下可比較的要點與差異。",
+          "在下方用自己的話寫目前能支持的結論及未解問題。"
+        ],
+        "unsuitable": "若兩邊內容長度差異懸殊，等寬上欄可能浪費一側；總結帶也不適合長篇報告。",
+        "example": "示例上方比較虛構讀書會的室內與戶外場地，底部寫出天候是選址的待查條件。",
+        "labels": [
+          "室內：設備穩定",
+          "戶外：空間開放",
+          "結論：先確認天候與備案"
+        ]
+      },
+      "en": {
+        "title": "Two columns with synthesis",
+        "purpose": "Keep two viewpoints distinct above, then write a combined conclusion across the bottom.",
+        "when": [
+          "Compare two sources before drafting a tentative shared conclusion.",
+          "Discuss two options and name a compromise that still needs checking."
+        ],
+        "steps": [
+          "Assign one source or option to each upper side.",
+          "Put comparable points and differences at similar heights.",
+          "Write what the evidence currently supports and what remains unresolved in the bottom band."
+        ],
+        "unsuitable": "If one side is much longer, equal upper columns waste space; the bottom band is not for a full report.",
+        "example": "Indoor and outdoor venues for a fictional reading group are compared; weather and a backup plan remain the synthesis question.",
+        "labels": [
+          "Indoor: reliable equipment",
+          "Outdoor: open space",
+          "Check weather and backup plan"
+        ]
+      },
+      "ja": {
+        "title": "二欄とまとめ",
+        "purpose": "上で二つの見方を分け、下の全幅欄で統合した考えを書きます。",
+        "when": [
+          "二つの資料を比べて暫定的な共通結論を書くとき。",
+          "二案を話し合い、確認が必要な折衷案を整理するとき。"
+        ],
+        "steps": [
+          "上の左右に資料や案を一つずつ割り当てます。",
+          "比べられる点や違いを近い高さに書きます。",
+          "下欄に今言える結論と未解決の問いを自分の言葉で書きます。"
+        ],
+        "unsuitable": "左右の量が大きく違うと片側が余り、下欄にも長い報告は入りません。",
+        "example": "架空の読書会で屋内と屋外を比べ、天候と代替場所の確認を下欄にまとめています。",
+        "labels": [
+          "屋内：設備が安定",
+          "屋外：広く使える",
+          "天候と代替案を確認"
+        ]
+      }
+    }
+  }
+}

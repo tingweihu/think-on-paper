@@ -1,0 +1,232 @@
+{
+  "ruled-narrow": {
+    "zh-TW": ["用較小字跡摘錄一場短講，在窄行距中連續記下關鍵句。", "讀短篇散文時逐段寫精簡旁記，讓同頁容納較多條目。"],
+    "en": ["Take compact, small-handwriting notes from a short talk on closely spaced lines.", "Write brief paragraph notes while reading a short essay, fitting more entries on one page."],
+    "ja": ["短い講演の要点を、小さな字と狭い行間で続けて記録するとき。", "短い随筆を読み、段落ごとの短いメモを一ページに多く残すとき。"]
+  },
+  "ruled-wide": {
+    "zh-TW": ["用較大字跡整理訪談重點，讓各行之間留出補字空間。", "練寫短句時希望行與行分得更開，方便圈出要修改的字。"],
+    "en": ["Summarize an interview in larger handwriting with room between lines for additions.", "Practice short sentences with wider separation so individual words can be circled and revised."],
+    "ja": ["聞き取りの要点を大きな字でまとめ、行間に追記する余地を残すとき。", "短文の練習で行を広く離し、直す文字を丸で囲みたいとき。"]
+  },
+  "cornell-mirrored": {
+    "zh-TW": ["把課堂主筆記寫在左側，再在右側提示欄補上自問問題。", "用右欄關鍵詞回想左欄的文章重點，再於下方寫摘要。"],
+    "en": ["Write lesson notes on the left and add self-test questions in the right cue column.", "Recall an article from right-hand keywords, then summarize the main points at the bottom."],
+    "ja": ["授業の本文を左に書き、右の手がかり欄へ自分への問いを追加するとき。", "右欄の語句から記事の要点を思い出し、下部に要約するとき。"]
+  },
+  "recall-strip": {
+    "zh-TW": ["先完成康乃爾筆記，再隔一段時間於額外回想帶寫下仍記得的內容。", "比較課後摘要與稍後的回想記錄，找出需回讀的概念。"],
+    "en": ["Finish Cornell notes, then use the extra recall strip later to record what you still remember.", "Compare an after-lesson summary with a delayed recall entry to choose concepts to revisit."],
+    "ja": ["コーネル式の記録を終え、時間を置いて追加の想起帯に覚えている内容を書くとき。", "授業直後の要約と後の想起記録を比べ、読み直す概念を選ぶとき。"]
+  },
+  "cross-compare": {
+    "zh-TW": ["用成本與可逆性兩個標準，把四個活動方案放進交叉區比較。", "將四項改善提案依準備時間與影響範圍分類，討論先試哪一項。"],
+    "en": ["Place four event options across cost and reversibility criteria to compare tradeoffs.", "Classify four improvement proposals by preparation time and reach before choosing a trial."],
+    "ja": ["四つの催し案を費用と戻しやすさの二基準で配置し、取捨を比べるとき。", "四つの改善案を準備時間と影響範囲で分け、最初の試行を決めるとき。"]
+  },
+  "fishbone-four": {
+    "zh-TW": ["以通知、時段、地點、報名方式四類，整理活動參與偏低的原因假設。", "把重複漏件的可能原因先分為四組，再沿支枝補上待查線索。"],
+    "en": ["Group low event participation hypotheses into notice, timing, location and registration method.", "Sort possible causes of recurring missing items into four groups before adding evidence leads on branches."],
+    "ja": ["催しの参加が少ない理由を、案内・時間・場所・申込方法の四分類で仮説にするとき。", "繰り返す入れ忘れの原因候補を四群に分け、枝に調べる手がかりを追加するとき。"]
+  },
+  "storyboard-three": {
+    "zh-TW": ["用三格呈現短片的開場、轉折與結尾，先確認故事是否連得起來。", "將服務體驗壓縮為到達、操作、離開三個關鍵場景。"],
+    "en": ["Sketch a short film's opening, turn and ending in three frames to check its basic story.", "Reduce a service visit to three key scenes: arrival, interaction and departure."],
+    "ja": ["短編の導入・転換・結末を三コマに描き、話がつながるか確かめるとき。", "サービス体験を到着・利用・退出の三場面に絞るとき。"]
+  },
+  "storyboard-four": {
+    "zh-TW": ["以四格畫出人物遇到問題、嘗試、獲得回饋與調整的過程。", "把一段操作教學拆成四個能看出變化的畫面。"],
+    "en": ["Show a character's problem, attempt, feedback and adjustment in four frames.", "Break a brief how-to sequence into four pictures with a visible change in each."],
+    "ja": ["人物の問題・試行・反応・調整を四コマで示すとき。", "短い操作説明を、変化が見える四つの画面に分けるとき。"]
+  },
+  "two-sketch-notes": {
+    "zh-TW": ["並列記錄物件修改前與修改後的兩張草圖，另記改動理由。", "用兩個畫面比較同一入口在白天與夜晚的辨識方式。"],
+    "en": ["Draw an object before and after a revision in two sketch areas and note why it changed.", "Use two pictures to compare how the same entrance can be recognized by day and by night."],
+    "ja": ["物の修正前と修正後を二つの描画欄に記し、変更理由を添えるとき。", "同じ入口の昼と夜の見つけ方を二枚の図で比べるとき。"]
+  },
+  "ruled-and-sketch": {
+    "zh-TW": ["先在上方橫線整理訪談線索，再於下方畫出可能的物件配置。", "把文字描述寫在上半頁，用下半頁草圖檢查自己是否理解空間關係。"],
+    "en": ["Record interview clues on the upper ruled area, then sketch a possible object arrangement below.", "Write a description in the upper half and use the lower sketch to check your spatial understanding."],
+    "ja": ["上の罫線に聞き取りの手がかりを書き、下に物の配置案を描くとき。", "上半分に説明を書き、下半分の図で空間関係の理解を確かめるとき。"]
+  },
+  "grid-fine": {
+    "zh-TW": ["在較細的方格上試畫小型包裝的展開草圖，保留尺寸待核記號。", "將密集但簡短的符號逐格排列，檢查圖樣是否重複一致。"],
+    "en": ["Draft a small package net on fine squares, marking dimensions that still need checking.", "Arrange dense, short symbols cell by cell to inspect a repeating pattern."],
+    "ja": ["細かい方眼で小さな包装の展開図を下書きし、要確認の寸法に印を付けるとき。", "短い記号を密に並べ、模様の繰り返しを点検するとき。"]
+  },
+  "grid-large": {
+    "zh-TW": ["用較大格子畫教室的區塊配置，每格只代表約定的空間單位。", "讓較大的手寫符號各占一格，整理少量分類或計數。"],
+    "en": ["Block out classroom zones on large squares, defining what spatial unit each cell represents.", "Give larger handwritten symbols one cell each when organizing a small classification or count."],
+    "ja": ["大きい方眼で教室の区画を描き、一マスの空間単位を自分で定めるとき。", "少量の分類や数を、大きな記号で一マスずつ整理するとき。"]
+  },
+  "engineering-grid": {
+    "zh-TW": ["畫機構草圖時以每五格的主線定位，細格補充局部比例。", "在同頁比較零件外形，利用粗細格線分辨整體與細部單位。"],
+    "en": ["Locate a mechanism sketch with every-fifth-cell guides and use the fine grid for local proportions.", "Compare component outlines while distinguishing overall and detail units through the grid hierarchy."],
+    "ja": ["機構の下書きを五マスごとの主線で位置決めし、細かい格子で部分の比率を描くとき。", "部品の輪郭を比べ、主線と補助線で全体と細部の単位を区別するとき。"]
+  },
+  "pixel-stitch-grid": {
+    "zh-TW": ["把一個簡單像素圖案逐格填色，先約定每格代表一個像素。", "規劃小幅針織或刺繡圖樣，用格數記錄重複單元。"],
+    "en": ["Color a simple pixel motif cell by cell, defining one square as one pixel.", "Plan a small knitting or embroidery pattern and count its repeating stitch units."],
+    "ja": ["一マスを一画素と決め、簡単なピクセル模様を塗り分けるとき。", "小さな編み物や刺繍の図案で、繰り返す単位のマス数を数えるとき。"]
+  },
+  "dot-fine": {
+    "zh-TW": ["用細點距對齊小型圖示，仍保留手繪曲線的自由。", "在同頁寫密集短記並加上迷你關係圖，以點位控制間距。"],
+    "en": ["Align small icons on closely spaced dots while leaving curves freehand.", "Combine compact notes and miniature relationship sketches, using fine dots to control spacing."],
+    "ja": ["細かい点で小さなアイコンをそろえ、曲線は自由に描きたいとき。", "短い記録と小さな関係図を同じページに置き、点で間隔を整えるとき。"]
+  },
+  "isometric-grid": {
+    "zh-TW": ["沿三方向格線畫方塊家具的等角草圖，觀察各面的相接方式。", "比較積木組合的立體外形，不把草圖當成實測尺寸圖。"],
+    "en": ["Sketch block-shaped furniture along the three grid directions to see how its faces meet.", "Compare the forms of block assemblies without treating the sketches as measured drawings."],
+    "ja": ["三方向の線に沿って箱形家具を等角で描き、面のつながりを見るとき。", "積み木の組合せの立体形状を比べ、実測図とは分けて扱うとき。"]
+  },
+  "axis-matrix": {
+    "zh-TW": ["先定義兩軸的相對尺度，再標出多個提案的位置以比較取捨。", "把待辦事項依兩項自訂評估值放在刻度附近，另記評估依據。"],
+    "en": ["Define relative scales on two axes, then position several proposals to compare tradeoffs.", "Place tasks near ticks using two chosen ratings and record the basis for each rating separately."],
+    "ja": ["二軸の相対尺度を定め、複数案の位置から取捨を比べるとき。", "自分で選んだ二つの評価値で作業を目盛り付近に置き、根拠を別記するとき。"]
+  },
+  "quote-comment-parallel": {
+    "zh-TW": ["在一欄保留文章原句，另一欄逐項寫下自己的評論與疑問。", "對照虛構訪談摘句與分析備註，避免把解讀混進引文。"],
+    "en": ["Keep an article's exact passage in one column and your comments or questions in the other.", "Compare fictional interview excerpts with analysis notes without mixing interpretation into quotations."],
+    "ja": ["一方の欄に記事の原文、もう一方に自分のコメントや問いを対応させるとき。", "架空の聞き取りの引用と分析メモを並べ、引用へ解釈を混ぜないようにするとき。"]
+  },
+  "observation-interpretation": {
+    "zh-TW": ["觀察工作坊互動時，把可見行為與自己猜測的理由分欄記錄。", "檢視物件使用情形，左列寫實際看到的現象，右列寫待查解釋。"],
+    "en": ["Observe a workshop and separate visible behavior from your guesses about its reasons.", "Inspect how an object is used, placing observed events on the left and possible explanations on the right."],
+    "ja": ["ワークショップで見えた行動と、その理由についての推測を分けて記録するとき。", "物の使われ方を観察し、左に見えた現象、右に確かめる解釈を書くとき。"]
+  },
+  "two-right-narrow": {
+    "zh-TW": ["左側寫閱讀筆記，右側窄欄只放頁碼與待查詞。", "在左側畫場地草圖，右側集中列出尺寸疑問與核對記號。"],
+    "en": ["Write reading notes on the left and reserve the narrow right column for page numbers and terms to check.", "Sketch a venue on the left while collecting dimension questions and check marks in the right rail."],
+    "ja": ["左に読書メモを書き、右の細い欄にページ番号と調べる語だけを置くとき。", "左に会場図を描き、右欄へ寸法の疑問や確認印を集めるとき。"]
+  },
+  "cue-answer": {
+    "zh-TW": ["把自測問題放在窄欄，遮住較寬的答案區後練習口頭回想。", "閱讀後用短提示詞對照完整解釋，找出不能自行回答的題目。"],
+    "en": ["Put self-test questions in the narrow column and practice recall with the wider answer area covered.", "Match short cues to full explanations after reading and identify questions you cannot answer unaided."],
+    "ja": ["細い欄に自分への問いを書き、広い答え欄を隠して口頭で思い出すとき。", "読後に短い手がかりと説明を対応させ、一人で答えられない問いを見つけるとき。"]
+  },
+  "quote-side-notes": {
+    "zh-TW": ["在大欄摘錄一段文章，左側窄欄補來源頁碼與詞義註記。", "保留虛構海報的文字內容，將日期或措辭疑問寫在旁欄。"],
+    "en": ["Copy a passage into the large column and put its page reference and vocabulary notes in the narrow left rail.", "Keep a fictional poster's wording intact while noting date or phrasing questions beside it."],
+    "ja": ["広い欄に文章を引用し、左の細い欄に出典ページや語の注記を添えるとき。", "架空の掲示の文面を残し、日付や表現への疑問を脇に書くとき。"]
+  },
+  "three-stacked-cards": {
+    "zh-TW": ["把一次觀察拆為現象、可能解釋與下一步查證三張上下卡。", "用三個獨立區塊分別記錄活動前、進行中與結束後的反思。"],
+    "en": ["Separate an observation, a possible explanation and a next check into three stacked cards.", "Use three independent areas for reflections before, during and after an event."],
+    "ja": ["観察した現象・考えられる解釈・次の確認を上下三枚のカードに分けるとき。", "催しの前・最中・後の振り返りを三つの独立した欄に残すとき。"]
+  },
+  "six-cards": {
+    "zh-TW": ["為六位受訪者各留一張摘要卡，方便回看共同點。", "讀完章節後整理六項概念，每格放一項定義與短例。"],
+    "en": ["Reserve one summary card for each of six interviewees so common points can be revisited.", "Summarize six concepts after a chapter, placing one definition and short example in each cell."],
+    "ja": ["六人の聞き取りを一人一枚のカードにまとめ、共通点を見返すとき。", "章を読んだ後、六つの概念を一マス一項の定義と短い例で整理するとき。"]
+  },
+  "eight-cards": {
+    "zh-TW": ["用八張等大的卡整理八項展品的說明草稿。", "把八個彼此可獨立處理的議題分開記錄，之後再排序。"],
+    "en": ["Draft descriptions for eight exhibits on eight equally sized cards.", "Keep eight independently addressable topics separate before deciding their order."],
+    "ja": ["八つの展示物の説明を、同じ大きさの八枚のカードに下書きするとき。", "独立して扱える八つの議題を分けて記録し、後から順序を決めるとき。"]
+  },
+  "mirrored-compare-cards": {
+    "zh-TW": ["比較兩個場地的費用與避雨條件，讓左右卡使用同一對問題。", "把兩種物件的優點與限制分成左右對應的四張卡。"],
+    "en": ["Compare two venues on cost and rain shelter using matching questions on the left and right cards.", "Arrange the strengths and limits of two objects in four corresponding comparison cards."],
+    "ja": ["二つの会場の費用と雨への対応を、左右で同じ問いのカードに記すとき。", "二つの物の長所と制約を、左右で対応する四枚のカードに分けるとき。"]
+  },
+  "research-index-cards": {
+    "zh-TW": ["將四份資料各做一張索引卡，記下來源、主張與待核事項。", "為文章的四個研究線索建立獨立卡片，避免不同來源混在一起。"],
+    "en": ["Make one index card for each of four sources, recording provenance, a claim and open checks.", "Create separate cards for four research leads so material from different sources stays distinct."],
+    "ja": ["四つの資料を一枚ずつ索引カードにし、出典・主張・確認点を残すとき。", "文章の四つの調査の手がかりを別カードにし、出典を混ぜないようにするとき。"]
+  },
+  "crazy-eight": {
+    "zh-TW": ["為同一張海報快速畫八種不同構圖，完成前先不選最喜歡的一格。", "限時發想服務入口的八個草圖方向，之後再比較與組合。"],
+    "en": ["Quickly sketch eight different compositions for one poster before choosing a favorite.", "Use a time limit to explore eight service-entry sketches, then compare and combine them."],
+    "ja": ["同じポスターの異なる構図を八案素早く描き、描き終えてから好みを選ぶとき。", "時間を区切ってサービスの入口を八案描き、その後に比較や組合せをするとき。"]
+  },
+  "seven-ideation-cards": {
+    "zh-TW": ["為一個展覽主題收集七個獨立構想，每卡保留一項可延伸的提案。", "列七種活動開場方式，再選兩種做進一步草擬。"],
+    "en": ["Collect seven independent exhibition ideas, keeping one expandable proposal on each card.", "List seven ways to open an event before selecting two for further drafting."],
+    "ja": ["展示テーマに対する七つの独立した案を、一枚一案で発展できる形に残すとき。", "催しの始め方を七つ挙げ、その後に二案を選んで具体化するとき。"]
+  },
+  "source-large-plus-cards": {
+    "zh-TW": ["在主卡記錄一份活動海報，旁邊三卡分別放主張、依據與待查日期。", "整理一篇核心文章時，用三張小卡區分引文、解讀與追問。"],
+    "en": ["Record an event poster on the main card and separate its claim, evidence and date check into three smaller cards.", "Study one core article with three small cards for quotation, interpretation and follow-up questions."],
+    "ja": ["主カードに催しの掲示を記録し、小カード三枚に主張・根拠・日付の確認を分けるとき。", "一つの中心記事を読み、三枚の小カードに引用・解釈・追加の問いを分けるとき。"]
+  },
+  "frayer": {
+    "zh-TW": ["學習水循環等概念時，在中央寫概念，四周分別整理定義、特徵、例子與非例。", "發現相近概念容易混淆時，用例子與非例檢查分類邊界。"],
+    "en": ["Study a concept such as the water cycle by surrounding its name with definition, characteristics, examples and nonexamples.", "Use examples and nonexamples to check the boundary between concepts that are easy to confuse."],
+    "ja": ["水循環などの概念を中央に置き、周囲に定義・特徴・例・非例を整理するとき。", "混同しやすい概念の境界を、例と非例で確かめるとき。"]
+  },
+  "matrix-3x2": {
+    "zh-TW": ["用三列代表三個場地、兩欄代表設備與交通條件，逐格填資料。", "比較三份資料對兩個問題的回答，讓同一問題保持在同一欄。"],
+    "en": ["Use three rows for venues and two columns for equipment and access, filling each intersection.", "Compare how three sources answer two questions, keeping each question in the same column."],
+    "ja": ["三行に会場、二列に設備と交通条件を割り当て、交点を埋めるとき。", "三つの資料が二つの問いにどう答えるかを、問いごとの列で比べるとき。"]
+  },
+  "weighted-matrix": {
+    "zh-TW": ["比較三個活動方案時，將較高的資料列留給需要長句解釋的限制。", "對照三份文章的摘句與短評，依內容長度使用不等大的格子。"],
+    "en": ["Compare three event proposals, reserving the taller row for constraints needing longer explanations.", "Compare excerpts and short comments from three articles using unequal cells to fit their different lengths."],
+    "ja": ["三つの催し案を比べ、長い説明が必要な制約に高さのある行を割り当てるとき。", "三記事の引用と短評を比べ、内容の長さに応じて大小のマスを使うとき。"]
+  },
+  "hero-idea-seven-variations": {
+    "zh-TW": ["中央畫一個海報主構想，外側七卡各試一種版面改動。", "以一個服務方案為核心，探索七個不同的材料、流程或互動變化。"],
+    "en": ["Draw a core poster idea in the center and try one layout change on each of seven outer cards.", "Start from one service proposal and explore seven material, process or interaction variations."],
+    "ja": ["中心にポスターの基本案を描き、外側の七枚で一つずつ配置を変えてみるとき。", "一つのサービス案を核に、素材・手順・やり取りの七つの変化を探るとき。"]
+  },
+  "flower-six": {
+    "zh-TW": ["圍繞一個故事人物，用六個花瓣分別探索動機、習慣或背景面向。", "以社區活動為中心，分出六個互不重複的參與需求。"],
+    "en": ["Explore six facets of a story character's motives, habits or background around a central name.", "Place a community event in the center and identify six distinct participation needs on its petals."],
+    "ja": ["人物名を中心に、動機・習慣・背景など六つの面を花弁に広げるとき。", "地域の催しを中心に置き、異なる六つの参加ニーズを花弁に分けるとき。"]
+  },
+  "idea-bubbles-six": {
+    "zh-TW": ["為同一個活動主題收集六個不同的開場構想，先不評分。", "圍繞物件再利用的問題寫六種可能用途，之後再挑可試做的方向。"],
+    "en": ["Collect six different openings for one event theme without scoring them yet.", "Write six possible reuse ideas around an object before choosing directions to prototype."],
+    "ja": ["同じ催しのテーマに六つの始め方を集め、まだ点数を付けないとき。", "物の再利用を問いにして六つの用途案を広げ、その後で試作する方向を選ぶとき。"]
+  },
+  "flow-five-vertical": {
+    "zh-TW": ["由上到下寫出收件、登錄、分派、處理、回覆五個服務步驟。", "把五階段工作交接畫成直向流程，逐格註明下一步的輸入。"],
+    "en": ["List five service steps vertically: receive, log, assign, handle and reply.", "Map a five-stage handoff from top to bottom, noting what each next step receives."],
+    "ja": ["受付・記録・割当・対応・返信の五手順を上から並べるとき。", "五段階の引継ぎを縦に描き、次の段階が受け取るものを各枠に書くとき。"]
+  },
+  "causal-chain": {
+    "zh-TW": ["整理通知太晚是否可能導致看到的人少、報名少與到場少，逐段標出待查連結。", "將一個結果前的原因假設串成短鏈，另找資料檢查每一步是否成立。"],
+    "en": ["Examine whether late notice could lead to fewer views, sign-ups and attendees, marking each link to check.", "Arrange causal hypotheses preceding an outcome in a short chain and seek evidence for every step."],
+    "ja": ["案内の遅れが閲覧・申込・出席の減少につながるか、各関係を仮説として並べるとき。", "結果に先立つ原因候補を短い鎖にし、一段ずつ根拠を探すとき。"]
+  },
+  "five-why-chain": {
+    "zh-TW": ["活動報名偏少時，從觀察到的問題逐層追問為什麼，將每個回答視為待查假設。", "追查反覆漏交材料的原因，在五格內記錄追問與證據缺口，不為填滿格子而猜答案。"],
+    "en": ["Investigate low event sign-ups by repeatedly asking why from the observed problem and treating answers as hypotheses.", "Examine recurring missing materials in five boxes, recording follow-up questions and evidence gaps rather than guessing to fill cells."],
+    "ja": ["催しの申込が少ないという観察から『なぜ』を重ね、各答えを仮説として調べるとき。", "材料の提出漏れが繰り返す理由を五枠で追い、枠を埋めるための推測ではなく問いと根拠の不足を記すとき。"]
+  },
+  "cycle-six": {
+    "zh-TW": ["將觀察、定題、發想、試作、試用、回顧排成六階段改善循環。", "描述材料收集、分類、清理、加工、使用、回收的六步再利用路徑。"],
+    "en": ["Arrange observe, define, ideate, prototype, try and review as a six-stage improvement loop.", "Describe six reuse stages: collect, sort, clean, process, use and recover."],
+    "ja": ["観察・課題設定・発想・試作・試用・振り返りを六段階の改善循環にするとき。", "収集・分類・洗浄・加工・使用・回収の六段階で再利用の流れを説明するとき。"]
+  },
+  "dual-input-synthesis": {
+    "zh-TW": ["把兩篇文章的重點分置左側兩框，右側寫出可支持的整合觀點。", "將訪談發現與現場觀察作為兩個輸入，整理共同結論與仍有衝突的地方。"],
+    "en": ["Put two articles' main points in the two input boxes and write a supportable synthesis on the right.", "Combine interview findings and direct observation as two inputs, recording agreement and unresolved conflicts."],
+    "ja": ["二記事の要点を左の二枠に置き、右に根拠のある統合見解を書くとき。", "聞き取りと現場観察を二つの入力として、共通点と残る食い違いをまとめるとき。"]
+  },
+  "mindmap-eight": {
+    "zh-TW": ["以展覽為中心，向八條主枝分配觀眾、場地、內容等準備面向。", "讀完一篇長文後先找八個主要概念，再在各枝補上支持細節。"],
+    "en": ["Plan an exhibition across eight main branches, such as audience, space and content.", "Identify eight main concepts after a long article and add supporting details along their branches."],
+    "ja": ["展示を中心に、観客・会場・内容など八つの準備面を主枝へ割り当てるとき。", "長い記事から八つの主要概念を選び、枝に補足の細部を加えるとき。"]
+  },
+  "concept-examples-six": {
+    "zh-TW": ["中央寫哺乳類等概念，外圍六區各放一個符合定義的具體例子。", "學習一項設計原則時，蒐集六個可說明該原則的不同案例。"],
+    "en": ["Put a concept such as mammals in the center and one qualifying example in each of six surrounding regions.", "Collect six different cases that illustrate a design principle you are learning."],
+    "ja": ["哺乳類などの概念を中心に置き、定義に合う具体例を周囲の六領域へ一つずつ書くとき。", "学んでいる設計原則を説明できる、異なる六つの事例を集めるとき。"]
+  },
+  "bottom-up-tree": {
+    "zh-TW": ["先把四條觀察寫在上方，歸納成兩組，再於下方形成一個總結主題。", "把四項活動需求逐級合併，檢查兩個中間類別是否支持同一目標。"],
+    "en": ["Start with four observations at the top, group them in two middle boxes and synthesize one topic below.", "Combine four event needs through two intermediate categories and check whether they support one goal."],
+    "ja": ["上の四枠に観察を置き、中間の二群へまとめ、下に一つの総括テーマを作るとき。", "四つの活動ニーズを二つの中間分類へまとめ、一つの目的を支えるか確かめるとき。"]
+  },
+  "pyramid-five": {
+    "zh-TW": ["以五層整理展覽從基礎資源、能力、活動、產出到目標的支撐關係。", "區分五種抽象層次的筆記，將具體事例放在較下層、概括主張放在較上層。"],
+    "en": ["Use five tiers to relate an exhibition's resources, capabilities, activities, outputs and goal.", "Separate notes into five abstraction levels, placing concrete cases below broader claims."],
+    "ja": ["展示の資源・能力・活動・成果物・目的の支え合いを五段に整理するとき。", "記録を五つの抽象度に分け、具体例を下へ、概括的な主張を上へ置くとき。"]
+  },
+  "mixed-storyboard": {
+    "zh-TW": ["先用大框交代場地全景，再以三個小框畫人物進入、互動與離開。", "用一張主要畫面配三張局部畫面，檢查產品介紹片的視角切換。"],
+    "en": ["Establish a venue in the large frame, then use three smaller frames for entry, interaction and departure.", "Pair one main view with three detail shots to plan viewpoint changes in a product introduction."],
+    "ja": ["大枠に会場全景を示し、三つの小枠に入場・交流・退出を描くとき。", "一枚の主要画面と三枚の細部画面で、製品紹介の視点の切替えを考えるとき。"]
+  }
+}

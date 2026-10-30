@@ -1,0 +1,37 @@
+{
+  "id": "bridge-analogy",
+  "family": "comparison",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.comparison.bridge_analogy",
+  "source_type": "original-layout",
+  "source_note": "Two larger domains connect through a three-part bridge of mapped aspects.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "96c72e1ea6b60176918ae6e6af733264710413c50b2f81a24b53bb55e3a19e14",
+  "titled_pdf_english_name": "Bridge analogy",
+  "shape_count": 7,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/bridge-analogy/exports/a5-draft/blank.svg",
+    "pdf": "templates/bridge-analogy/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/bridge-analogy/exports/a5-draft/titled.pdf",
+    "preview": "templates/bridge-analogy/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/bridge-analogy/exports/a5-contrast/blank.svg",
+      "pdf": "templates/bridge-analogy/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/bridge-analogy/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/bridge-analogy/examples/zh-TW.svg",
+      "en": "templates/bridge-analogy/examples/en.svg",
+      "ja": "templates/bridge-analogy/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/bridge-analogy/README.zh-TW.md",
+      "en": "templates/bridge-analogy/README.en.md",
+      "ja": "templates/bridge-analogy/README.ja.md"
+    }
+  }
+}

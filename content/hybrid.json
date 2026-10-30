@@ -1,0 +1,494 @@
+{
+  "dot-and-blank": {
+    "source_type": "original-layout",
+    "source_note": "One upper dot field and one lower open field provide different mark-making surfaces on the same page.",
+    "translations": {
+      "zh-TW": {
+        "title": "上點陣下留白",
+        "purpose": "先用點陣安排位置或比例，再在留白區寫自由補充。",
+        "when": [
+          "畫小型展桌配置後記下待確認的材料。",
+          "將資料點位草圖與心得分開記錄。"
+        ],
+        "steps": [
+          "在上方點陣區畫位置關係或簡單比例。",
+          "下方留白寫觀察、疑問與下一步。",
+          "檢查文字是否真的對應圖中某個位置，必要時加連線。"
+        ],
+        "unsuitable": "點陣不是精確尺規，沒有核定尺寸時不能當施工圖。",
+        "example": "虛構展桌在上方以四個位置點排出草圖，下方記『電源位置與通道寬度待查』。",
+        "labels": [
+          "展桌：兩列點位",
+          "檢查電源與通道"
+        ]
+      },
+      "en": {
+        "title": "Dot field and open field",
+        "purpose": "Use dots for spatial planning above and leave an open area below for free notes.",
+        "when": [
+          "Sketch display-table positions and list materials to check.",
+          "Keep a plot of data points beside reflection notes."
+        ],
+        "steps": [
+          "Arrange positions or rough proportions in the dot field.",
+          "Use the open field for observations, questions, and next actions.",
+          "Connect notes back to a location in the sketch when useful."
+        ],
+        "unsuitable": "Dots are not a calibrated ruler; do not use this as a construction plan without measured dimensions.",
+        "example": "A fictional display uses four table positions above and notes below that outlet and path width need checking.",
+        "labels": [
+          "Display tables: two rows",
+          "Check power and passage"
+        ]
+      },
+      "ja": {
+        "title": "上はドット、下は余白",
+        "purpose": "上の点で位置関係を描き、下の余白に自由な補足を書きます。",
+        "when": [
+          "展示台の配置を描き、材料の確認点を記すとき。",
+          "点の草図と感想を分けるとき。"
+        ],
+        "steps": [
+          "上の点の領域で位置や大まかな比率を描きます。",
+          "下の余白に観察、疑問、次の行動を書きます。",
+          "必要なら文章と図の位置を線で結びます。"
+        ],
+        "unsuitable": "ドットは校正された定規ではありません。実測寸法なしに施工図として使わないでください。",
+        "example": "架空の展示台四台の位置を上に示し、下に電源と通路幅の確認点を書きます。",
+        "labels": [
+          "展示台：二列の位置",
+          "電源と通路を確認"
+        ]
+      }
+    }
+  },
+  "mindmap-and-ruled": {
+    "source_type": "original-layout",
+    "source_note": "A compact radial concept graph occupies the upper page and a ruled reflection field occupies the lower page.",
+    "translations": {
+      "zh-TW": {
+        "title": "概念圖加橫線筆記",
+        "purpose": "上半快速展開四個方向，下半把其中一個方向寫成可讀的說明。",
+        "when": [
+          "讀書時先找主題的四個面向，再寫一段摘要。",
+          "規劃活動時先發想，後寫出要試的方案。"
+        ],
+        "steps": [
+          "上半中心寫主題，四圈放不同方向。",
+          "選最值得追查的一圈，在下半寫出具體說明。",
+          "回頭檢查文字是否超出圖中原本假設。"
+        ],
+        "unsuitable": "小圈只能寫短詞；若有八個以上方向，先用完整概念圖。",
+        "example": "虛構講座主題是『地方故事』，四圈是訪談、照片、地圖、分享；下半寫一段訪談試辦方式。",
+        "labels": [
+          "地方故事",
+          "訪談",
+          "照片",
+          "地圖",
+          "分享",
+          "先試一場訪談"
+        ]
+      },
+      "en": {
+        "title": "Concept map with ruled notes",
+        "purpose": "Explore four directions above, then explain one in readable prose below.",
+        "when": [
+          "Find four angles in a reading before writing a summary.",
+          "Brainstorm an event and then describe a pilot approach."
+        ],
+        "steps": [
+          "Put the topic in the center and distinct angles in the four circles.",
+          "Choose one angle and explain it concretely on the lower lines.",
+          "Check whether the prose goes beyond the original map's assumptions."
+        ],
+        "unsuitable": "Small circles fit short terms; use a full concept map when many branches matter.",
+        "example": "A fictional local-history talk maps interviews, photos, maps, and sharing, then describes one trial interview below.",
+        "labels": [
+          "Local stories",
+          "Interviews",
+          "Photos",
+          "Maps",
+          "Sharing",
+          "Try one interview"
+        ]
+      },
+      "ja": {
+        "title": "概念図と横罫メモ",
+        "purpose": "上で四方向を広げ、下で一方向を文章にします。",
+        "when": [
+          "読書の主題を四観点で整理して要約するとき。",
+          "催しを発想した後で試行案を書くとき。"
+        ],
+        "steps": [
+          "上の中心に題材、周囲に異なる四観点を書きます。",
+          "一つ選び、下の罫線に具体的な説明を書きます。",
+          "文章が図の仮定を越えていないか確かめます。"
+        ],
+        "unsuitable": "小円は短語向けです。枝が多い場合は全頁の概念図を使います。",
+        "example": "架空の地域の話を面談、写真、地図、共有に分け、下に面談の試行方法を書きます。",
+        "labels": [
+          "地域の話",
+          "面談",
+          "写真",
+          "地図",
+          "共有",
+          "面談を一回試す"
+        ]
+      }
+    }
+  },
+  "center-with-notes": {
+    "source_type": "original-layout",
+    "source_note": "One central concept circle is surrounded by four large ruled note regions with short connector lines.",
+    "translations": {
+      "zh-TW": {
+        "title": "中心主題與四區筆記",
+        "purpose": "保留中心主題，四周各寫一種較長的觀察或解釋。",
+        "when": [
+          "討論一個公共空間時分記使用者、時間、設備、維護。",
+          "閱讀一個概念後寫四個不同角度的解釋。"
+        ],
+        "steps": [
+          "中心只寫一個明確主題。",
+          "四個大框各選一個不同觀察角度，寫成短段落。",
+          "比較四區是否有衝突，必要時在框外標記待查連結。"
+        ],
+        "unsuitable": "四框的方向沒有預設意義；當大量交叉因果重要時應改用網絡圖。",
+        "example": "虛構圖書館服務為中心，四角分別記讀者、開放時間、設備與維護的觀察。",
+        "labels": [
+          "圖書館服務",
+          "讀者",
+          "開放時間",
+          "設備",
+          "維護"
+        ]
+      },
+      "en": {
+        "title": "Center with four note regions",
+        "purpose": "Keep one topic at the center while giving four surrounding angles room for longer notes.",
+        "when": [
+          "Discuss users, hours, equipment, and upkeep of a public space.",
+          "Explain a concept from four different angles after reading."
+        ],
+        "steps": [
+          "Name a precise topic in the center.",
+          "Give each broad outer area a different angle and write a short note.",
+          "Compare the areas and mark any conflict or link still needing evidence."
+        ],
+        "unsuitable": "Directions have no preset meaning; use a network when many causal cross-links matter.",
+        "example": "A fictional library service sits at the center, with notes about readers, hours, equipment, and upkeep around it.",
+        "labels": [
+          "Library service",
+          "Readers",
+          "Hours",
+          "Equipment",
+          "Upkeep"
+        ]
+      },
+      "ja": {
+        "title": "中心テーマと四つのメモ欄",
+        "purpose": "中心の題材を保ちながら、周囲の四観点に少し長いメモを書きます。",
+        "when": [
+          "公共空間の利用者、時間、設備、維持を分けて考えるとき。",
+          "読後に一つの概念を四方向から説明するとき。"
+        ],
+        "steps": [
+          "中心に明確な題材を一つ書きます。",
+          "四つの広い欄に異なる観点を置き、短い説明を書きます。",
+          "欄の間の食い違いや未確認の関係を見つけます。"
+        ],
+        "unsuitable": "四方向には固定の意味がありません。交差する因果が多い場合はネットワーク図を使います。",
+        "example": "架空の図書館サービスを中心に、読者、開館時間、設備、維持のメモを周囲に置きます。",
+        "labels": [
+          "図書館サービス",
+          "読者",
+          "開館時間",
+          "設備",
+          "維持"
+        ]
+      }
+    }
+  },
+  "three-cards-and-ruled": {
+    "source_type": "original-layout",
+    "source_note": "Three equal planning cards occupy the upper page and a wide ruled synthesis area occupies the lower page.",
+    "translations": {
+      "zh-TW": {
+        "title": "三卡片加橫線總結",
+        "purpose": "先並列三個短想法，再用下方文字寫出比較與選擇。",
+        "when": [
+          "比較三個工作坊題目後寫出試辦理由。",
+          "閱讀三段資料後寫一段共同主題。"
+        ],
+        "steps": [
+          "上方三卡各寫一個獨立想法。",
+          "在下方比較相同點與差異，避免只是重抄卡片。",
+          "寫下一個可查證的選擇理由或待查問題。"
+        ],
+        "unsuitable": "三卡不表示三案應同權重；需要量化決策時另用資料表。",
+        "example": "虛構活動的三卡是短講、共讀、手作；下方寫先試共讀，理由是材料較容易準備，但需確認場地。",
+        "labels": [
+          "短講",
+          "共讀",
+          "手作",
+          "先試共讀；場地待查"
+        ]
+      },
+      "en": {
+        "title": "Three cards with ruled synthesis",
+        "purpose": "Compare three short ideas above and write the reasoning or choice below.",
+        "when": [
+          "Select a workshop topic from three options.",
+          "Find a shared theme across three short readings."
+        ],
+        "steps": [
+          "Put one independent idea in each upper card.",
+          "Compare common ground and differences below instead of copying the cards.",
+          "State a checkable reason for a choice or an open question."
+        ],
+        "unsuitable": "Three cards do not imply equal weight; quantitative decisions need a data table.",
+        "example": "A fictional event compares a talk, reading, and hands-on session; the notes propose a reading trial but flag venue uncertainty.",
+        "labels": [
+          "Talk",
+          "Reading",
+          "Hands-on",
+          "Try reading; check venue"
+        ]
+      },
+      "ja": {
+        "title": "三カードと横罫のまとめ",
+        "purpose": "上に三つの案を並べ、下に比較と選択理由を書きます。",
+        "when": [
+          "講座の三つの題材を比べるとき。",
+          "三つの短い資料から共通の話題を探すとき。"
+        ],
+        "steps": [
+          "上の各カードに独立した案を一つ置きます。",
+          "下ではカードの書き写しではなく、共通点と違いを書きます。",
+          "選択理由か未解決の問いを明確にします。"
+        ],
+        "unsuitable": "三つの案が同じ重みだとは限りません。数値で判断する場合はデータ表を使います。",
+        "example": "架空の催しで講話、共読、工作を比べ、下には共読を試す理由と会場の確認点を書きます。",
+        "labels": [
+          "講話",
+          "共読",
+          "工作",
+          "共読を試す・会場確認"
+        ]
+      }
+    }
+  },
+  "flow-and-free": {
+    "source_type": "original-layout",
+    "source_note": "A short directed four-step flow sits above an open free-drawing and annotation area.",
+    "translations": {
+      "zh-TW": {
+        "title": "流程加自由補圖",
+        "purpose": "上方固定四個主要步驟，下方補畫例外路徑與現場觀察。",
+        "when": [
+          "規劃活動報名的主要流程及例外。",
+          "記錄借書流程後補上讀者可能遇到的問題。"
+        ],
+        "steps": [
+          "上方四格依順序寫主要動作。",
+          "下方留白畫出例外、回頭路或現場情境。",
+          "核對補圖是否改變原流程，必要時回上方修訂。"
+        ],
+        "unsuitable": "上方四步只是概要；複雜分支和責任歸屬應用完整流程或泳道圖。",
+        "example": "虛構借書流程寫找書、借出、閱讀、歸還；下方畫逾期或找不到書時的分支。",
+        "labels": [
+          "找書",
+          "借出",
+          "閱讀",
+          "歸還",
+          "逾期或缺書分支"
+        ]
+      },
+      "en": {
+        "title": "Flow with open detail area",
+        "purpose": "Set a four-step main path above and draw exceptions or field notes freely below.",
+        "when": [
+          "Plan an event registration path and its exceptions.",
+          "Describe borrowing a book and add likely reader problems."
+        ],
+        "steps": [
+          "Put four main actions in order across the top.",
+          "Use the open field for exceptions, returns, or observed situations.",
+          "Check whether those details change the main path and revise it if needed."
+        ],
+        "unsuitable": "Four steps are an overview; use a full flow or swimlane for complex branches and responsibilities.",
+        "example": "A fictional loan path goes find, borrow, read, return; below it a missing-book or late-return branch is sketched.",
+        "labels": [
+          "Find",
+          "Borrow",
+          "Read",
+          "Return",
+          "Late or missing branch"
+        ]
+      },
+      "ja": {
+        "title": "流れ図と自由な補足欄",
+        "purpose": "上に四つの主な手順を置き、下に例外や現場の観察を自由に描きます。",
+        "when": [
+          "催しの申込と例外を考えるとき。",
+          "本を借りる流れに利用者の問題を足すとき。"
+        ],
+        "steps": [
+          "上の四枠に主な行動を順に書きます。",
+          "下の余白に例外、戻り道、観察を描きます。",
+          "補足で主な流れが変わるなら上も直します。"
+        ],
+        "unsuitable": "四段は概要にすぎません。複雑な分岐や担当者は完全な流れ図やスイムレーンで示します。",
+        "example": "架空の貸出を『探す、借りる、読む、返す』とし、下に未所蔵や返却遅れの枝を描きます。",
+        "labels": [
+          "探す",
+          "借りる",
+          "読む",
+          "返す",
+          "未所蔵・延滞"
+        ]
+      }
+    }
+  },
+  "mixed-quadrant": {
+    "source_type": "original-layout",
+    "source_note": "Four quadrants differ in inner texture: ruled, dotted, open, and ruled, enabling distinct writing modes.",
+    "translations": {
+      "zh-TW": {
+        "title": "混合材質四象限",
+        "purpose": "在四區中分別使用橫線、點陣與留白，讓文字與草圖並置。",
+        "when": [
+          "分析活動時同頁記錄事實、空間配置、想法與下一步。",
+          "閱讀時把引文、關係草圖、疑問和摘要分開。"
+        ],
+        "steps": [
+          "先自行決定四區的任務，不使用預設軸名。",
+          "橫線區寫句子、點陣區畫相對位置、留白區放開放式草圖。",
+          "最後橫線區寫下一步，檢查是否由其他三區支持。"
+        ],
+        "unsuitable": "不同材質不代表資訊一定可比較；若需四區同樣密度，改用一般四象限。",
+        "example": "虛構工作坊在左上記到場觀察、右上畫桌位、左下畫互動示意、右下寫下一次要改的流程。",
+        "labels": [
+          "到場觀察",
+          "桌位",
+          "互動示意",
+          "下次流程"
+        ]
+      },
+      "en": {
+        "title": "Mixed-texture quadrants",
+        "purpose": "Combine ruled, dotted, and open regions so prose and sketches can share one four-part page.",
+        "when": [
+          "Keep event facts, spatial layout, ideas, and next steps together.",
+          "Separate quotation, relationship sketch, questions, and summary while reading."
+        ],
+        "steps": [
+          "Assign a task to each region yourself; no axis names are preset.",
+          "Use ruled areas for sentences, dots for position, and the open area for a free sketch.",
+          "Write a next step and check whether the other regions support it."
+        ],
+        "unsuitable": "Different textures do not guarantee comparable information; use plain quadrants for equal-density regions.",
+        "example": "A fictional workshop records arrivals, table layout, an interaction sketch, and a process change in the four areas.",
+        "labels": [
+          "Arrivals",
+          "Table layout",
+          "Interaction",
+          "Next change"
+        ]
+      },
+      "ja": {
+        "title": "異なる罫線の四象限",
+        "purpose": "横罫、ドット、余白を四区に混ぜ、文章と草図を同じ紙に置きます。",
+        "when": [
+          "催しの事実、配置、考え、次の行動をまとめるとき。",
+          "読書で引用、関係図、疑問、要約を分けるとき。"
+        ],
+        "steps": [
+          "四区の役割を自分で決め、固定の軸名にはしません。",
+          "横罫には文章、ドットには位置、余白には自由な図を書きます。",
+          "最後に次の行動を書き、他の区の内容と合うか確かめます。"
+        ],
+        "unsuitable": "罫線の違いだけで内容が比較可能になるわけではありません。等量の四区には普通の四象限を使います。",
+        "example": "架空の講座で来場、机の配置、対話の図、次回の変更を四区に分けます。",
+        "labels": [
+          "来場",
+          "机の配置",
+          "対話の図",
+          "次回の変更"
+        ]
+      }
+    }
+  },
+  "hybrid-multi-zone": {
+    "source_type": "original-layout",
+    "source_note": "Three small top cards, one large central sketch and a bottom ruled conclusion form three different writing modes.",
+    "translations": {
+      "zh-TW": {
+        "title": "三卡、主圖與結論",
+        "purpose": "先列三個條件，中間畫整體草圖，底部寫出由圖得出的結論。",
+        "when": [
+          "設計小型展場時列需求、畫配置、記決定。",
+          "比較三個訪談線索後畫可能的服務路徑。"
+        ],
+        "steps": [
+          "上方三卡各寫一項不同條件或線索。",
+          "中間大框畫能同時回應三卡的草圖。",
+          "底部寫目前的選擇、理由與仍待核對的部分。"
+        ],
+        "unsuitable": "草圖不等於已驗證方案；底部幾行不足以記錄完整研究資料。",
+        "example": "虛構展場的三卡記入口、座位、照明；中間畫桌位，底部寫『入口先保持開闊，照明需現場查』。",
+        "labels": [
+          "入口：東側",
+          "座位：十席",
+          "照明：窗邊",
+          "桌位與通道草圖",
+          "保留輪椅通道"
+        ]
+      },
+      "en": {
+        "title": "Three cards, main sketch, conclusion",
+        "purpose": "List three conditions, draw one overall idea, and state a conclusion supported by the sketch.",
+        "when": [
+          "List needs, sketch a small exhibition, and record a decision.",
+          "Compare three interview clues before sketching a service path."
+        ],
+        "steps": [
+          "Put one distinct condition or clue in each upper card.",
+          "Sketch an idea in the large middle area that addresses all three.",
+          "Write the current choice, reason, and missing check on the lower lines."
+        ],
+        "unsuitable": "A sketch is not a validated solution, and a few bottom lines cannot hold a full research record.",
+        "example": "A fictional exhibit lists entry, seating, and light, sketches tables, then proposes keeping the entrance open while checking light on site.",
+        "labels": [
+          "Entry: east",
+          "Seats: ten",
+          "Light: window",
+          "Table and route sketch",
+          "Keep accessible path"
+        ]
+      },
+      "ja": {
+        "title": "三カード・主図・結論",
+        "purpose": "三つの条件を挙げ、全体図を描き、そこから得た結論を書きます。",
+        "when": [
+          "小さな展示の条件、配置、決定を一枚にまとめるとき。",
+          "三つの聞き取りの手掛かりからサービスの流れを描くとき。"
+        ],
+        "steps": [
+          "上の三カードに異なる条件や手掛かりを書きます。",
+          "中央の大枠に三条件へ応える草図を描きます。",
+          "下に現在の選択、理由、未確認事項を書きます。"
+        ],
+        "unsuitable": "草図は検証済みの解決策ではありません。下の数行で研究の全記録もできません。",
+        "example": "架空の展示で入口、座席、照明を挙げ、机の配置を描き、入口を空ける案と照明の現地確認を書きます。",
+        "labels": [
+          "入口：東側",
+          "席：十席",
+          "照明：窓際",
+          "机と通路の下図",
+          "車椅子の通路を確保"
+        ]
+      }
+    }
+  }
+}

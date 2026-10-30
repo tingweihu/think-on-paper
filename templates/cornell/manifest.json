@@ -1,0 +1,37 @@
+{
+  "id": "cornell",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.gate1.cornell",
+  "source_type": "existing-method-adaptation",
+  "source_note": "Geometric adaptation of the widely known Cornell note-taking structure; method history is not asserted here.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "eec98cb656f31f2d7a01c0dabcf3236061e9c5912b02d04482228dbd28418960",
+  "titled_pdf_english_name": "Cornell notes",
+  "shape_count": 22,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/cornell/exports/a5-draft/blank.svg",
+    "pdf": "templates/cornell/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cornell/exports/a5-draft/titled.pdf",
+    "preview": "templates/cornell/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cornell/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cornell/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cornell/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cornell/examples/zh-TW.svg",
+      "en": "templates/cornell/examples/en.svg",
+      "ja": "templates/cornell/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cornell/README.zh-TW.md",
+      "en": "templates/cornell/README.en.md",
+      "ja": "templates/cornell/README.ja.md"
+    }
+  }
+}

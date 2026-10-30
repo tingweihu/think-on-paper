@@ -1,0 +1,37 @@
+{
+  "id": "quadrant-rings",
+  "family": "matrix",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.matrix.quadrant_rings",
+  "source_type": "original-layout",
+  "source_note": "Four directional sectors crossed by inner and outer radial levels.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "9a77db8ab49f400ea9de61d07ad8f0b36b1f5cc3049774715b5382bf529571b0",
+  "titled_pdf_english_name": "Quadrants with rings",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/quadrant-rings/exports/a5-draft/blank.svg",
+    "pdf": "templates/quadrant-rings/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/quadrant-rings/exports/a5-draft/titled.pdf",
+    "preview": "templates/quadrant-rings/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/quadrant-rings/exports/a5-contrast/blank.svg",
+      "pdf": "templates/quadrant-rings/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/quadrant-rings/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/quadrant-rings/examples/zh-TW.svg",
+      "en": "templates/quadrant-rings/examples/en.svg",
+      "ja": "templates/quadrant-rings/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/quadrant-rings/README.zh-TW.md",
+      "en": "templates/quadrant-rings/README.en.md",
+      "ja": "templates/quadrant-rings/README.ja.md"
+    }
+  }
+}

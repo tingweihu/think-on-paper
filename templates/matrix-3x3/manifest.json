@@ -1,0 +1,39 @@
+{
+  "id": "matrix-3x3",
+  "family": "matrix",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_matrix_3x3",
+  "source_type": "existing-method-adaptation",
+  "source_note": "independent of mandala-3x3. Nine equal contiguous cells are the same geometry; general classification is an additional use case.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "72ca48c6530e579f72163e02600d17a96f0ea352d8e0e7f53912768263a8a1ab",
+  "titled_pdf_english_name": "Three-by-three comparison matrix",
+  "shape_count": 5,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/matrix-3x3/exports/a5-draft/blank.svg",
+    "pdf": "templates/matrix-3x3/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/matrix-3x3/exports/a5-draft/titled.pdf",
+    "preview": "templates/matrix-3x3/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/matrix-3x3/exports/a5-contrast/blank.svg",
+      "pdf": "templates/matrix-3x3/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/matrix-3x3/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/matrix-3x3/examples/zh-TW.svg",
+      "en": "templates/matrix-3x3/examples/en.svg",
+      "ja": "templates/matrix-3x3/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/matrix-3x3/README.zh-TW.md",
+      "en": "templates/matrix-3x3/README.en.md",
+      "ja": "templates/matrix-3x3/README.ja.md"
+    }
+  },
+  "variant_of": "mandala-3x3",
+  "variant_classification": "independent"
+}

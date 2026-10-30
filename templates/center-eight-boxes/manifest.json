@@ -1,0 +1,37 @@
+{
+  "id": "center-eight-boxes",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.center_eight_boxes",
+  "source_type": "original-layout",
+  "source_note": "Nine disconnected cards, with a visually stronger center card, separate each idea from its neighbors.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "c8808391940ee5af3d566ade2367fab6ece224b011a4ab3ef3e3d6c47bcfcdc9",
+  "titled_pdf_english_name": "Center with eight separate cards",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/center-eight-boxes/exports/a5-draft/blank.svg",
+    "pdf": "templates/center-eight-boxes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/center-eight-boxes/exports/a5-draft/titled.pdf",
+    "preview": "templates/center-eight-boxes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/center-eight-boxes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/center-eight-boxes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/center-eight-boxes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/center-eight-boxes/examples/zh-TW.svg",
+      "en": "templates/center-eight-boxes/examples/en.svg",
+      "ja": "templates/center-eight-boxes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/center-eight-boxes/README.zh-TW.md",
+      "en": "templates/center-eight-boxes/README.en.md",
+      "ja": "templates/center-eight-boxes/README.ja.md"
+    }
+  }
+}

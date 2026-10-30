@@ -1,0 +1,37 @@
+{
+  "id": "column-dot-main",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.columns.column_dot_main",
+  "source_type": "original-hybrid",
+  "source_note": "Narrow ruled cue rail beside an open dot lattice for diagrams.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "6999de0b1a12e4ffae03f35c53195cb9cfd1306886d09293c879911f3b5dd2e3",
+  "titled_pdf_english_name": "Ruled cue rail and dot field",
+  "shape_count": 705,
+  "dot_count": 684,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/column-dot-main/exports/a5-draft/blank.svg",
+    "pdf": "templates/column-dot-main/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/column-dot-main/exports/a5-draft/titled.pdf",
+    "preview": "templates/column-dot-main/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/column-dot-main/exports/a5-contrast/blank.svg",
+      "pdf": "templates/column-dot-main/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/column-dot-main/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/column-dot-main/examples/zh-TW.svg",
+      "en": "templates/column-dot-main/examples/en.svg",
+      "ja": "templates/column-dot-main/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/column-dot-main/README.zh-TW.md",
+      "en": "templates/column-dot-main/README.en.md",
+      "ja": "templates/column-dot-main/README.ja.md"
+    }
+  }
+}

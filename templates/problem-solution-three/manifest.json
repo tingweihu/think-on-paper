@@ -1,0 +1,39 @@
+{
+  "id": "problem-solution-three",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_problem_solution_three",
+  "source_type": "generic-geometry",
+  "source_note": "independent of converging-flow. One-to-three or three-to-one branching reverses arrow direction without changing the star topology.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "1178f90b0fcdb9e5c720ae6bfcbbf9f09817e514a492467cd72a0dda1e430cf8",
+  "titled_pdf_english_name": "One problem, three responses",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/problem-solution-three/exports/a5-draft/blank.svg",
+    "pdf": "templates/problem-solution-three/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/problem-solution-three/exports/a5-draft/titled.pdf",
+    "preview": "templates/problem-solution-three/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/problem-solution-three/exports/a5-contrast/blank.svg",
+      "pdf": "templates/problem-solution-three/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/problem-solution-three/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/problem-solution-three/examples/zh-TW.svg",
+      "en": "templates/problem-solution-three/examples/en.svg",
+      "ja": "templates/problem-solution-three/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/problem-solution-three/README.zh-TW.md",
+      "en": "templates/problem-solution-three/README.en.md",
+      "ja": "templates/problem-solution-three/README.ja.md"
+    }
+  },
+  "variant_of": "converging-flow",
+  "variant_classification": "independent"
+}

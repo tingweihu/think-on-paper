@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="12.000" width="123.000" height="186.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="55.000" y1="12.000" x2="55.000" y2="198.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="96.000" y1="12.000" x2="96.000" y2="198.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="105.000" x2="137.000" y2="105.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="17.000" y="28.000">図書館：投影</text>
+<text x="58.000" y="28.000">施設：音響</text>
+<text x="99.000" y="28.000">東屋：設備なし</text>
+<text x="17.000" y="121.000">図書館：徒歩5分</text>
+<text x="58.000" y="121.000">施設：車で15分</text>
+<text x="99.000" y="121.000">東屋：徒歩30分</text>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "id": "two-right-narrow",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_two_right_narrow",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of two-left-narrow. The narrow column is mirrored; use the same partition with a side parameter.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "df6c6807b60fa882c42e1e2fd769bc238cf787dc4c077902050b5b30ae5ba6d5",
+  "titled_pdf_english_name": "Narrow right column",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/two-right-narrow/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-right-narrow/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-right-narrow/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-right-narrow/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-right-narrow/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-right-narrow/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-right-narrow/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-right-narrow/examples/zh-TW.svg",
+      "en": "templates/two-right-narrow/examples/en.svg",
+      "ja": "templates/two-right-narrow/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-right-narrow/README.zh-TW.md",
+      "en": "templates/two-right-narrow/README.en.md",
+      "ja": "templates/two-right-narrow/README.ja.md"
+    }
+  },
+  "variant_of": "two-left-narrow",
+  "variant_classification": "parameter"
+}

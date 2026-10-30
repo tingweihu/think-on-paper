@@ -1,0 +1,39 @@
+{
+  "id": "five-why-chain",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_five_why_chain",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of flow-five-vertical. Same five vertical writing boxes; the five-whys guide supplies causal questioning rather than chronological steps.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "f01ef29ad15fbd05f1be2614e33b718bb6c98b3d157061db2d04891eb2f44618",
+  "titled_pdf_english_name": "Five-whys chain",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/five-why-chain/exports/a5-draft/blank.svg",
+    "pdf": "templates/five-why-chain/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/five-why-chain/exports/a5-draft/titled.pdf",
+    "preview": "templates/five-why-chain/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/five-why-chain/exports/a5-contrast/blank.svg",
+      "pdf": "templates/five-why-chain/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/five-why-chain/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/five-why-chain/examples/zh-TW.svg",
+      "en": "templates/five-why-chain/examples/en.svg",
+      "ja": "templates/five-why-chain/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/five-why-chain/README.zh-TW.md",
+      "en": "templates/five-why-chain/README.en.md",
+      "ja": "templates/five-why-chain/README.ja.md"
+    }
+  },
+  "variant_of": "flow-five-vertical",
+  "variant_classification": "equivalent"
+}

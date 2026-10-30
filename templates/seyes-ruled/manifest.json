@@ -1,0 +1,37 @@
+{
+  "id": "seyes-ruled",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.special_paper.seyes_ruled",
+  "source_type": "common-geometry",
+  "source_note": "Eight-millimetre major baselines with two-millimetre minor guides and a left margin form a Seyès-style ruling draft.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "7a7db76aa0f7c79e940c4c642b2ac876d964b4fcfafdb8c3ba6d31dd4af0d436",
+  "titled_pdf_english_name": "Seyès-style ruled draft",
+  "shape_count": 87,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/seyes-ruled/exports/a5-draft/blank.svg",
+    "pdf": "templates/seyes-ruled/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/seyes-ruled/exports/a5-draft/titled.pdf",
+    "preview": "templates/seyes-ruled/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/seyes-ruled/exports/a5-contrast/blank.svg",
+      "pdf": "templates/seyes-ruled/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/seyes-ruled/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/seyes-ruled/examples/zh-TW.svg",
+      "en": "templates/seyes-ruled/examples/en.svg",
+      "ja": "templates/seyes-ruled/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/seyes-ruled/README.zh-TW.md",
+      "en": "templates/seyes-ruled/README.en.md",
+      "ja": "templates/seyes-ruled/README.ja.md"
+    }
+  }
+}

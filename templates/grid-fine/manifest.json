@@ -1,0 +1,39 @@
+{
+  "id": "grid-fine",
+  "family": "grid-dot",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_grid_fine",
+  "source_type": "traditional-paper",
+  "source_note": "parameter of grid-standard. Only square pitch changes; use the grid spacing parameter.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e69af3260bc15f1e7f7521aac1bd21123e678c3501d6ab12da931f0db8a68a1f",
+  "titled_pdf_english_name": "Fine square grid",
+  "shape_count": 105,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/grid-fine/exports/a5-draft/blank.svg",
+    "pdf": "templates/grid-fine/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/grid-fine/exports/a5-draft/titled.pdf",
+    "preview": "templates/grid-fine/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/grid-fine/exports/a5-contrast/blank.svg",
+      "pdf": "templates/grid-fine/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/grid-fine/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/grid-fine/examples/zh-TW.svg",
+      "en": "templates/grid-fine/examples/en.svg",
+      "ja": "templates/grid-fine/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/grid-fine/README.zh-TW.md",
+      "en": "templates/grid-fine/README.en.md",
+      "ja": "templates/grid-fine/README.ja.md"
+    }
+  },
+  "variant_of": "grid-standard",
+  "variant_classification": "parameter"
+}

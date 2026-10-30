@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="24.000" y1="105.000" x2="130.000" y2="105.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="123.000,100.000 130.000,105.000 123.000,110.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="59.333" y1="105.000" x2="46.333" y2="76.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.333" y1="76.000" x2="52.333" y2="76.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="59.333" y1="105.000" x2="46.333" y2="134.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.333" y1="134.000" x2="52.333" y2="134.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="94.667" y1="105.000" x2="81.667" y2="76.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="72.667" y1="76.000" x2="87.667" y2="76.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="94.667" y1="105.000" x2="81.667" y2="134.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="72.667" y1="134.000" x2="87.667" y2="134.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="37.333" y="72.000">Timing</text>
+<text x="37.333" y="141.000">Notices</text>
+<text x="72.667" y="72.000">Process</text>
+<text x="72.667" y="141.000">Location</text>
+<text x="105.000" y="98.000">Low sign-ups</text>
+</g>
+</svg>

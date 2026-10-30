@@ -1,0 +1,37 @@
+{
+  "id": "cycle-four",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.flow.cycle_four",
+  "source_type": "generic-geometry",
+  "source_note": "Four circular nodes and directed links form a loop rather than a finite line.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "b538a10dd313b961390f9d07596e577dc82f684d1a0238a2302e7e9f7024e5fa",
+  "titled_pdf_english_name": "Four-stage cycle",
+  "shape_count": 16,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/cycle-four/exports/a5-draft/blank.svg",
+    "pdf": "templates/cycle-four/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cycle-four/exports/a5-draft/titled.pdf",
+    "preview": "templates/cycle-four/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cycle-four/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cycle-four/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cycle-four/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cycle-four/examples/zh-TW.svg",
+      "en": "templates/cycle-four/examples/en.svg",
+      "ja": "templates/cycle-four/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cycle-four/README.zh-TW.md",
+      "en": "templates/cycle-four/README.en.md",
+      "ja": "templates/cycle-four/README.ja.md"
+    }
+  }
+}

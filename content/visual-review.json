@@ -1,0 +1,982 @@
+{
+  "ruled-standard": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: regular light lines, useful A5 spacing, no header or printed text",
+    "geometry_sha256": "8a19a4e1d5838ab42532df9efe09f5144d49e866c7530cfaaa33db27fbfcd435",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "33eee5067b70a6e9b580614475d99216e62bcf5279c478c027f39cda820be2dd",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "cornell": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: clear cue, notes, and summary zones with writable line spacing",
+    "geometry_sha256": "eec98cb656f31f2d7a01c0dabcf3236061e9c5912b02d04482228dbd28418960",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "24327d63e129b53d59e31296db0deffdef48cc65381c7c0ea41762f3425fc8fa",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "quadrant": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: four generous unlabeled regions",
+    "geometry_sha256": "e0e93c53f11276c78415da71ebf8709ce397aa5f27456c9a1c90979d0bceff27",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "3949fcc2aade7bb97406528824e151d14d4b3bb72b6ecdb31934e7c9d5304239",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mandala-3x3": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: nine legible cells at A5; preview inspected individually",
+    "geometry_sha256": "45aba26410cd958c571dd2bc645a6b43979ee8a19fcfef758c89bdf023c7b1d4",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "2db9f23fa92a79f03de9d4ca89688e311a6329a0bb2717ec1bfa49f992b5ef40",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "fishbone": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: six branch endpoints and outcome head are distinguishable; preview inspected individually",
+    "geometry_sha256": "7abd901a61aab6b5aee4f1cbf6c6609425a815fec90521012d0457d0f272d955",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "541899a245a3cf1a7b1333e7fd59f2528c7e3789e55b3ab472ceb642be12d741",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "storyboard-6": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-gate1.png",
+    "finding": "PASS: six drawing frames and separate short caption rules; preview inspected individually",
+    "geometry_sha256": "325d9e881c6163583ba1e6d0c1ab8e5438ff4cfae6d968e873b545c7d52c42ea",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "6250d1f5e2827abf499cebc187e0f01cc6986edbe13949d90456cf0ea9d1f4ee",
+    "preview_pixel_sha256": "542869830f11b2a0221b4088b61d646e1db6b0d6f3ac7892915956a75dcbeae5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "blank": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: intentionally empty warm preview; PDF and SVG contain no shapes or text",
+    "geometry_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "d10c039580314fde12e7f2cfa12ab7cca2d76c22874c1fa867fb3f51bc94894e",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "ruled-double": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: paired guides make writable bands distinct from row spacing",
+    "geometry_sha256": "aa62a89fb1bd3f2fa064877e2445c116edea0cc8f01b8948ddcd125ecef38015",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "b4e481008f5a4f3f6b731c2d6f108693e99b18a41576023567364a952bb6f497",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "ruled-segmented": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: three short lanes repeat cleanly without labels",
+    "geometry_sha256": "cfd1348303224075aadb88d04495c6c605f03291b9116647da22c2d2b0d8a338",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "4b8c43d313c2c598e00c70334ff0bd088e6d2dc3fd5b914ce9cf3adb8ab097a1",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "ruled-margin": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: narrow reference margin and main ruled area are legible",
+    "geometry_sha256": "62337daa550e587f94ee09afbf3508a75a388c52021f24fe8af1a15745f8fd88",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "ba0540f36939599ef0bd0028cb2fa92c84dadbd4f4799f4f08dc6cbbc3d36063",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "ruled-sketch-top": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: upper sketch space and lower writing lines are clearly separated",
+    "geometry_sha256": "535fa6a93f052c53f6d6e4cbee8f0603efd24a240e8e53d0cfa06cab09f43d85",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "423c43440d92993e56ec64fbc186dc9876c0712f29b86c58cad0b966ff174ea1",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "grid-standard": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: 5 mm grid is visible; use limited to short marks and diagrams, not long handwriting",
+    "geometry_sha256": "6f3e759ff7774ec02f7092a5b6df89811e90e7222fbb46a48f6acd538ab4bb37",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "6a975277a848d8f2b709d0695a3252ad42e7f704ba588953cbac27323632a01b",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "dot-standard": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: square dot pitch stays within A5 safe margin",
+    "geometry_sha256": "f8ecd140fa57e645266f7a2b5696a0cdab0ac5d2941c57a528d506ad3f9a4a18",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "394fb1e68572ff4095a6bc94c148957758b512de6383cba31ce803ad6b2e44d2",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "dot-staggered": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: staggered dots stay within A5 safe margin",
+    "geometry_sha256": "b94df2b5b0621903ac7360557e4d7adc1da65374400699493853a8f9d7707f03",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "8f5ad94c800284d5aab488929a7dc9f360bb669cdea2158e927052c850df03d6",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "grid-hierarchical": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-foundation-grid.png",
+    "finding": "PASS: centered coarse overview and localized fine grid remain distinct",
+    "geometry_sha256": "181048a1a5db806d59202d46b609a91b5be02783f7db4d9abb189676710cdb5f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "5d67780b33efd4e16fac1fe2d1b4d6fc5591d19af3103db1698c5a64aa4a35fb",
+    "preview_pixel_sha256": "2722cfe396bd6191f5756cb40f26e8862ec34776f79340d075d702d7799efcdd",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "dot-grid-split": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: dotted left and gridded right remain separated inside safe margin",
+    "geometry_sha256": "78d848bcaf195d76093964faeafeba1575aba4045528a6429a9ae9d8687641c0",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "dfd6e28b0072bae2559342c0b218a90b1d371ad315acb6c529ec255996b11d8e",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "triangular-grid": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: three-axis triangulation visible; full preview inspected; use for drawing, not long writing",
+    "geometry_sha256": "e862633b792541e50c904a0484aa41fb7564fc3bdc7c8b1e918f6bf8d0c1da5c",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "db17a36dda7a3246b1a9cb1fbe21520b78c2e397de65c534dcb3c452aba5b7b5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hex-grid": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: contiguous hexagonal cells with no dark doubled edges; full preview inspected",
+    "geometry_sha256": "74e8dc0ebb1b303a4819ed6d97c34a9b89d376df3b1c8c98755c6d8f139260e5",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "40fc4f736fd07f2af715d539ec61c78aa156fc2735eb38912cd7e1b7bd7958b6",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "rhombus-grid": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: diagonal two-axis diamond lattice distinct from triangular grid",
+    "geometry_sha256": "676997917c0dd00fc8fc90cae7c75bbabc03b7afe2cf21d899bde9684a6885c6",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "b964cdb96db52524cafea50aaabcb75a4b62292ffffc183ba1e49c4977a7764b",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "diagonal-guides": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: four broad bands and sparse diagonal trajectories",
+    "geometry_sha256": "97b46944e3818fb2aee1cd87331a16b255d1a8314ca166d1801e203cb3a7e04a",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "41b5ce697d5e0e728e6a0fdeec921236d8fb0305339c10993e23f21cc48935da",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "radial-polar": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: concentric and radial sectors remain distinct at full preview size",
+    "geometry_sha256": "134d9051ebd07a0105339333448ce5e70115685a7da31d30f28c818136ba0fa1",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "3fe3678c904c1b2a9cff34bf56650fb7c4c793f529c3a444c98de83936492762",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "coordinate-grid": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-geometry.png",
+    "finding": "PASS: two central axes, ticks and arrowheads are clearly rendered",
+    "geometry_sha256": "e0a50477632f260705e08daa83e644a63ea0dec87470ec2817b5f17998bceaf8",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "cd7de5adfdaeeec1571e13c9eb7b03dccd85b1da1eda1235eca15a8ed49d07af",
+    "preview_pixel_sha256": "4650b1188aa7589a428db51394df09d4bc048779f2a775400e36e165d2fe5db2",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "two-equal-columns": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-columns.png",
+    "finding": "PASS: two equal open writing regions",
+    "geometry_sha256": "cb939dbbc33770a6407c6e59c993452b671d911e3c84fd12ff2e24b1843f6e94",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "40438d75464bc8bf1d7744e29bbc1968bc45e5ea43f2fd20e6e96ee354132791",
+    "preview_pixel_sha256": "d051f6687adbf6b981b64a9dc21aa3178a769abb3234023ab6b352a6e7cf578b",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "two-left-narrow": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-columns.png",
+    "finding": "PASS: narrow cue rail and wide main region",
+    "geometry_sha256": "0d3a3190b1e5bfaaee2989517ea537ec61c37a55f5c0f5fc0573e51a4bcac0d3",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "40438d75464bc8bf1d7744e29bbc1968bc45e5ea43f2fd20e6e96ee354132791",
+    "preview_pixel_sha256": "55785e26f02cea97f6cc47bfc6582a4bdab7fb6ac009e3ac9932bdb31599aacf",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "three-columns": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-columns.png",
+    "finding": "PASS: three equal writable regions",
+    "geometry_sha256": "af5a2cab001216929942c9dd0e069a72745358aa30a92455343caa294fc4207f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "40438d75464bc8bf1d7744e29bbc1968bc45e5ea43f2fd20e6e96ee354132791",
+    "preview_pixel_sha256": "19883a9a369a3f5f75400199afeff8ff897ca58030c9546f8cd71c23ed994605",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "column-dot-main": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: cue rail and dot field stay inside safe margin",
+    "geometry_sha256": "6999de0b1a12e4ffae03f35c53195cb9cfd1306886d09293c879911f3b5dd2e3",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "469ffeb10a23659bbcee42b99223b9a2dec037ab40548e2269f36c6b64cd9239",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "two-columns-summary": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-columns.png",
+    "finding": "PASS: two upper columns converge into full-width lower synthesis region",
+    "geometry_sha256": "91334b06a69cf541738fc6d29f6c21924416a864081b8d058f586a109ac4235f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "40438d75464bc8bf1d7744e29bbc1968bc45e5ea43f2fd20e6e96ee354132791",
+    "preview_pixel_sha256": "3594474c0203a7d074af61d37343c89009a96ebd1e699f7ec59a9e992425cf8b",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "two-stacked-cards": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-cards.png",
+    "finding": "PASS: two separated large writable cards",
+    "geometry_sha256": "8c2368fe88dbc3b78c1e4179b154ab5af420823062fc9d63eac8d9cad3c83fdc",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "48988b2eb425f91f762204ed14f52b0bb392df8a98b2c6dd5989362fb39c44f1",
+    "preview_pixel_sha256": "99b840f49ae209477ba98b1a6601dd7f4695647961c0335f7ec64c703519424a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "four-cards": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-cards.png",
+    "finding": "PASS: four equal cards with gaps distinct from quadrant cross",
+    "geometry_sha256": "be1847893e635556d69dd7e1ec017431a2f33f16b8e6cc8c7fe9e92362049082",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "48988b2eb425f91f762204ed14f52b0bb392df8a98b2c6dd5989362fb39c44f1",
+    "preview_pixel_sha256": "07326625f6efa9e383ddf014452ca3a3fb1910375b2e83e5986ae21a64a6005d",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "center-four-satellites": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-cards.png",
+    "finding": "PASS: center and four directional satellites, light connectors",
+    "geometry_sha256": "a54b5c37441f223c51a36dfc91b25da1e0413280f61c974731f6f86702e2b29d",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "48988b2eb425f91f762204ed14f52b0bb392df8a98b2c6dd5989362fb39c44f1",
+    "preview_pixel_sha256": "07c64782edbe134abb6b38216f603638a93eee7b403f346cb1afdb26000ec4ef",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hero-three-cards": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-cards.png",
+    "finding": "PASS: upper hero region and three smaller supporting cards",
+    "geometry_sha256": "a0821516cb2a5efccfdbfe6c4a0c689d3112c243ab9738a9f6ed9dcf30fce2f7",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "48988b2eb425f91f762204ed14f52b0bb392df8a98b2c6dd5989362fb39c44f1",
+    "preview_pixel_sha256": "fd5c98694b0268ffb97256b111be413526025d2c899dda0cdcf5d61527cefa29",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mosaic-cards": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-cards.png",
+    "finding": "PASS: four asymmetric cards retain usable writing areas",
+    "geometry_sha256": "563c7568f546a72360b23ce607e93a3c16cb94c7cbc1cfe36d18eafbf0a682af",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "48988b2eb425f91f762204ed14f52b0bb392df8a98b2c6dd5989362fb39c44f1",
+    "preview_pixel_sha256": "cdffe7f8379b005cd9ade721ad5f500132ee7391a44a2999fdad519feb3d465a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "t-comparison": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: shared question band and two lower fields",
+    "geometry_sha256": "a5f181b811700c4ea9a991c00c12034193b3b3cba883a11ca9a520458200b22d",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "7272469c0e237461b69493326b66e5c56c9a499e954806e3396888ba54688252",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "three-way-comparison": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: common question above three equal comparison fields",
+    "geometry_sha256": "f25e4b809486460bbbaa458d1d4fafd52acc02de7fc1afcdf94b99dd714b0d47",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "6dd2ca61a809166be9f3d7303bf16a4068093aa9f414860d491895b73456b020",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "venn-two": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: two circles and writable shared intersection",
+    "geometry_sha256": "15e280dbc6dbed5ede667a8d115308b21ffcbdf23b977693615733ab4a6f26ca",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "1cd595b4cf897bcdedb21974e2f9d921aa67bf198fdce85da4876a3f70f5e5e4",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "venn-three": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: three pairwise and central intersections visible at full preview size",
+    "geometry_sha256": "93fd20e4366fad25fee6df97801cec244b9a86b66256577c939ea319b1c17096",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "75149e9c8cab3cd769f511cfbfd5343b14b005da9c00cf29c085cf56514e8f77",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "double-bubble": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: shared and exclusive bubbles have distinct connections",
+    "geometry_sha256": "99b256b85a5b5f07a76710e3d700582bb8da47d9764dfd03514d904ffac8ad81",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "c3613f20b99372f9a576ad49e6039303c752e99eb821fe39bc92514e637222d5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "bridge-analogy": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-comparison.png",
+    "finding": "PASS: two domains and three small bridge spaces",
+    "geometry_sha256": "96c72e1ea6b60176918ae6e6af733264710413c50b2f81a24b53bb55e3a19e14",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "b0e54100838cea72bb4ed6fccaae6e64eec09545a7d2efa9c95514a1b9faf5fe",
+    "preview_pixel_sha256": "ad02be0dfe17d9690126a1016f5ec7823ee21fb47b5b294d6c7b298866516da5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "quadrant-center-circle": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-matrix.png",
+    "finding": "PASS: four open sectors terminate at distinct central circle",
+    "geometry_sha256": "e6f3eddfda55321b7c7252de916bee8608ae08c7f04c0b92580ce07fcc467478",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "182fa557ec50b9bd6a3a180a9b526feac22470732d77a8cdb7f9439e6c5230e3",
+    "preview_pixel_sha256": "632367eee6176e9a5f451c05883360d091923ce12f3ba6d0c40f7a5d646eba22",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "matrix-2x3": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-matrix.png",
+    "finding": "PASS: six equal adjoining cells remain writable",
+    "geometry_sha256": "094df158110fe140fc8aaa29113e495769d19ba9fd621608308581f0919a6e8f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "182fa557ec50b9bd6a3a180a9b526feac22470732d77a8cdb7f9439e6c5230e3",
+    "preview_pixel_sha256": "f9d0ee400100ce75c0850910218a7a09ea1561e8c6f01574336baeb7d309011c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "quadrant-rings": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-matrix.png",
+    "finding": "PASS: four directional sectors and two radial levels are visible",
+    "geometry_sha256": "9a77db8ab49f400ea9de61d07ad8f0b36b1f5cc3049774715b5382bf529571b0",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "182fa557ec50b9bd6a3a180a9b526feac22470732d77a8cdb7f9439e6c5230e3",
+    "preview_pixel_sha256": "3761cd8d978c315eefbe21393e9ccff7fb50703234f2f19606b36c4119dd465f",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mandala-9x9": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS, LIMITED: 81 cells are visibly grouped; each A5 cell is about 13.7 mm and supports keywords only",
+    "geometry_sha256": "a7826bb2162b84a3180b11bee4e13deb37b2f1989cd081b786a2762325107e11",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "9147df557aa80b5f4968098b402b922b20c74baeff61cb8aa6cd09b045993027",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "center-eight-boxes": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS: nine separated cards with stronger central card",
+    "geometry_sha256": "c8808391940ee5af3d566ade2367fab6ece224b011a4ab3ef3e3d6c47bcfcdc9",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "476178b8e031967676b9ce1e0a7f187185d1b39d4e2898213e8cfe81310e99ba",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "diamond-eight-rays": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS: central diamond and eight ray endings are distinct",
+    "geometry_sha256": "e66861eab3321fa2b4d6b3e10521513a5cef0063d3053db07a30affb6dd9d240",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "427e2965ba4d71df726b65c5366e2daa052ea1493faae3520e332d7174f2ffc1",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "flower-eight": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS: central flower and eight outer idea zones",
+    "geometry_sha256": "ae940609b93cb141e61a5f809c9d96269e7d4eab0f174f8a1e4e9eca27cddc8a",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "7864f698ac06b58f362a1523a28f527b78377b5f5cb9f589c2c03a46827dc721",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "flower-two-rings": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS: six inner and six outer idea zones remain distinct at full preview",
+    "geometry_sha256": "1d0f23e329731eb9fc996eda4920ad3128cc0d46b1303d93c0f35614c624c75f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "e4d6acd288bd85501301a0963d3a6d64e3db59cc46dbbc70709f1eb4e6d4914f",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mandala-extended": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-mandala.png",
+    "finding": "PASS: central nine cells and four separate continuation boxes",
+    "geometry_sha256": "1ca9df2b171e2127ef09497dcbe490910720c0818089b901946c22ee260ddac6",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "ea86c9f823bcf77f221f948ec9556f36f1a15f898dc6c2d86285c3b17be85f21",
+    "preview_pixel_sha256": "4e55da76f8bd453eab9a64e95263ea53606997aec3fffe5dd81f13674300f55c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "flow-four-horizontal": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: four stages now have action and three note guides each; short phrases only",
+    "geometry_sha256": "cf128f14829c8959974058369c6d7b5dc7a9aa0e484e836869508015cde161fd",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "cacc82e036824985a3849049b2aa5b8fee0df37933ec583959c15e9c311e8494",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "flow-six-snake": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-flow.png",
+    "finding": "PASS: two rows form one clear right-edge turn and return path",
+    "geometry_sha256": "b1194316a5de23a1a43a689d344b1e96b747ca387f10161932fe1c0c393a5d38",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "f887f55291f914cd82608e4d967c5ca146550c526b9a7d4633b7458114f73c5b",
+    "preview_pixel_sha256": "2a14702c6fa8d7b786594b059915186c1ddbd9d965d05fc323b8187ac05b39af",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "cycle-four": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-flow.png",
+    "finding": "PASS: four circular nodes form a directed loop",
+    "geometry_sha256": "b538a10dd313b961390f9d07596e577dc82f684d1a0238a2302e7e9f7024e5fa",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "f887f55291f914cd82608e4d967c5ca146550c526b9a7d4633b7458114f73c5b",
+    "preview_pixel_sha256": "984c7f2894c953934c0af421dff20d39c4646afcaee0cb99d6e6e3662329a5bf",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "decision-tree": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-flow.png",
+    "finding": "PASS: root, two middle checks and four leaves are distinguishable",
+    "geometry_sha256": "755305d597141302d7e37ddfcec8c9857c08cedcf8516963df775cf910e5be40",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "f887f55291f914cd82608e4d967c5ca146550c526b9a7d4633b7458114f73c5b",
+    "preview_pixel_sha256": "32b89b4ca12ef5fad339c8fb39b775c8f67156c0ba1a00cd9324c0304ac5453b",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "swimlane-flow": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-flow.png",
+    "finding": "PASS: three lane bands and handoff arrows remain readable",
+    "geometry_sha256": "8db69b28f8daae338424bc50d38861acf24d180c9da12c571b19603316a90533",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "f887f55291f914cd82608e4d967c5ca146550c526b9a7d4633b7458114f73c5b",
+    "preview_pixel_sha256": "6626f892289585a9ca01df9229aa22b0c86825eaad70f4b44d283cfc07557c67",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "converging-flow": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-flow.png",
+    "finding": "PASS: three separate inputs clearly converge on one result",
+    "geometry_sha256": "739c7ae4d36ac98838e113a0b9853a9c4c6d1080f1d0189994b654d081ee0d81",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "f887f55291f914cd82608e4d967c5ca146550c526b9a7d4633b7458114f73c5b",
+    "preview_pixel_sha256": "628f2984d748b0f673d3ed60874109fbcb5a695c14ffd62822fdd0f286c4c12a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "causal-network": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-causal.png",
+    "finding": "PASS: five linked nodes show multiple directed causal paths",
+    "geometry_sha256": "2b5cb26006584c5115e55d7d8028cee0cf8f59172395a57c12aba2901d0177f9",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0301f2979201b808fd8d20fb15c1d58b80328831b9429739c73a8ecfeda460c6",
+    "preview_pixel_sha256": "b1e4a950f862b60d7f4940c8a135c078ede8648eea8c8a6318151afaa54687d3",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hypothesis-evidence": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-causal.png",
+    "finding": "PASS: one hypothesis branches to three evidence areas and converges on an assessment",
+    "geometry_sha256": "f13c21a6f4b257e7c3a481f6a9a3ef881a8c17ccc73b233b2815124e817686b6",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0301f2979201b808fd8d20fb15c1d58b80328831b9429739c73a8ecfeda460c6",
+    "preview_pixel_sha256": "96b3b50002087749f2116413f7a9e8f994a225dc3cddd0cb2c5cbad983a75b85",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mindmap-six": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: central subject and six separated short-label spokes",
+    "geometry_sha256": "3ce96e0ab0010152f5d7c1afce4f0296b4153bea48b6ba6b9b5ec24d3575409a",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "350524d43cc0b53e805d4b0be4aa7687bca2c7289e2bb37eee8abf60279994f3",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "asymmetric-branches": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: three branches have visibly unequal leaf counts",
+    "geometry_sha256": "62500dd972c5195e02cb32fd3ed4e94ddcf118784b565090316301d6a685e52a",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "5fe3ceada2963b8160b6654df27c6b3a6248ea64afcc7b0394442319d543742d",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "double-center-mindmap": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: two linked hubs have distinct satellite groups",
+    "geometry_sha256": "1702764570b6552e8d02146bc139613309d5be5c4590b5b31ac3e83765295ff7",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "cf7d3495fc9701a1003987c5622f9ac98be4510918050eb5e395cc50b40f8a66",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "triple-core-network": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: triangular three-core relation separates outer context nodes",
+    "geometry_sha256": "4151bdf587bf4d12aa7a50a715f516a2149345053d2f86d5e7a794739e956bd3",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "887a5af4aac240a0142a9cb9262fef1a97e3cb339e59b5de5cbb12729fff6f77",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "cluster-ring": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: four grouped circles surround an unconnected summary center",
+    "geometry_sha256": "2238a815007c15108d397f2f56e271784ce89fa542e67a99d23d46549c9ccc9b",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "10ab52ab2b658af012d9c48b1a64668d615fc459995e5bcb60f273a4a859dfe6",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "constellation-network": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: irregular node graph has no privileged center",
+    "geometry_sha256": "fcbf2c404c088b9a95ac611d13645f563a4e8c5f8839e21c569b474a7899ab64",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "94f19f8d54f18a80701c6b4687eb71a7de7bdfabcf84738c379becf3b17f7585",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "bipartite-network": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: two disjoint sets are linked only across the center gap",
+    "geometry_sha256": "3ca7cdd70c61340e311e1f6012f2d8a1cf5f47ad21f8ad2af71f5c46a05023b2",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "88e87cb435f578293baff487db955ed24fdb9217281ead90c7135391f630034a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "top-down-tree": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: one to two to four parent-child tiers are legible",
+    "geometry_sha256": "ed16896d066ad67ee5c400ec20efbebf90908c9a4ea2b9dc92be80fbd235dc14",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "ef015625eaf78d230aa48b1e0222228f8d5b72c2bfb9c01f7e8098454a497f27",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "stepped-hierarchy": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: four staggered bands provide increasing detail zones",
+    "geometry_sha256": "6d065ed5ecc06e21fb57d61da757be600109198a0e6b12288ac0284270d7ded0",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "372b3463c0f01c392d87f1238e86a495413615bb024220fe37eea2140fb4b4ab",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "brace-decomposition": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: one parent connects through brace spine to three large parts",
+    "geometry_sha256": "07a044ac214a10626f98d3177a35b74412f2563b5f51d03f16377b86c4a18b18",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "f92e7f674bab61084c75707b76a86e83bba23fb9877e73588165d0f24e35e41f",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "pyramid-three": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: three triangular tiers retain writing room; tip is limited to short words",
+    "geometry_sha256": "b3d02cd5f7236d14d48c4912fb84092c95b57780fb0dd7715242984d988e6c89",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "9d987a86e45253d54334ac6b3de904a68452ed179ad4e9107f0c383f5bcb02ee",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "nested-rectangles": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS: four nested scopes are visually distinct",
+    "geometry_sha256": "de32cf0e323cc33b8d6ddcef1bed626a3e06e070495d2d76121ee55a57675889",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "7cd36f37811553e841d847d579291ce5be3677f7c1c3153d18f9207126a36907",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "classification-wheel": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-concept-hierarchy.png",
+    "finding": "PASS, LIMITED: eight annular wedges fit short category labels only",
+    "geometry_sha256": "5bfa439d786ea4d3174aef10b2933bd98927c57c6f5f1a6708e27e7d60bb1f10",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "0513410de1fa3bd7e84528163b57ef2b1ddff5014294b7d01046a5f0a9b5a8d8",
+    "preview_pixel_sha256": "484cc4aa0a83fa1f70c88b36726e5bf076a8013c8c13312509d7e08337c755d6",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "question-answer-triples": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: three repeated cue and spacious answer pairs",
+    "geometry_sha256": "0618fc54b0d320aa74d946cecc39ba9bdce4695ce6260d7695410d7ef0899c4d",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "1c17d82694f74b408fe951c299c46d74bdbeb3165f3be81522f135f171ef7a6f",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "concept-text-diagram": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: concept header, ruled explanation, and open diagram area are distinct",
+    "geometry_sha256": "b1d12ca530317bf81a80265d1d2b374bff9748ce549f2d91e89772f5cf6a95e6",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "6ccf13c598050ac0b6cd580f4eb78a3faed5358f112a2fbb24a1d1858de13b4f",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "outline-notes": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: three repeated indent levels and open writing lines are clear",
+    "geometry_sha256": "3fb1ddba9655e9b65a966532d78ab111711820ad8a8035299e6a6ac451641f23",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "750f8b9a7ef90d5486bd1b123da7ea0f9954486a11da120709eee107dda9f076",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "concept-recall": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: top concept, middle note area and isolated bottom recall box",
+    "geometry_sha256": "3c17dedc14f12bea90a00c74dd841a5a07cebea5d508835c1974ae50ba1e56ae",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "87905be84b8bb9dc51e1ceafab51530df4cabcaa437c23efab36464beb074631",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "top-excerpt-bottom-thoughts": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: excerpt box and separate lower interpretation lines",
+    "geometry_sha256": "bb7c1eec1a2afa440ee7d8fe845b4df484e4343386ef2ddc11781d20fd1c7a52",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "709a3f8e0e02e69b60deb2f1c6680ce2ea62d6840cac2cbdb4de6da3db17e2a2",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "claim-four-evidence": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: one wide claim branches to four equal evidence cards",
+    "geometry_sha256": "72ec42b71224f4c159a2a1af87423201d9f4c90e65e009b79a33a6a8db6b52fc",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "1be0278eaec4ce0147352e26bfe54243c60168d7fa39f7df1125b4f8ec6c8dd5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "source-network-notes": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-learning-research.png",
+    "finding": "PASS: three source nodes, cross-linked note cards and synthesis line",
+    "geometry_sha256": "8b774b6abdd676533d7eeaab81a129ee2c478b61ab953ff61ba17bb477624b17",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "045c2f65a21d8bba11445d423359e5be5f5823865bed8eeaaf5da1571b5a3ed6",
+    "preview_pixel_sha256": "20cb6d4dd16bc83a5784a7ff8769dbda186ee7c78962be9e4c44a13420109580",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "many-to-one-funnel": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS: six upper ideas pass through two groupings to one synthesis",
+    "geometry_sha256": "6553338df323e558f9e550f7beffaeb167f5e737daed090b146b70694d60bafd",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "0519282851b7ebcf84e128fc35091e41e8fa61b47858dd0000135d249c2daef3",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "three-sketch-proposals": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS: three broad drawing areas each have a ruled evaluation strip",
+    "geometry_sha256": "e0d33cbec6c1f6ca226c7e90e7f28cb4c7c2e1071a2d02cbe111196960bdadf7",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "a5184ed2983c6a89e4bf49e61e304fd7fd682c20ea7142772327e7b3837f07ce",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "abstraction-ladder": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS: five open rungs and upward direction remain legible",
+    "geometry_sha256": "0eec07d5dc7f2cf5e30833b0fb987899bb6b582636864532a4801bd93c3b1fc7",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "83d3bd7c7102935f948e0f2aee031d226db68242074cb7c044dd617ad3b18e6c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "storyboard-eight-mixed": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS, LIMITED: two broad, four small and two broad captioned frames; small frames fit single beats",
+    "geometry_sha256": "18e66e2735a8cdad6bb8aedc37ca80c79b74a88bd8fcb123e9fa02820aaa053f",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "4980084b27bd74e7adabbfc0ba79ff7b87b1598dca9f4f8db2cec4c9ddb1ff86",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "main-sketch-side-notes": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS: large drawing field and ruled side column remain distinct",
+    "geometry_sha256": "89e35a99abe777f387fdb47c910d117080f82335bcd4353591c1d14309b73efa",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "534981ba3a5fb7758086690ae09f87760b1112749565f43c3919ac436bfefafc",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "detail-sketch": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-ideation-storyboard.png",
+    "finding": "PASS: main sketch has a linked detail inset and separate note region",
+    "geometry_sha256": "e1ca548ee5674648f8c9ca9affba68e65ae458d339d8a6e9cc95b4827e7c5a17",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "edb686935770fb019d133842788bc3a0528a06b816025c6f31a0e00539683585",
+    "preview_pixel_sha256": "dc8c9a009a186c11742e685974e447b2f6cb85fa7c19b1c6a4f205985ecee7bb",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "music-staff": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS, LIMITED: six evenly spaced five-line systems; fine print remains untested",
+    "geometry_sha256": "0b28a4f580f77ba3ce1491e717a863f0966ac13d68bbeaa47d0631db6613415d",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "2e3ed116e5be07a72b2805f1298b98c71a80c3eb48a22298bb4de4f3d201d27c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "guitar-tablature": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS, LIMITED: five six-string systems with bar guides; fine print remains untested",
+    "geometry_sha256": "65b98c0bc377558b33cfc667cf27048958ce13ff618732e74d8388d8dd755c11",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "8b697457f40c394cf85bf01590c42679865b6e2dbdc9b9ce846fda0bc1c3f56a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hanzi-tian": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: 35 approximately 21mm character cells with central crosses",
+    "geometry_sha256": "ea228e9e4b090d07e1b1e705aa84c4bf0bc851565025b6b325fe3bccaa152910",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "2aa1629124e4ad6e20602f1e49797c6dcedf8646b869580a28695605cc68408a",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hanzi-mi": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: 35 character cells with cross and diagonal guides",
+    "geometry_sha256": "99ea74bd6fd25b0692a9f63e99c26316cdb889e93cc80ee84d10861cdd0e5b0d",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "bb5e67128a4de49f6b1681ae59e4338f091c31bbf4240307220253e6546beaf5",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hanzi-nine": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS, LIMITED: 35 large character cells each have nine small positioning zones, not writing cells",
+    "geometry_sha256": "752dd20b59df00cd915871b103f030e08e8a5c988690a2f457f6f3406fd4b648",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "9d9957c0ca0704ff524bd5cebea7da54d0558911d4326f653561bf8120459a87",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "seyes-ruled": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS, LIMITED: darker major baselines and 2mm minor guides are legible digitally; print untested",
+    "geometry_sha256": "7a7db76aa0f7c79e940c4c642b2ac876d964b4fcfafdb8c3ba6d31dd4af0d436",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "9c4eb4a3ba6c353d9f35a4e8b9ff99ceeb712a81e4b56b8c18bf95c109767246",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "perspective-guides": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: horizon, two vanishing points and restrained construction rays",
+    "geometry_sha256": "7f1b720cafce1670a7f73f10c70707e693aa00837d45d3e5c489e4be25e38c03",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "8a56f59e4bb3605bf82c8a23673a0deb8bbf2e5105cf8c43b441beab8dc02827",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "dot-and-blank": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: upper dot region and lower open field are visibly separate",
+    "geometry_sha256": "def89b801f61588c8bffa0b561285eb7b83e59ef95248e418f2faff83a0e1470",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "d10e98bc8316cfa380a12ddb8e16fe08f8b509fc02d9c78bc3968ad21789afe2",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mindmap-and-ruled": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: compact radial map leaves a generous ruled explanation area",
+    "geometry_sha256": "dfa63b899a1f62da42dadfe738458635307e3073a75713ae5cad94f39aeff405",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "52deae37cca22712bcb82d79df658fecc2e0ffe5ced40a3584abdbafe975160c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "center-with-notes": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: central subject and four ruled note areas do not overlap",
+    "geometry_sha256": "6a1db224202ec38999463a9e347d00fd9c1ec1a0cc302cb68dd407a501c793d5",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "e2dc30857efcce119d33be1b358a8896033bcf1012271f7f8daa1873b5d6b3c1",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "three-cards-and-ruled": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: three upper cards and lower synthesis lines have usable space",
+    "geometry_sha256": "ea50378de8396a49abb648ed998ca72062a6ee8a2cec1ceffd18a6c5af2e3bf8",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "407d793005424c6009e431f10e7b1125e524b0af36cd26f10a78b15ba4d0deff",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "flow-and-free": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: four directed steps occupy top band with open drawing area below",
+    "geometry_sha256": "5d7b501a0f4bcb2ea617d6e9864aea75dfb34c44d4d2a9d6564848f5eeada655",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "319663e8563266a426f2cd486e7ef2512d9747199997a530c7e58f59f90ef805",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "mixed-quadrant": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: distinct ruled, dotted and open textures remain inside four quadrants",
+    "geometry_sha256": "f335a65df91d2ba844a42c204c214dd0559f46c6ff6a0b66c18c2b5d1f65d1fd",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "d54fb9184ac61aaa4ac0986c852d01781cda47e5cac33be76d007104911db946",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "hybrid-multi-zone": {
+    "date": "2026-10-28",
+    "evidence": "docs/visual-evidence/contact-special-hybrid.png",
+    "finding": "PASS: three cards, large central sketch and ruled conclusion form separate zones",
+    "geometry_sha256": "0ec7d83b6b91d447c2566df9495f7b0d44de74f6841158a345c5db41fedbcbcb",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "1263ac1a69ff66b686ebacf168c40b10530fa6c2fd5f5c5317d250062ed1cd1f",
+    "preview_pixel_sha256": "152d2344f53892fde07f469b4eaf06eecc57c499cec73b005e87568d33ddd6f4",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "matrix-3x3": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: nine full-page equal cells support three-by-three cross-classification",
+    "geometry_sha256": "72ca48c6530e579f72163e02600d17a96f0ea352d8e0e7f53912768263a8a1ab",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "9b45434356ca06f870a87866838d1b4c12181ddd39f6ce571ec584827f2bb6e6",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "problem-solution-three": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: arrows diverge from one problem to three response cards",
+    "geometry_sha256": "1178f90b0fcdb9e5c720ae6bfcbbf9f09817e514a492467cd72a0dda1e430cf8",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "668ca2129462c17f468b00b4c002493b3a8ee34117e24e792acf1a9b497d9a3c",
+    "review_basis": "geometry-and-appearance-v1"
+  },
+  "root-cause-tree": {
+    "date": "2026-10-29",
+    "evidence": "docs/visual-evidence/contact-revised.png",
+    "finding": "PASS digital: four candidate causes converge through two groups to one outcome",
+    "geometry_sha256": "96d537a118e41760ed11aba217b19abe004c1d75b8c685f749c969df60e54f73",
+    "appearance_sha256": "5b8e8afda3408afbb6cbb815e7f908147b2a85d922a4499f327b5feab3482f4a",
+    "evidence_pixel_sha256": "53174e197c63a490a5db8d8f00bb5a35f1337042f06565fc5627101609fa6d28",
+    "preview_pixel_sha256": "7029bc356915e41a2ee9952b9e24ea56e120f562499f31bf3afc67b8c27d71a6",
+    "review_basis": "geometry-and-appearance-v1"
+  }
+}

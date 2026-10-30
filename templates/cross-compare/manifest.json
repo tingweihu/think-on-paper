@@ -1,0 +1,39 @@
+{
+  "id": "cross-compare",
+  "family": "comparison",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_cross_compare",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of quadrant. An unlabeled cross makes the same four open regions as quadrant; comparison is a use case.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e0e93c53f11276c78415da71ebf8709ce397aa5f27456c9a1c90979d0bceff27",
+  "titled_pdf_english_name": "Cross comparison",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/cross-compare/exports/a5-draft/blank.svg",
+    "pdf": "templates/cross-compare/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cross-compare/exports/a5-draft/titled.pdf",
+    "preview": "templates/cross-compare/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cross-compare/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cross-compare/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cross-compare/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cross-compare/examples/zh-TW.svg",
+      "en": "templates/cross-compare/examples/en.svg",
+      "ja": "templates/cross-compare/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cross-compare/README.zh-TW.md",
+      "en": "templates/cross-compare/README.en.md",
+      "ja": "templates/cross-compare/README.ja.md"
+    }
+  },
+  "variant_of": "quadrant",
+  "variant_classification": "equivalent"
+}

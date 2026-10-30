@@ -1,0 +1,37 @@
+{
+  "id": "nested-rectangles",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.nested_rectangles",
+  "source_type": "common-geometry",
+  "source_note": "Four concentric rectangular regions express nested scope, rather than separate cards.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "de32cf0e323cc33b8d6ddcef1bed626a3e06e070495d2d76121ee55a57675889",
+  "titled_pdf_english_name": "Nested scope rectangles",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/nested-rectangles/exports/a5-draft/blank.svg",
+    "pdf": "templates/nested-rectangles/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/nested-rectangles/exports/a5-draft/titled.pdf",
+    "preview": "templates/nested-rectangles/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/nested-rectangles/exports/a5-contrast/blank.svg",
+      "pdf": "templates/nested-rectangles/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/nested-rectangles/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/nested-rectangles/examples/zh-TW.svg",
+      "en": "templates/nested-rectangles/examples/en.svg",
+      "ja": "templates/nested-rectangles/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/nested-rectangles/README.zh-TW.md",
+      "en": "templates/nested-rectangles/README.en.md",
+      "ja": "templates/nested-rectangles/README.ja.md"
+    }
+  }
+}

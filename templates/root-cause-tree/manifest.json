@@ -1,0 +1,39 @@
+{
+  "id": "root-cause-tree",
+  "family": "causal",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_root_cause_tree",
+  "source_type": "traditional-format-adaptation",
+  "source_note": "independent of decision-tree. Reversing a branching tree from decisions to causes changes interpretation, not its branching geometry.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "96d537a118e41760ed11aba217b19abe004c1d75b8c685f749c969df60e54f73",
+  "titled_pdf_english_name": "Converging root-cause tree",
+  "shape_count": 25,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/root-cause-tree/exports/a5-draft/blank.svg",
+    "pdf": "templates/root-cause-tree/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/root-cause-tree/exports/a5-draft/titled.pdf",
+    "preview": "templates/root-cause-tree/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/root-cause-tree/exports/a5-contrast/blank.svg",
+      "pdf": "templates/root-cause-tree/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/root-cause-tree/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/root-cause-tree/examples/zh-TW.svg",
+      "en": "templates/root-cause-tree/examples/en.svg",
+      "ja": "templates/root-cause-tree/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/root-cause-tree/README.zh-TW.md",
+      "en": "templates/root-cause-tree/README.en.md",
+      "ja": "templates/root-cause-tree/README.ja.md"
+    }
+  },
+  "variant_of": "decision-tree",
+  "variant_classification": "independent"
+}

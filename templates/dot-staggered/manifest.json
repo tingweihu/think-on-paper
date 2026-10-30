@@ -1,0 +1,37 @@
+{
+  "id": "dot-staggered",
+  "family": "grid-dot",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.grid_dot.dot_staggered",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "Offset dot rows provide triangular alignment axes rather than the square axes of a standard dot grid.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "b94df2b5b0621903ac7360557e4d7adc1da65374400699493853a8f9d7707f03",
+  "titled_pdf_english_name": "Staggered dot grid",
+  "shape_count": 1075,
+  "dot_count": 1075,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/dot-staggered/exports/a5-draft/blank.svg",
+    "pdf": "templates/dot-staggered/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dot-staggered/exports/a5-draft/titled.pdf",
+    "preview": "templates/dot-staggered/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dot-staggered/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dot-staggered/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dot-staggered/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dot-staggered/examples/zh-TW.svg",
+      "en": "templates/dot-staggered/examples/en.svg",
+      "ja": "templates/dot-staggered/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dot-staggered/README.zh-TW.md",
+      "en": "templates/dot-staggered/README.en.md",
+      "ja": "templates/dot-staggered/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "three-sketch-proposals",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.ideation.three_sketch_proposals",
+  "source_type": "original-layout",
+  "source_note": "Three vertical proposal rows pair a broad blank sketch with a narrow ruled evaluation area.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e0d33cbec6c1f6ca226c7e90e7f28cb4c7c2e1071a2d02cbe111196960bdadf7",
+  "titled_pdf_english_name": "Three sketch proposals",
+  "shape_count": 15,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/three-sketch-proposals/exports/a5-draft/blank.svg",
+    "pdf": "templates/three-sketch-proposals/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/three-sketch-proposals/exports/a5-draft/titled.pdf",
+    "preview": "templates/three-sketch-proposals/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/three-sketch-proposals/exports/a5-contrast/blank.svg",
+      "pdf": "templates/three-sketch-proposals/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/three-sketch-proposals/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/three-sketch-proposals/examples/zh-TW.svg",
+      "en": "templates/three-sketch-proposals/examples/en.svg",
+      "ja": "templates/three-sketch-proposals/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/three-sketch-proposals/README.zh-TW.md",
+      "en": "templates/three-sketch-proposals/README.en.md",
+      "ja": "templates/three-sketch-proposals/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "asymmetric-branches",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.asymmetric_branches",
+  "source_type": "original-layout",
+  "source_note": "One root fans into three uneven branches with different numbers of leaves.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "62500dd972c5195e02cb32fd3ed4e94ddcf118784b565090316301d6a685e52a",
+  "titled_pdf_english_name": "Uneven branch map",
+  "shape_count": 17,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/asymmetric-branches/exports/a5-draft/blank.svg",
+    "pdf": "templates/asymmetric-branches/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/asymmetric-branches/exports/a5-draft/titled.pdf",
+    "preview": "templates/asymmetric-branches/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/asymmetric-branches/exports/a5-contrast/blank.svg",
+      "pdf": "templates/asymmetric-branches/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/asymmetric-branches/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/asymmetric-branches/examples/zh-TW.svg",
+      "en": "templates/asymmetric-branches/examples/en.svg",
+      "ja": "templates/asymmetric-branches/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/asymmetric-branches/README.zh-TW.md",
+      "en": "templates/asymmetric-branches/README.en.md",
+      "ja": "templates/asymmetric-branches/README.ja.md"
+    }
+  }
+}

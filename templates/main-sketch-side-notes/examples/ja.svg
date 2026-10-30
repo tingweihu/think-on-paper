@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="14.000" y="17.000" width="81.180" height="176.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="101.180" y="17.000" width="35.820" height="176.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="30.538" x2="133.000" y2="30.538" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="44.077" x2="133.000" y2="44.077" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="57.615" x2="133.000" y2="57.615" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="71.154" x2="133.000" y2="71.154" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="84.692" x2="133.000" y2="84.692" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="98.231" x2="133.000" y2="98.231" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="111.769" x2="133.000" y2="111.769" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="125.308" x2="133.000" y2="125.308" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="138.846" x2="133.000" y2="138.846" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="152.385" x2="133.000" y2="152.385" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="165.923" x2="133.000" y2="165.923" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105.180" y1="179.462" x2="133.000" y2="179.462" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g data-example="teaching-marks" fill="none" stroke="#746F68" stroke-width="0.58" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(26.00 64.00) scale(0.62000 1.05000)"><path d="M12 12 H82 V82 H12 Z M12 47 H28 M28 47 V72 M28 72 H13"/><rect x="39" y="22" width="18" height="13"/><rect x="61" y="22" width="14" height="13"/><rect x="39" y="52" width="18" height="13"/><path d="M22 77 L42 77 M37 72 L42 77 L37 82"/></g>
+</g>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="21.000" y="42.000">入口と机</text>
+<text x="105.180" y="36.000">動線と照明を確認</text>
+</g>
+</svg>

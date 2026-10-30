@@ -1,0 +1,39 @@
+{
+  "id": "concept-examples-six",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_concept_examples_six",
+  "source_type": "common-geometry",
+  "source_note": "equivalent of mindmap-six. Six examples around a central concept share the radial six-spoke topology.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "3ce96e0ab0010152f5d7c1afce4f0296b4153bea48b6ba6b9b5ec24d3575409a",
+  "titled_pdf_english_name": "Concept and six examples",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/concept-examples-six/exports/a5-draft/blank.svg",
+    "pdf": "templates/concept-examples-six/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/concept-examples-six/exports/a5-draft/titled.pdf",
+    "preview": "templates/concept-examples-six/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/concept-examples-six/exports/a5-contrast/blank.svg",
+      "pdf": "templates/concept-examples-six/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/concept-examples-six/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/concept-examples-six/examples/zh-TW.svg",
+      "en": "templates/concept-examples-six/examples/en.svg",
+      "ja": "templates/concept-examples-six/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/concept-examples-six/README.zh-TW.md",
+      "en": "templates/concept-examples-six/README.en.md",
+      "ja": "templates/concept-examples-six/README.ja.md"
+    }
+  },
+  "variant_of": "mindmap-six",
+  "variant_classification": "equivalent"
+}

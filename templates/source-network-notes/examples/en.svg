@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="29.000" cy="39.000" r="11.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="34.000" r="11.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="122.000" cy="39.000" r="11.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="16.000" y="101.000" width="37.000" height="60.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="57.000" y="101.000" width="37.000" height="60.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="98.000" y="101.000" width="37.000" height="60.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="29.000" y1="51.000" x2="34.500" y2="99.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="46.000" x2="75.500" y2="99.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="122.000" y1="51.000" x2="116.500" y2="99.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="38.000" y1="46.000" x2="72.500" y2="99.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="113.000" y1="46.000" x2="78.500" y2="99.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="179.000" x2="133.000" y2="179.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="21.000" y="41.000">Source A</text>
+<text x="67.500" y="36.000">Source B</text>
+<text x="114.000" y="41.000">Source C</text>
+<text x="19.000" y="120.000">Hours</text>
+<text x="60.000" y="120.000">Seating</text>
+<text x="101.000" y="120.000">Booking</text>
+<text x="19.000" y="190.000">Check dates</text>
+</g>
+</svg>

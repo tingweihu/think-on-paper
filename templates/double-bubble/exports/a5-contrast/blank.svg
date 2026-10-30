@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="53.500" cy="105.000" r="14.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="97.500" cy="105.000" r="14.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="66.000" r="13.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="60.500" y1="93.000" x2="67.500" y2="75.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="90.500" y1="93.000" x2="83.500" y2="75.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="144.000" r="13.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="60.500" y1="117.000" x2="67.500" y2="135.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="90.500" y1="117.000" x2="83.500" y2="135.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28.500" cy="105.000" r="9.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.500" y1="105.000" x2="39.500" y2="105.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="122.500" cy="105.000" r="9.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="113.500" y1="105.000" x2="111.500" y2="105.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

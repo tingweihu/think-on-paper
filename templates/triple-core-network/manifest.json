@@ -1,0 +1,37 @@
+{
+  "id": "triple-core-network",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.triple_core_network",
+  "source_type": "original-layout",
+  "source_note": "Three mutually linked core nodes each connect to outer context nodes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "4151bdf587bf4d12aa7a50a715f516a2149345053d2f86d5e7a794739e956bd3",
+  "titled_pdf_english_name": "Three-core relationship map",
+  "shape_count": 16,
+  "dot_count": 0,
+  "example_slot_count": 8,
+  "files": {
+    "svg": "templates/triple-core-network/exports/a5-draft/blank.svg",
+    "pdf": "templates/triple-core-network/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/triple-core-network/exports/a5-draft/titled.pdf",
+    "preview": "templates/triple-core-network/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/triple-core-network/exports/a5-contrast/blank.svg",
+      "pdf": "templates/triple-core-network/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/triple-core-network/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/triple-core-network/examples/zh-TW.svg",
+      "en": "templates/triple-core-network/examples/en.svg",
+      "ja": "templates/triple-core-network/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/triple-core-network/README.zh-TW.md",
+      "en": "templates/triple-core-network/README.en.md",
+      "ja": "templates/triple-core-network/README.ja.md"
+    }
+  }
+}

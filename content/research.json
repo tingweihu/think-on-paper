@@ -1,0 +1,26 @@
+{
+  "top-excerpt-bottom-thoughts": {
+    "source_type":"original-layout","source_note":"A bounded lined excerpt area sits above a separated reflection area; source text itself is never preprinted.",
+    "translations": {
+      "zh-TW":{"title":"摘錄與思考上下區","purpose":"把引文或觀察放在上半，自己的疑問與解讀留在下半。","when":["閱讀一段公開文章後區分原文與個人理解。","記錄展覽觀察時分開現場描述和後續想法。"],"steps":["上區抄寫短摘錄並在旁註明可回查的來源。","下區先寫自己的解讀，再列一個待查問題。","回看上區，標清哪些是原文、哪些是推論。"],"unsuitable":"上區不是完整文獻管理系統；長篇引文與引用權利仍需另行處理。","example":"用虛構展覽公告的一句『週末開放』作上區摘錄；下區寫『可能適合上班族，但需確認交通』。","labels":["公告：週末開放","想法：需確認交通"]},
+      "en":{"title":"Excerpt above, thoughts below","purpose":"Keep a quotation or observation above and personal questions and interpretations below.","when":["Separate an article's wording from your own understanding.","Distinguish a gallery observation from later ideas."],"steps":["Copy a short excerpt above and note a traceable source nearby.","Write your interpretation and one question below.","Recheck which words belong to the source and which are inferences."],"unsuitable":"The upper area is not a complete citation system; long quotations and reuse rights still need separate care.","example":"A fictional notice says 'Open on weekends' above; below, the reader asks whether transit makes it useful for workers.","labels":["Notice: weekends","Thought: check transit"]},
+      "ja":{"title":"上に抜粋、下に考え","purpose":"引用や観察を上に、自分の疑問と解釈を下に分けます。","when":["記事の原文と自分の理解を区別するとき。","展示で見たことと後で考えたことを分けるとき。"],"steps":["上に短い抜粋と後から確認できる出典を書きます。","下に解釈と一つの疑問を書きます。","原文の言葉と自分の推論が混ざっていないか見直します。"],"unsuitable":"上の欄だけで文献管理は完結しません。長い引用や再利用の権利は別途確認します。","example":"架空の案内文『週末に開場』を上へ、下には『交通を調べたい』という考えを書きます。","labels":["案内：週末開場","考え：交通を確認"]}
+    }
+  },
+  "claim-four-evidence": {
+    "source_type":"original-layout","source_note":"A single broad claim sits above four ruled evidence areas connected by a visible branch.",
+    "translations": {
+      "zh-TW":{"title":"主張與四項資料","purpose":"把一個可檢驗的主張與四項支持、反對或缺漏的資料分開。","when":["閱讀一篇文章時檢查其核心主張有何依據。","討論虛構活動提案時列出尚需核對的觀察。"],"steps":["上方只寫一個清楚、可被反駁的主張。","四卡各記一項資料及來源，包含可能的反例。","最後比較資料品質，別用四格數量取代證據強度。"],"unsuitable":"四卡並非正式文獻審查，也不能把虛構示例當成真實研究結果。","example":"虛構提案主張『提前提醒會增加到場』；四卡分別記報名、到場、未回覆與未提醒組仍缺資料。","labels":["提醒會增加到場？","報名紀錄","到場紀錄","未回覆者","缺比較組"]},
+      "en":{"title":"One claim, four evidence areas","purpose":"Separate a testable claim from four supporting, opposing, or missing pieces of information.","when":["Check what supports an article's central claim.","List observations still needed for a fictional event proposal."],"steps":["State one clear, disconfirmable claim above.","Record one item and its source in each card, including counterexamples.","Compare the quality of evidence rather than treating four filled cards as proof."],"unsuitable":"Four cards are not a formal literature review, and fictional examples are not research results.","example":"A fictional plan claims reminders improve attendance; cards record sign-ups, arrivals, nonresponses, and the missing no-reminder comparison.","labels":["Reminders help?","Sign-ups","Arrivals","No reply","No baseline"]},
+      "ja":{"title":"一つの主張と四つの資料","purpose":"検証できる主張と、支持・反対・不足を示す四項目を分けます。","when":["記事の中心の主張に根拠があるか見るとき。","架空の催しの企画に必要な観察を挙げるとき。"],"steps":["上に反証可能な主張を一つ書きます。","各枠に資料と出典を一件ずつ記し、反例も含めます。","四枠を埋めた数ではなく、資料の質を比べます。"],"unsuitable":"四枠では正式な文献調査はできません。架空の例を研究結果として扱わないでください。","example":"架空の案『通知で出席が増える』について、申込、出席、未回答、比較群の欠如を分けて考えます。","labels":["通知で増える？","申込","出席","未回答","比較群なし"]}
+    }
+  },
+  "source-network-notes": {
+    "source_type":"original-layout","source_note":"Three source nodes feed three note cards with cross-source links and a bottom synthesis line.",
+    "translations": {
+      "zh-TW":{"title":"多來源連結筆記","purpose":"對照三個來源的筆記，標出兩個來源同時支援的觀察。","when":["比較三篇公開文章對同一議題的說法。","把三次虛構訪談的觀察放在一起整理。"],"steps":["上方三圓各寫可回查的來源簡稱。","中間卡片各記對應的觀察；交叉線表示需比較的資料。","底部寫目前可綜合的一句話，並標出矛盾或空白。"],"unsuitable":"連線不等於來源相互獨立；正式引用仍需另記完整書目與頁碼。","example":"虛構社區資料 A、B、C 都談使用空間；中間記開放時段、座位及借用規則，底部寫需確認不同來源的日期。","labels":["資料A","資料B","資料C","開放時段","座位","借用規則","日期待查"]},
+      "en":{"title":"Linked source notes","purpose":"Compare notes from three sources and flag observations supported across sources.","when":["Compare three public articles on one issue.","Bring observations from three fictional interviews together."],"steps":["Give each upper circle a traceable source shorthand.","Record its observation in a middle card; cross-lines mark comparisons to make.","Write one provisional synthesis below, noting contradictions or gaps."],"unsuitable":"Cross-links do not prove source independence; full references and page numbers still belong in a proper citation record.","example":"Fictional sources A, B, and C discuss shared space; notes cover opening hours, seating, and booking rules, while dates need checking.","labels":["Source A","Source B","Source C","Hours","Seating","Booking","Check dates"]},
+      "ja":{"title":"資料を結ぶメモ","purpose":"三つの資料からのメモを比べ、複数資料に関わる観察を見つけます。","when":["同じ話題を扱う三つの公開記事を比べるとき。","架空の三回の聞き取りをまとめるとき。"],"steps":["上の三円に追跡できる資料の略称を書きます。","中段に対応する観察を記し、交差線は比較する箇所として読みます。","下に暫定の総合を一文で書き、矛盾や空白も示します。"],"unsuitable":"交差線は資料の独立性の証明ではありません。正式な引用には書誌とページを別に記します。","example":"架空の資料A、B、Cから開館時間、座席、予約規則を比べ、下段で日付の確認が必要と記します。","labels":["資料A","資料B","資料C","開館時間","座席","予約規則","日付を確認"]}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="19.500" y="49.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="58.500" y="49.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="97.500" y="49.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="19.500" y="88.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="58.500" y="88.000" width="34.000" height="34.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="97.500" y="88.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="19.500" y="127.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="58.500" y="127.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="97.500" y="127.000" width="34.000" height="34.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="22.500" y="62.000">Venue</text>
+<text x="61.500" y="62.000">Works</text>
+<text x="100.500" y="62.000">Volunteers</text>
+<text x="22.500" y="101.000">Tour</text>
+<text x="61.500" y="101.000">Exhibition</text>
+<text x="100.500" y="101.000">Access</text>
+<text x="22.500" y="140.000">Materials</text>
+<text x="61.500" y="140.000">Schedule</text>
+<text x="100.500" y="140.000">Feedback</text>
+</g>
+</svg>

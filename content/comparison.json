@@ -1,0 +1,50 @@
+{
+  "t-comparison": {
+    "source_type": "traditional-format-adaptation", "source_note": "Full-width question band above two open comparison columns.",
+    "translations": {
+      "zh-TW": {"title": "T 形比較", "purpose": "先寫同一個問題，再把兩種答案分在下方左右。", "when": ["比較兩種場地對同一活動的影響。", "整理一個主張的支持與反對理由。"], "steps": ["在上方寫清楚要比較的問題。", "左、右各指定一個選項或立場。", "逐項寫出根據，回看哪些內容仍缺資料。"], "unsuitable": "超過兩個方案或需要數值權重時，T 形分區不夠。", "example": "示例上方問虛構讀書會應在何處辦，左右比較圖書館與戶外亭。", "labels": ["讀書會選哪個場地？", "圖書館：設備方便", "戶外亭：空氣流通"]},
+      "en": {"title": "T comparison", "purpose": "State one question above and place two possible answers in the columns below.", "when": ["Compare two venues for one gathering.", "Sort reasons for and against a claim."], "steps": ["Write the comparison question in the upper band.", "Assign one option or stance to each side.", "Add evidence item by item, then identify what information is missing."], "unsuitable": "More than two options or numeric weighting need another structure.", "example": "A fictional reading group asks where to meet, comparing a library with an outdoor pavilion.", "labels": ["Where should we meet?", "Library: convenient tools", "Pavilion: open air"]},
+      "ja": {"title": "T字比較", "purpose": "上に共通の問いを書き、下の左右に二つの答えを分けます。", "when": ["同じ催しに対する二つの会場を比べるとき。", "一つの主張への賛否の理由を整理するとき。"], "steps": ["上段に比べる問いを明確に書きます。", "左右に選択肢や立場を一つずつ割り当てます。", "根拠を順に書き、足りない情報を探します。"], "unsuitable": "三案以上や数値の重み付けにはT字だけでは足りません。", "example": "架空の読書会の会場を問い、図書館と屋外の東屋を左右で比べています。", "labels": ["会場はどこにする？", "図書館：設備が便利", "東屋：空気がよい"]}
+    }
+  },
+  "three-way-comparison": {
+    "source_type": "traditional-format-adaptation", "source_note": "One shared question band and three parallel answer columns.",
+    "translations": {
+      "zh-TW": {"title": "三方比較", "purpose": "同一個問題下，把三種答案放到三個欄位對照。", "when": ["選擇三種可能的社區活動場地。", "比較三篇文章對同一問題的看法。"], "steps": ["先在上方寫同一個比較問題。", "每欄只放一個方案，盡量沿相近高度記同類條件。", "回看每欄仍缺的證據，不因欄位填滿就下結論。"], "unsuitable": "每欄窄，不適合長篇證據敘述；精確評分應另用有單位的表。", "example": "示例問虛構讀書會的場地，三欄比較圖書館、社區中心與戶外亭。", "labels": ["讀書會場地？", "圖書館", "社區中心", "戶外亭"]},
+      "en": {"title": "Three-way comparison", "purpose": "Compare three answers beneath one shared question.", "when": ["Choose among three community-event venues.", "Compare three articles' views on the same issue."], "steps": ["Write the shared question in the top band.", "Give each column one option and align similar criteria where possible.", "Review evidence gaps before drawing a conclusion from filled columns."], "unsuitable": "Narrow columns cannot hold long evidence; precise scoring needs a table with units.", "example": "Three fictional reading-group venues are compared: library, community center, and pavilion.", "labels": ["Reading group venue?", "Library", "Community center", "Pavilion"]},
+      "ja": {"title": "三案の比較", "purpose": "一つの問いの下で三つの答えを並べて比べます。", "when": ["地域の催しの会場を三案から考えるとき。", "同じ問題について三つの記事の見方を比べるとき。"], "steps": ["上段に共通の問いを書きます。", "各欄に一案を置き、同じ条件を近い高さに並べます。", "欄を埋めただけで結論にせず、根拠の欠けを確認します。"], "unsuitable": "欄が狭く長い根拠は書けません。正確な点数には単位付きの表が必要です。", "example": "架空の読書会について図書館、地域センター、東屋の三会場を比べています。", "labels": ["読書会の会場？", "図書館", "地域センター", "東屋"]}
+    }
+  },
+  "venn-two": {
+    "source_type": "existing-method-adaptation", "source_note": "Two overlapping circles represent shared and exclusive sets without printed labels.",
+    "translations": {
+      "zh-TW": {"title": "雙圓交集圖", "purpose": "用兩個重疊圓區分各自特點與共同部分。", "when": ["比較兩種活動都需要的材料。", "整理兩篇文章重合與各自獨有的觀點。"], "steps": ["先決定左右圓各代表哪個集合。", "只屬於一邊的項目寫在非重疊處，共有的寫在交集。", "回看是否有項目其實不屬於任何一邊，另做註記。"], "unsuitable": "需要精確數量、比例或複雜多重交集時，圓的位置不代表統計尺度。", "example": "示例比較虛構讀書會的室內與戶外活動：桌椅與遮蔭各在一側，共通的討論題在交集。", "labels": ["桌椅", "討論題", "遮蔭"]},
+      "en": {"title": "Two-circle Venn diagram", "purpose": "Separate features belonging to either group from those shared by both.", "when": ["Compare materials needed by two event formats.", "Find overlap and differences between two articles."], "steps": ["Decide what the left and right circles each represent.", "Write exclusive items outside the overlap and shared items in it.", "Check for items that belong to neither and note them separately."], "unsuitable": "Circle area is not a statistical scale; exact counts or many intersections need another representation.", "example": "Indoor and outdoor versions of a fictional reading group have chairs and shade separately, while a discussion question is shared.", "labels": ["Chairs", "Discussion", "Shade"]},
+      "ja": {"title": "二円のベン図", "purpose": "二つの円でそれぞれだけの特徴と共通部分を分けます。", "when": ["二種類の催しに必要な材料を比べるとき。", "二つの記事の重なりと違いを整理するとき。"], "steps": ["左右の円が何の集合か決めます。", "片方だけの項目は外側、共通の項目は重なりに書きます。", "どちらにも属さない項目がないか見直し、別に記します。"], "unsuitable": "円の面積は統計の尺度ではありません。正確な数や多くの交差には別の表現が必要です。", "example": "架空の読書会の屋内・屋外案で、椅子と日よけは片側ずつ、討論の問いは共通部に置きます。", "labels": ["椅子", "討論の問い", "日よけ"]}
+    }
+  },
+  "venn-three": {
+    "source_type": "existing-method-adaptation", "source_note": "Three overlapping circles create pairwise and triple-intersection regions.",
+    "translations": {
+      "zh-TW": {"title": "三圓交集圖", "purpose": "同時查看三組內容的獨有、兩兩共通與三方共通部分。", "when": ["比較三種課程活動使用的資源。", "尋找三篇資料都提到的同一問題。"], "steps": ["替三個圓各指定一組內容。", "先填各自獨有的項目，再填兩兩交集。", "最後核對中央三方交集，避免把只屬兩組的項目放進去。"], "unsuitable": "交集區很小，只容短語；要列大量項目或精確數量時應改用表格。", "example": "虛構的講座、工作坊與導覽：講者、工具、路線各自獨有；座位、問答、體驗屬兩兩交集；報名屬三方共通。", "labels": ["講者", "工具", "路線", "座位", "問答", "體驗", "報名"]},
+      "en": {"title": "Three-circle Venn diagram", "purpose": "Inspect exclusive, pairwise-shared, and three-way-shared items across three groups.", "when": ["Compare resources used by three learning activities.", "Find a concern mentioned by three sources."], "steps": ["Assign one group to each circle.", "Fill exclusive regions first, then pairwise overlaps.", "Check the central overlap last so items shared by only two groups are not misplaced."], "unsuitable": "Intersections are small and fit phrases, not long lists or precise quantities.", "example": "For a fictional lecture, workshop, and tour, speaker/tools/route are exclusive; seats, Q&A, and hands-on activity are pairwise; signup is shared by all three.", "labels": ["Speaker", "Tools", "Route", "Seats", "Q&A", "Hands-on", "Signup"]},
+      "ja": {"title": "三円のベン図", "purpose": "三組の固有部分、二組の共通部分、三組すべての共通部分を見ます。", "when": ["三種類の学習活動で使う資源を比べるとき。", "三つの資料に共通する問いを探すとき。"], "steps": ["三つの円に組を一つずつ割り当てます。", "まず固有部分、次に二組の重なりを埋めます。", "最後に中央を確認し、二組だけの項目を三組共通と誤らないようにします。"], "unsuitable": "重なる場所が小さく、短い語句向けです。大量の項目や正確な数量には表を使います。", "example": "架空の講演・実習・見学で、講師・道具・経路は固有、座席・質問・体験は二組ずつ、申込は三組に共通します。", "labels": ["講師", "道具", "経路", "座席", "質問", "体験", "申込"]}
+    }
+  },
+  "double-bubble": {
+    "source_type": "existing-method-adaptation", "source_note": "Two central subjects link to shared top/bottom traits and exclusive outer traits.",
+    "translations": {
+      "zh-TW": {"title": "雙核心氣泡比較", "purpose": "兩個中心主題連向共通與各自獨有的短特徵。", "when": ["比較兩種導覽方式的共通目的與差異。", "整理兩件物品相同功能與不同用法。"], "steps": ["在左右大圓寫兩個主題。", "在上下共通泡泡寫兩者共有的特徵。", "最外側小泡泡寫各自獨有的特徵，再檢查連線是否成立。"], "unsuitable": "泡泡小，只能寫短詞；需詳細證據或數量比較時應轉成表格。", "example": "示例比較紙本與口頭導覽；路線和資訊是共通點，可留存與可提問是各自特色。", "labels": ["紙本", "口頭", "路線", "資訊", "可留", "可問"]},
+      "en": {"title": "Double-bubble comparison", "purpose": "Connect two central subjects to shared and exclusive short traits.", "when": ["Compare two guide formats by shared aims and differences.", "Sort common functions and distinct uses of two objects."], "steps": ["Name the two subjects in the larger circles.", "Use the upper and lower bubbles for traits shared by both.", "Put each exclusive trait in an outer bubble and check each connection."], "unsuitable": "Bubbles fit short words, not evidence or numeric comparisons; use a table for detail.", "example": "Paper and spoken guides both offer route and information; keeping a copy and asking questions are unique traits.", "labels": ["Paper", "Spoken", "Route", "Info", "Keep", "Ask"]},
+      "ja": {"title": "二中心のバブル比較", "purpose": "二つの主題を共通の特徴と固有の特徴につなげます。", "when": ["二種類の案内の共通目的と違いを比べるとき。", "二つの物の同じ機能と異なる使い方を整理するとき。"], "steps": ["左右の大きな円に二つの主題を書きます。", "上下の泡に両者に共通する特徴を書きます。", "外側の小さな泡に固有の特徴を置き、各線が妥当か確かめます。"], "unsuitable": "泡が小さく短い語しか入りません。詳しい根拠や数値には表を使います。", "example": "紙の案内と口頭案内は経路と情報を共有し、保存できることと質問できることがそれぞれの特徴です。", "labels": ["紙", "口頭", "経路", "情報", "保存", "質問"]}
+    }
+  },
+  "bridge-analogy": {
+    "source_type": "original-layout", "source_note": "Two larger domains connect through a three-part bridge of mapped aspects.",
+    "translations": {
+      "zh-TW": {"title": "橋接類比", "purpose": "把兩個不同主題放在橋的兩端，逐項說明可類比的部分。", "when": ["用熟悉的圖書館流程理解新的資料庫流程。", "比較兩種社區服務的入口、步驟與回饋。"], "steps": ["左右各寫一個主題，先確定比較的目的。", "在橋上三格依序記對應面向。", "逐項檢查類比在哪裡失效，避免把相似當成相同。"], "unsuitable": "類比不能代替證據；橋格很小，不宜寫複雜解釋。", "example": "示例把圖書館借書和線上借閱放兩端，橋上記入口、查找與取得的對應。", "labels": ["圖書館借書", "線上借閱", "入口", "查找", "取得"]},
+      "en": {"title": "Bridge analogy", "purpose": "Put two domains at the ends of a bridge and map selected aspects between them.", "when": ["Use a familiar library process to understand a new database process.", "Compare the entry, steps, and feedback in two community services."], "steps": ["Name both domains and the reason for comparing them.", "Use the three bridge spaces for corresponding aspects in order.", "Check where the analogy fails instead of treating similarity as identity."], "unsuitable": "An analogy is not evidence, and the bridge spaces are too small for complex explanations.", "example": "Borrowing at a library and online lending sit at opposite ends; entry, search, and receipt are mapped between them.", "labels": ["Library loan", "Online lending", "Entry", "Search", "Get"]},
+      "ja": {"title": "橋渡しの類比", "purpose": "異なる二つの主題を橋の両端に置き、対応する部分を順に考えます。", "when": ["慣れた図書館の手順で新しいデータベースを理解するとき。", "二つの地域サービスの入口、手順、反応を比べるとき。"], "steps": ["左右の主題と比べる理由を決めます。", "橋の三つの区画に対応する観点を順に書きます。", "似ていない部分も確かめ、同一だと決めつけません。"], "unsuitable": "類比は証拠の代わりにならず、橋の区画は長い説明には狭いものです。", "example": "図書館での貸出とオンライン貸出を両端に置き、入口、検索、受け取りを橋に並べます。", "labels": ["図書館の貸出", "オンライン貸出", "入口", "検索", "受取"]}
+    }
+  }
+}

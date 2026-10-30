@@ -1,0 +1,39 @@
+{
+  "id": "cycle-six",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_cycle_six",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of cycle-four. Cycle node count changes, but the ring-flow topology is unchanged.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "23128b84fd9fa2431b2935e6ff64f4229d4a3283e2473d878e8c82e7d397613f",
+  "titled_pdf_english_name": "Six-stage cycle",
+  "shape_count": 24,
+  "dot_count": 0,
+  "example_slot_count": 6,
+  "files": {
+    "svg": "templates/cycle-six/exports/a5-draft/blank.svg",
+    "pdf": "templates/cycle-six/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cycle-six/exports/a5-draft/titled.pdf",
+    "preview": "templates/cycle-six/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cycle-six/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cycle-six/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cycle-six/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cycle-six/examples/zh-TW.svg",
+      "en": "templates/cycle-six/examples/en.svg",
+      "ja": "templates/cycle-six/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cycle-six/README.zh-TW.md",
+      "en": "templates/cycle-six/README.en.md",
+      "ja": "templates/cycle-six/README.ja.md"
+    }
+  },
+  "variant_of": "cycle-four",
+  "variant_classification": "parameter"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "crazy-eight",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_crazy_eight",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of four-cards. Eight equal sketch cells are a grid-count variant; use the card-grid topology with eight panels.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "c7d82a8b611d3635e026265635651f2f87c61ad711594064f7f091748a142861",
+  "titled_pdf_english_name": "Crazy eight idea sketch",
+  "shape_count": 8,
+  "dot_count": 0,
+  "example_slot_count": 8,
+  "files": {
+    "svg": "templates/crazy-eight/exports/a5-draft/blank.svg",
+    "pdf": "templates/crazy-eight/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/crazy-eight/exports/a5-draft/titled.pdf",
+    "preview": "templates/crazy-eight/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/crazy-eight/exports/a5-contrast/blank.svg",
+      "pdf": "templates/crazy-eight/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/crazy-eight/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/crazy-eight/examples/zh-TW.svg",
+      "en": "templates/crazy-eight/examples/en.svg",
+      "ja": "templates/crazy-eight/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/crazy-eight/README.zh-TW.md",
+      "en": "templates/crazy-eight/README.en.md",
+      "ja": "templates/crazy-eight/README.ja.md"
+    }
+  },
+  "variant_of": "four-cards",
+  "variant_classification": "parameter"
+}

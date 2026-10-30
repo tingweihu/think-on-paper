@@ -1,0 +1,37 @@
+{
+  "id": "brace-decomposition",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.brace_decomposition",
+  "source_type": "common-geometry",
+  "source_note": "A left parent area and a vertical brace-like spine feed three distinct component areas.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "07a044ac214a10626f98d3177a35b74412f2563b5f51d03f16377b86c4a18b18",
+  "titled_pdf_english_name": "Brace decomposition",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/brace-decomposition/exports/a5-draft/blank.svg",
+    "pdf": "templates/brace-decomposition/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/brace-decomposition/exports/a5-draft/titled.pdf",
+    "preview": "templates/brace-decomposition/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/brace-decomposition/exports/a5-contrast/blank.svg",
+      "pdf": "templates/brace-decomposition/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/brace-decomposition/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/brace-decomposition/examples/zh-TW.svg",
+      "en": "templates/brace-decomposition/examples/en.svg",
+      "ja": "templates/brace-decomposition/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/brace-decomposition/README.zh-TW.md",
+      "en": "templates/brace-decomposition/README.en.md",
+      "ja": "templates/brace-decomposition/README.ja.md"
+    }
+  }
+}

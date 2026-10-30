@@ -1,0 +1,37 @@
+{
+  "id": "mandala-extended",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.mandala_extended",
+  "source_type": "original-layout",
+  "source_note": "A central nine-cell square gains four separate outer continuation cards.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "1ca9df2b171e2127ef09497dcbe490910720c0818089b901946c22ee260ddac6",
+  "titled_pdf_english_name": "Nine cells with four extensions",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 13,
+  "files": {
+    "svg": "templates/mandala-extended/exports/a5-draft/blank.svg",
+    "pdf": "templates/mandala-extended/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mandala-extended/exports/a5-draft/titled.pdf",
+    "preview": "templates/mandala-extended/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mandala-extended/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mandala-extended/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mandala-extended/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mandala-extended/examples/zh-TW.svg",
+      "en": "templates/mandala-extended/examples/en.svg",
+      "ja": "templates/mandala-extended/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mandala-extended/README.zh-TW.md",
+      "en": "templates/mandala-extended/README.en.md",
+      "ja": "templates/mandala-extended/README.ja.md"
+    }
+  }
+}

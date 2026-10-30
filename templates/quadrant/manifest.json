@@ -1,0 +1,37 @@
+{
+  "id": "quadrant",
+  "family": "matrix",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.gate1.quadrant",
+  "source_type": "generic-geometry",
+  "source_note": "Four equal writing regions with no predefined axes or exclusive quadrant theory.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e0e93c53f11276c78415da71ebf8709ce397aa5f27456c9a1c90979d0bceff27",
+  "titled_pdf_english_name": "Four-quadrant notes",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/quadrant/exports/a5-draft/blank.svg",
+    "pdf": "templates/quadrant/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/quadrant/exports/a5-draft/titled.pdf",
+    "preview": "templates/quadrant/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/quadrant/exports/a5-contrast/blank.svg",
+      "pdf": "templates/quadrant/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/quadrant/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/quadrant/examples/zh-TW.svg",
+      "en": "templates/quadrant/examples/en.svg",
+      "ja": "templates/quadrant/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/quadrant/README.zh-TW.md",
+      "en": "templates/quadrant/README.en.md",
+      "ja": "templates/quadrant/README.ja.md"
+    }
+  }
+}

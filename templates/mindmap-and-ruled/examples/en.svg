@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<circle cx="75.500" cy="68.000" r="14.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="53.000" x2="75.500" y2="44.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="33.000" r="10.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="90.500" y1="68.000" x2="109.500" y2="68.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="120.500" cy="68.000" r="10.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="83.000" x2="75.500" y2="92.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="103.000" r="10.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="60.500" y1="68.000" x2="41.500" y2="68.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="30.500" cy="68.000" r="10.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="14.000" y1="118.000" x2="137.000" y2="118.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="127.000" x2="133.000" y2="127.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="135.000" x2="133.000" y2="135.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="143.000" x2="133.000" y2="143.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="151.000" x2="133.000" y2="151.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="159.000" x2="133.000" y2="159.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="167.000" x2="133.000" y2="167.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="175.000" x2="133.000" y2="175.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="183.000" x2="133.000" y2="183.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18.000" y1="191.000" x2="133.000" y2="191.000" fill="none" stroke="#CBC4B8" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="en" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="64.500" y="70.000">Local</text>
+<text x="64.500" y="74.300">stories</text>
+<text x="67.500" y="35.000">Intervie-</text>
+<text x="67.500" y="39.300">ws</text>
+<text x="112.500" y="70.000">Photos</text>
+<text x="67.500" y="105.000">Maps</text>
+<text x="22.500" y="70.000">Sharing</text>
+<text x="20.000" y="136.000">Try one interview</text>
+</g>
+</svg>

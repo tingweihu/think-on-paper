@@ -1,0 +1,37 @@
+{
+  "id": "converging-flow",
+  "family": "flow",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.flow.converging_flow",
+  "source_type": "generic-geometry",
+  "source_note": "Three separate inputs point toward one larger output node.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "739c7ae4d36ac98838e113a0b9853a9c4c6d1080f1d0189994b654d081ee0d81",
+  "titled_pdf_english_name": "Three inputs converge",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/converging-flow/exports/a5-draft/blank.svg",
+    "pdf": "templates/converging-flow/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/converging-flow/exports/a5-draft/titled.pdf",
+    "preview": "templates/converging-flow/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/converging-flow/exports/a5-contrast/blank.svg",
+      "pdf": "templates/converging-flow/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/converging-flow/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/converging-flow/examples/zh-TW.svg",
+      "en": "templates/converging-flow/examples/en.svg",
+      "ja": "templates/converging-flow/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/converging-flow/README.zh-TW.md",
+      "en": "templates/converging-flow/README.en.md",
+      "ja": "templates/converging-flow/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "abstraction-ladder",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.ideation.abstraction_ladder",
+  "source_type": "common-geometry",
+  "source_note": "Two rails and five rungs support moving repeatedly between concrete examples and abstract principles.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "0eec07d5dc7f2cf5e30833b0fb987899bb6b582636864532a4801bd93c3b1fc7",
+  "titled_pdf_english_name": "Abstraction ladder",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/abstraction-ladder/exports/a5-draft/blank.svg",
+    "pdf": "templates/abstraction-ladder/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/abstraction-ladder/exports/a5-draft/titled.pdf",
+    "preview": "templates/abstraction-ladder/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/abstraction-ladder/exports/a5-contrast/blank.svg",
+      "pdf": "templates/abstraction-ladder/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/abstraction-ladder/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/abstraction-ladder/examples/zh-TW.svg",
+      "en": "templates/abstraction-ladder/examples/en.svg",
+      "ja": "templates/abstraction-ladder/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/abstraction-ladder/README.zh-TW.md",
+      "en": "templates/abstraction-ladder/README.en.md",
+      "ja": "templates/abstraction-ladder/README.ja.md"
+    }
+  }
+}

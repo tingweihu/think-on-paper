@@ -1,0 +1,37 @@
+{
+  "id": "dot-standard",
+  "family": "grid-dot",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.grid_dot.dot_standard",
+  "source_type": "traditional-paper",
+  "source_note": "Uniform dot lattice with no full grid lines; dot spacing is a profile parameter.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "f8ecd140fa57e645266f7a2b5696a0cdab0ac5d2941c57a528d506ad3f9a4a18",
+  "titled_pdf_english_name": "Dot grid",
+  "shape_count": 950,
+  "dot_count": 950,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/dot-standard/exports/a5-draft/blank.svg",
+    "pdf": "templates/dot-standard/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dot-standard/exports/a5-draft/titled.pdf",
+    "preview": "templates/dot-standard/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dot-standard/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dot-standard/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dot-standard/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dot-standard/examples/zh-TW.svg",
+      "en": "templates/dot-standard/examples/en.svg",
+      "ja": "templates/dot-standard/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dot-standard/README.zh-TW.md",
+      "en": "templates/dot-standard/README.en.md",
+      "ja": "templates/dot-standard/README.ja.md"
+    }
+  }
+}

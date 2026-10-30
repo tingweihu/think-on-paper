@@ -1,0 +1,39 @@
+{
+  "id": "research-index-cards",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_research_index_cards",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of four-cards. Four equal source cards reuse the canonical card-grid geometry.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "be1847893e635556d69dd7e1ec017431a2f33f16b8e6cc8c7fe9e92362049082",
+  "titled_pdf_english_name": "Four research index cards",
+  "shape_count": 4,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/research-index-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/research-index-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/research-index-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/research-index-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/research-index-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/research-index-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/research-index-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/research-index-cards/examples/zh-TW.svg",
+      "en": "templates/research-index-cards/examples/en.svg",
+      "ja": "templates/research-index-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/research-index-cards/README.zh-TW.md",
+      "en": "templates/research-index-cards/README.en.md",
+      "ja": "templates/research-index-cards/README.ja.md"
+    }
+  },
+  "variant_of": "four-cards",
+  "variant_classification": "equivalent"
+}

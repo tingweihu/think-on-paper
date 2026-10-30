@@ -1,0 +1,19 @@
+{
+  "id": "a5-draft",
+  "status": "provisional",
+  "print_ready": false,
+  "page_mm": [148, 210],
+  "orientation": "portrait",
+  "bleed_mm": 0,
+  "safe_margin_mm": {"top": 12, "right": 11, "bottom": 12, "left": 14},
+  "binding_edge": "left",
+  "binding_allowance_mm": 3,
+  "stroke_mm": {"light": 0.16, "normal": 0.22, "strong": 0.32},
+  "ink": {"light": "#CBC4B8", "normal": "#B6AEA1", "strong": "#978E82"},
+  "preview_paper": "#F8F5E9",
+  "default_spacing_mm": {"ruled": 7.5, "grid": 5, "dot": 5},
+  "dot_diameter_mm": 0.38,
+  "line_cap": "round",
+  "line_join": "round",
+  "output_color_space": "sRGB preview / uncalibrated RGB vector draft"
+}

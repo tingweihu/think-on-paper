@@ -1,0 +1,37 @@
+{
+  "id": "mixed-quadrant",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.mixed_quadrant",
+  "source_type": "original-layout",
+  "source_note": "Four quadrants differ in inner texture: ruled, dotted, open, and ruled, enabling distinct writing modes.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "f335a65df91d2ba844a42c204c214dd0559f46c6ff6a0b66c18c2b5d1f65d1fd",
+  "titled_pdf_english_name": "Mixed-texture quadrants",
+  "shape_count": 86,
+  "dot_count": 64,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/mixed-quadrant/exports/a5-draft/blank.svg",
+    "pdf": "templates/mixed-quadrant/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/mixed-quadrant/exports/a5-draft/titled.pdf",
+    "preview": "templates/mixed-quadrant/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/mixed-quadrant/exports/a5-contrast/blank.svg",
+      "pdf": "templates/mixed-quadrant/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/mixed-quadrant/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/mixed-quadrant/examples/zh-TW.svg",
+      "en": "templates/mixed-quadrant/examples/en.svg",
+      "ja": "templates/mixed-quadrant/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/mixed-quadrant/README.zh-TW.md",
+      "en": "templates/mixed-quadrant/README.en.md",
+      "ja": "templates/mixed-quadrant/README.ja.md"
+    }
+  }
+}

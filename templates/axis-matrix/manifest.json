@@ -1,0 +1,39 @@
+{
+  "id": "axis-matrix",
+  "family": "matrix",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_axis_matrix",
+  "source_type": "traditional-paper-adaptation",
+  "source_note": "equivalent of coordinate-grid. Central axes with tick references already have a canonical geometry.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "e0a50477632f260705e08daa83e644a63ea0dec87470ec2817b5f17998bceaf8",
+  "titled_pdf_english_name": "Axis comparison matrix",
+  "shape_count": 30,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/axis-matrix/exports/a5-draft/blank.svg",
+    "pdf": "templates/axis-matrix/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/axis-matrix/exports/a5-draft/titled.pdf",
+    "preview": "templates/axis-matrix/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/axis-matrix/exports/a5-contrast/blank.svg",
+      "pdf": "templates/axis-matrix/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/axis-matrix/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/axis-matrix/examples/zh-TW.svg",
+      "en": "templates/axis-matrix/examples/en.svg",
+      "ja": "templates/axis-matrix/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/axis-matrix/README.zh-TW.md",
+      "en": "templates/axis-matrix/README.en.md",
+      "ja": "templates/axis-matrix/README.ja.md"
+    }
+  },
+  "variant_of": "coordinate-grid",
+  "variant_classification": "equivalent"
+}

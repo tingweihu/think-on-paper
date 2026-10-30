@@ -1,0 +1,39 @@
+{
+  "id": "dot-fine",
+  "family": "grid-dot",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_dot_fine",
+  "source_type": "traditional-paper",
+  "source_note": "parameter of dot-standard. Only dot pitch changes; use the dot spacing parameter.",
+  "license_status": "MIT",
+  "content_revision": 2,
+  "geometry_sha256": "940390891fd96705c34cb58e2136945b7866e417ada03c7cbc5f93e16d53c46d",
+  "titled_pdf_english_name": "Fine dot grid",
+  "shape_count": 1944,
+  "dot_count": 1944,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/dot-fine/exports/a5-draft/blank.svg",
+    "pdf": "templates/dot-fine/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/dot-fine/exports/a5-draft/titled.pdf",
+    "preview": "templates/dot-fine/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/dot-fine/exports/a5-contrast/blank.svg",
+      "pdf": "templates/dot-fine/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/dot-fine/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/dot-fine/examples/zh-TW.svg",
+      "en": "templates/dot-fine/examples/en.svg",
+      "ja": "templates/dot-fine/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/dot-fine/README.zh-TW.md",
+      "en": "templates/dot-fine/README.en.md",
+      "ja": "templates/dot-fine/README.ja.md"
+    }
+  },
+  "variant_of": "dot-standard",
+  "variant_classification": "parameter"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "three-cards-and-ruled",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.three_cards_and_ruled",
+  "source_type": "original-layout",
+  "source_note": "Three equal planning cards occupy the upper page and a wide ruled synthesis area occupies the lower page.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "ea50378de8396a49abb648ed998ca72062a6ee8a2cec1ceffd18a6c5af2e3bf8",
+  "titled_pdf_english_name": "Three cards with ruled synthesis",
+  "shape_count": 16,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/three-cards-and-ruled/exports/a5-draft/blank.svg",
+    "pdf": "templates/three-cards-and-ruled/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/three-cards-and-ruled/exports/a5-draft/titled.pdf",
+    "preview": "templates/three-cards-and-ruled/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/three-cards-and-ruled/exports/a5-contrast/blank.svg",
+      "pdf": "templates/three-cards-and-ruled/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/three-cards-and-ruled/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/three-cards-and-ruled/examples/zh-TW.svg",
+      "en": "templates/three-cards-and-ruled/examples/en.svg",
+      "ja": "templates/three-cards-and-ruled/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/three-cards-and-ruled/README.zh-TW.md",
+      "en": "templates/three-cards-and-ruled/README.en.md",
+      "ja": "templates/three-cards-and-ruled/README.ja.md"
+    }
+  }
+}

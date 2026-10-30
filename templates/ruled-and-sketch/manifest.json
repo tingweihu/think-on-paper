@@ -1,0 +1,39 @@
+{
+  "id": "ruled-and-sketch",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_ruled_and_sketch",
+  "source_type": "original-hybrid",
+  "source_note": "parameter of ruled-sketch-top. Reversing the ruled and sketch zones is an orientation variant of the same two-zone page.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "0219e260e2579945da9d410a6ca196d78c5196c3a597632f807ba3e3e25c3535",
+  "titled_pdf_english_name": "Ruled notes above sketch",
+  "shape_count": 14,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/ruled-and-sketch/exports/a5-draft/blank.svg",
+    "pdf": "templates/ruled-and-sketch/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/ruled-and-sketch/exports/a5-draft/titled.pdf",
+    "preview": "templates/ruled-and-sketch/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/ruled-and-sketch/exports/a5-contrast/blank.svg",
+      "pdf": "templates/ruled-and-sketch/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/ruled-and-sketch/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/ruled-and-sketch/examples/zh-TW.svg",
+      "en": "templates/ruled-and-sketch/examples/en.svg",
+      "ja": "templates/ruled-and-sketch/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/ruled-and-sketch/README.zh-TW.md",
+      "en": "templates/ruled-and-sketch/README.en.md",
+      "ja": "templates/ruled-and-sketch/README.ja.md"
+    }
+  },
+  "variant_of": "ruled-sketch-top",
+  "variant_classification": "parameter"
+}

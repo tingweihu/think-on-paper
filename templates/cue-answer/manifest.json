@@ -1,0 +1,39 @@
+{
+  "id": "cue-answer",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_cue_answer",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of two-left-narrow. A narrow cue column and wide answer column use the existing unequal two-column partition.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "0d3a3190b1e5bfaaee2989517ea537ec61c37a55f5c0f5fc0573e51a4bcac0d3",
+  "titled_pdf_english_name": "Cue and answer",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/cue-answer/exports/a5-draft/blank.svg",
+    "pdf": "templates/cue-answer/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cue-answer/exports/a5-draft/titled.pdf",
+    "preview": "templates/cue-answer/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cue-answer/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cue-answer/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cue-answer/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cue-answer/examples/zh-TW.svg",
+      "en": "templates/cue-answer/examples/en.svg",
+      "ja": "templates/cue-answer/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cue-answer/README.zh-TW.md",
+      "en": "templates/cue-answer/README.en.md",
+      "ja": "templates/cue-answer/README.ja.md"
+    }
+  },
+  "variant_of": "two-left-narrow",
+  "variant_classification": "equivalent"
+}

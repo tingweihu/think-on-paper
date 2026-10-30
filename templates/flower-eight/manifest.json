@@ -1,0 +1,37 @@
+{
+  "id": "flower-eight",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.flower_eight",
+  "source_type": "original-layout",
+  "source_note": "One central circle surrounded by a single ring of eight overlapping circular writing zones.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "ae940609b93cb141e61a5f809c9d96269e7d4eab0f174f8a1e4e9eca27cddc8a",
+  "titled_pdf_english_name": "Eight-petal idea flower",
+  "shape_count": 9,
+  "dot_count": 0,
+  "example_slot_count": 9,
+  "files": {
+    "svg": "templates/flower-eight/exports/a5-draft/blank.svg",
+    "pdf": "templates/flower-eight/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flower-eight/exports/a5-draft/titled.pdf",
+    "preview": "templates/flower-eight/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flower-eight/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flower-eight/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flower-eight/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flower-eight/examples/zh-TW.svg",
+      "en": "templates/flower-eight/examples/en.svg",
+      "ja": "templates/flower-eight/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flower-eight/README.zh-TW.md",
+      "en": "templates/flower-eight/README.en.md",
+      "ja": "templates/flower-eight/README.ja.md"
+    }
+  }
+}

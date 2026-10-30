@@ -1,0 +1,39 @@
+{
+  "id": "quote-side-notes",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_quote_side_notes",
+  "source_type": "generic-geometry",
+  "source_note": "equivalent of two-left-narrow. A slim annotation margin beside a main quotation area uses the same two-column geometry.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "0d3a3190b1e5bfaaee2989517ea537ec61c37a55f5c0f5fc0573e51a4bcac0d3",
+  "titled_pdf_english_name": "Quotation with side notes",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/quote-side-notes/exports/a5-draft/blank.svg",
+    "pdf": "templates/quote-side-notes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/quote-side-notes/exports/a5-draft/titled.pdf",
+    "preview": "templates/quote-side-notes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/quote-side-notes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/quote-side-notes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/quote-side-notes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/quote-side-notes/examples/zh-TW.svg",
+      "en": "templates/quote-side-notes/examples/en.svg",
+      "ja": "templates/quote-side-notes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/quote-side-notes/README.zh-TW.md",
+      "en": "templates/quote-side-notes/README.en.md",
+      "ja": "templates/quote-side-notes/README.ja.md"
+    }
+  },
+  "variant_of": "two-left-narrow",
+  "variant_classification": "equivalent"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "top-down-tree",
+  "family": "hierarchy",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hierarchy.top_down_tree",
+  "source_type": "common-geometry",
+  "source_note": "A vertical one-to-two-to-four containment tree uses generic hierarchy geometry without copied labels.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "ed16896d066ad67ee5c400ec20efbebf90908c9a4ea2b9dc92be80fbd235dc14",
+  "titled_pdf_english_name": "Top-down hierarchy tree",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/top-down-tree/exports/a5-draft/blank.svg",
+    "pdf": "templates/top-down-tree/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/top-down-tree/exports/a5-draft/titled.pdf",
+    "preview": "templates/top-down-tree/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/top-down-tree/exports/a5-contrast/blank.svg",
+      "pdf": "templates/top-down-tree/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/top-down-tree/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/top-down-tree/examples/zh-TW.svg",
+      "en": "templates/top-down-tree/examples/en.svg",
+      "ja": "templates/top-down-tree/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/top-down-tree/README.zh-TW.md",
+      "en": "templates/top-down-tree/README.en.md",
+      "ja": "templates/top-down-tree/README.ja.md"
+    }
+  }
+}

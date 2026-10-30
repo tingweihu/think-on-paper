@@ -1,0 +1,37 @@
+{
+  "id": "hanzi-nine",
+  "family": "special-paper",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.special_paper.hanzi_nine",
+  "source_type": "common-geometry",
+  "source_note": "Each character square is subdivided into a three-by-three guide, distinct from cross or diagonal guides.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "752dd20b59df00cd915871b103f030e08e8a5c988690a2f457f6f3406fd4b648",
+  "titled_pdf_english_name": "Nine-section character grid",
+  "shape_count": 175,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/hanzi-nine/exports/a5-draft/blank.svg",
+    "pdf": "templates/hanzi-nine/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/hanzi-nine/exports/a5-draft/titled.pdf",
+    "preview": "templates/hanzi-nine/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/hanzi-nine/exports/a5-contrast/blank.svg",
+      "pdf": "templates/hanzi-nine/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/hanzi-nine/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/hanzi-nine/examples/zh-TW.svg",
+      "en": "templates/hanzi-nine/examples/en.svg",
+      "ja": "templates/hanzi-nine/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/hanzi-nine/README.zh-TW.md",
+      "en": "templates/hanzi-nine/README.en.md",
+      "ja": "templates/hanzi-nine/README.ja.md"
+    }
+  }
+}

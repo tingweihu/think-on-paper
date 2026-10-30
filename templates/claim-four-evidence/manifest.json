@@ -1,0 +1,37 @@
+{
+  "id": "claim-four-evidence",
+  "family": "research",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.research.claim_four_evidence",
+  "source_type": "original-layout",
+  "source_note": "A single broad claim sits above four ruled evidence areas connected by a visible branch.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "72ec42b71224f4c159a2a1af87423201d9f4c90e65e009b79a33a6a8db6b52fc",
+  "titled_pdf_english_name": "One claim, four evidence areas",
+  "shape_count": 19,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/claim-four-evidence/exports/a5-draft/blank.svg",
+    "pdf": "templates/claim-four-evidence/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/claim-four-evidence/exports/a5-draft/titled.pdf",
+    "preview": "templates/claim-four-evidence/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/claim-four-evidence/exports/a5-contrast/blank.svg",
+      "pdf": "templates/claim-four-evidence/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/claim-four-evidence/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/claim-four-evidence/examples/zh-TW.svg",
+      "en": "templates/claim-four-evidence/examples/en.svg",
+      "ja": "templates/claim-four-evidence/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/claim-four-evidence/README.zh-TW.md",
+      "en": "templates/claim-four-evidence/README.en.md",
+      "ja": "templates/claim-four-evidence/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "triangular-grid",
+  "family": "geometry",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.geometry_paper.triangular_grid",
+  "source_type": "traditional-paper",
+  "source_note": "Equilateral triangular lattice with three line directions; spacing remains provisional.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e862633b792541e50c904a0484aa41fb7564fc3bdc7c8b1e918f6bf8d0c1da5c",
+  "titled_pdf_english_name": "Triangular grid",
+  "shape_count": 70,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/triangular-grid/exports/a5-draft/blank.svg",
+    "pdf": "templates/triangular-grid/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/triangular-grid/exports/a5-draft/titled.pdf",
+    "preview": "templates/triangular-grid/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/triangular-grid/exports/a5-contrast/blank.svg",
+      "pdf": "templates/triangular-grid/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/triangular-grid/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/triangular-grid/examples/zh-TW.svg",
+      "en": "templates/triangular-grid/examples/en.svg",
+      "ja": "templates/triangular-grid/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/triangular-grid/README.zh-TW.md",
+      "en": "templates/triangular-grid/README.en.md",
+      "ja": "templates/triangular-grid/README.ja.md"
+    }
+  }
+}

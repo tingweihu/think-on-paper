@@ -1,0 +1,37 @@
+{
+  "id": "two-equal-columns",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.columns.two_equal_columns",
+  "source_type": "generic-geometry",
+  "source_note": "Two equal uninterrupted writing regions, without a fixed comparison meaning.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "cb939dbbc33770a6407c6e59c993452b671d911e3c84fd12ff2e24b1843f6e94",
+  "titled_pdf_english_name": "Equal two columns",
+  "shape_count": 1,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/two-equal-columns/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-equal-columns/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-equal-columns/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-equal-columns/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-equal-columns/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-equal-columns/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-equal-columns/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-equal-columns/examples/zh-TW.svg",
+      "en": "templates/two-equal-columns/examples/en.svg",
+      "ja": "templates/two-equal-columns/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-equal-columns/README.zh-TW.md",
+      "en": "templates/two-equal-columns/README.en.md",
+      "ja": "templates/two-equal-columns/README.ja.md"
+    }
+  }
+}

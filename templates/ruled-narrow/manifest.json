@@ -1,0 +1,39 @@
+{
+  "id": "ruled-narrow",
+  "family": "foundation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_ruled_narrow",
+  "source_type": "traditional-paper",
+  "source_note": "parameter of ruled-standard. Only line spacing changes; use the ruled spacing parameter.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "34798eb40072db52346a7cec9aa1fec86398e2db708e6b2526b8b667aa73163b",
+  "titled_pdf_english_name": "Narrow ruled notes",
+  "shape_count": 33,
+  "dot_count": 0,
+  "example_slot_count": 4,
+  "files": {
+    "svg": "templates/ruled-narrow/exports/a5-draft/blank.svg",
+    "pdf": "templates/ruled-narrow/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/ruled-narrow/exports/a5-draft/titled.pdf",
+    "preview": "templates/ruled-narrow/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/ruled-narrow/exports/a5-contrast/blank.svg",
+      "pdf": "templates/ruled-narrow/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/ruled-narrow/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/ruled-narrow/examples/zh-TW.svg",
+      "en": "templates/ruled-narrow/examples/en.svg",
+      "ja": "templates/ruled-narrow/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/ruled-narrow/README.zh-TW.md",
+      "en": "templates/ruled-narrow/README.en.md",
+      "ja": "templates/ruled-narrow/README.ja.md"
+    }
+  },
+  "variant_of": "ruled-standard",
+  "variant_classification": "parameter"
+}

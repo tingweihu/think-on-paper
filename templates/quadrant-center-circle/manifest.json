@@ -1,0 +1,37 @@
+{
+  "id": "quadrant-center-circle",
+  "family": "matrix",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.matrix.quadrant_center_circle",
+  "source_type": "original-layout",
+  "source_note": "Four open sectors connect to a distinct central synthesis circle.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "e6f3eddfda55321b7c7252de916bee8608ae08c7f04c0b92580ce07fcc467478",
+  "titled_pdf_english_name": "Four sectors with central synthesis",
+  "shape_count": 5,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/quadrant-center-circle/exports/a5-draft/blank.svg",
+    "pdf": "templates/quadrant-center-circle/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/quadrant-center-circle/exports/a5-draft/titled.pdf",
+    "preview": "templates/quadrant-center-circle/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/quadrant-center-circle/exports/a5-contrast/blank.svg",
+      "pdf": "templates/quadrant-center-circle/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/quadrant-center-circle/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/quadrant-center-circle/examples/zh-TW.svg",
+      "en": "templates/quadrant-center-circle/examples/en.svg",
+      "ja": "templates/quadrant-center-circle/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/quadrant-center-circle/README.zh-TW.md",
+      "en": "templates/quadrant-center-circle/README.en.md",
+      "ja": "templates/quadrant-center-circle/README.ja.md"
+    }
+  }
+}

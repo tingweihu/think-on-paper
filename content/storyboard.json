@@ -1,0 +1,26 @@
+{
+  "storyboard-eight-mixed": {
+    "source_type":"original-layout","source_note":"Eight sequential frames alternate two broad scenes, four small beats, and two broad closing scenes.",
+    "translations": {
+      "zh-TW":{"title":"大小交錯八格故事板","purpose":"用大畫面交代場景，中間四小格快速推進動作，再用大畫面收束。","when":["構思一段短影片的開場、連續動作與結尾。","說明工作坊從入場到完成的八個畫面。"],"steps":["依左到右、上到下順序畫八格，先用大格定場景。","四個小格只畫一個動作變化，避免塞進對白。","最後兩大格補結果與反應，格底寫一行必要描述。"],"unsuitable":"小格不適合細節或長句；正式拍攝還需鏡頭、時間與聲音規劃。","example":"虛構短片先畫走進圖書館與找到書，中間四格畫翻頁、抄寫、提問、交換，最後畫討論與離場。","labels":["入館","找到書","翻頁","抄寫","提問","交換","討論","離場"]},
+      "en":{"title":"Mixed-scale eight-panel storyboard","purpose":"Use broad frames for scenes, four small beats for action, and broad frames for the close.","when":["Plan the opening, movement, and ending of a short video.","Describe eight moments of a workshop visit."],"steps":["Read left to right and top to bottom, establishing scenes in the large frames.","Give each small frame one change of action rather than a long dialogue.","Use the final broad frames for outcome and reaction, with one short caption below each."],"unsuitable":"Small panels cannot carry detail or long prose; production still needs timing, sound, and camera planning.","example":"A fictional film enters a library and finds a book, then turns pages, writes, asks, exchanges, discusses, and leaves.","labels":["Enter","Find book","Turn","Write","Ask","Share","Discuss","Leave"]},
+      "ja":{"title":"大小混合の八コマ絵コンテ","purpose":"大きなコマで場面を示し、中央の四小コマで動きを進め、最後を大きく締めます。","when":["短い映像の始まり、動き、終わりを考えるとき。","講座への入場から終了までを八場面で示すとき。"],"steps":["左から右、上から下に読み、大コマで場面を決めます。","小コマには一つの動作変化だけを描きます。","最後の大コマで結果と反応を示し、各コマ下に短い説明を書きます。"],"unsuitable":"小コマに細部や長文は入りません。撮影には時間、音、カメラの計画も必要です。","example":"架空の短編で図書館に入り、本を見つけ、ページをめくり、記録し、問い、交換し、話し、帰ります。","labels":["入館","本を発見","めくる","記録","質問","交換","話す","帰る"]}
+    }
+  },
+  "main-sketch-side-notes": {
+    "source_type":"original-layout","source_note":"One dominant blank drawing region and a narrow full-height ruled notes column are paired.",
+    "translations": {
+      "zh-TW":{"title":"主草圖與側邊筆記","purpose":"讓一張主要草圖保留寬幅畫面，右側集中記觀察與修改。","when":["畫展場平面概念並記動線問題。","畫產品外形並記材料與尺寸待查項。"],"steps":["左側先畫一個主要草圖，暫不追求精確比例。","右側逐行寫觀察、問題與要查的尺寸。","在圖上圈對應位置，將右側筆記對回草圖。"],"unsuitable":"不是工程圖或實際尺寸圖；右欄也不容完整的規格書。","example":"虛構展場左側畫入口與桌位，右側記『輪椅通道寬度待查』『照明可能反光』。","labels":["入口與桌位","動線與照明待查"]},
+      "en":{"title":"Main sketch with side notes","purpose":"Reserve a large drawing field and keep observations and revisions in a narrow side column.","when":["Sketch an exhibition floor idea and note route concerns.","Draw a product form and list materials or dimensions to verify."],"steps":["Draw the main idea on the left without pretending it is to scale.","Use the right lines for observations, questions, and dimensions to check.","Mark matching places on the sketch so each note has a location."],"unsuitable":"This is not an engineering plan or measured drawing, and the narrow column cannot hold a full specification.","example":"A fictional exhibition sketch places an entry and tables on the left; the right asks about accessible width and possible glare.","labels":["Entry and tables","Check path and light"]},
+      "ja":{"title":"主スケッチと側面メモ","purpose":"大きな図を左に置き、観察や修正案を細い右欄に集めます。","when":["展示の平面案を描き、動線の問題を記すとき。","製品の外形を描き、材料や寸法の確認点を書くとき。"],"steps":["左に主要な案を描き、正確な縮尺だとはみなしません。","右の行に観察、疑問、確認する寸法を書きます。","図の対応位置に印をつけ、メモと結びます。"],"unsuitable":"工学図面や実測図ではありません。細い右欄に完全な仕様書も入りません。","example":"架空の展示で左に入口と机を描き、右に通路幅の確認や照明の反射への疑問を書きます。","labels":["入口と机","動線と照明を確認"]}
+    }
+  },
+  "detail-sketch": {
+    "source_type":"original-layout","source_note":"A large main drawing has a linked detail inset and a separate ruled explanation area.",
+    "translations": {
+      "zh-TW":{"title":"主圖與局部放大","purpose":"畫整體草圖，再把一個需要討論的局部放大並加筆記。","when":["說明展場入口與指示牌的相對位置。","在產品草圖旁放大連接處的構想。"],"steps":["左側先畫整體，圈出待說明的一處。","右上只畫被圈選位置的局部，不把另一個整體草圖塞入。","右下寫局部的材料、疑問或需要核對的尺寸。"],"unsuitable":"放大框只示意關注點，不表示已標定倍率或真實尺寸。","example":"虛構展場左側畫全場，圈入口；右上放大入口指示牌，右下記『高度待量』與『轉角視線待查』。","labels":["全場草圖","入口細節","高度與視線待查"]},
+      "en":{"title":"Main and detail sketch","purpose":"Draw an overall idea and enlarge one area that needs discussion, with notes alongside.","when":["Explain an exhibition entrance and sign placement.","Enlarge a connection in a product sketch."],"steps":["Draw the whole on the left and circle one area of interest.","Sketch only that area in the upper-right inset.","Use the lower-right lines for materials, questions, or dimensions to verify."],"unsuitable":"The inset signals focus, not a measured enlargement ratio or a construction drawing.","example":"A fictional exhibition plan circles its entrance; the inset shows a sign, while notes ask about height and sightlines.","labels":["Whole venue","Entrance sign","Check height and view"]},
+      "ja":{"title":"全体図と部分拡大","purpose":"全体の草図を描き、話し合いたい一部分を拡大してメモを添えます。","when":["展示の入口と案内板の位置を考えるとき。","製品スケッチの接合部分を拡大するとき。"],"steps":["左に全体を描き、注目する一か所を丸で囲みます。","右上にはその部分だけを描きます。","右下に材料、疑問、確認する寸法を記します。"],"unsuitable":"拡大枠は注目箇所を示すだけで、正確な倍率や施工図を意味しません。","example":"架空の展示計画で入口を囲み、右上に案内板、右下に高さと視線の確認点を書きます。","labels":["全体図","入口の案内板","高さと視線を確認"]}
+    }
+  }
+}

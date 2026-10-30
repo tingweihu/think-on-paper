@@ -1,0 +1,37 @@
+{
+  "id": "center-with-notes",
+  "family": "hybrid",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.hybrid.center_with_notes",
+  "source_type": "original-layout",
+  "source_note": "One central concept circle is surrounded by four large ruled note regions with short connector lines.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "6a1db224202ec38999463a9e347d00fd9c1ec1a0cc302cb68dd407a501c793d5",
+  "titled_pdf_english_name": "Center with four note regions",
+  "shape_count": 25,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/center-with-notes/exports/a5-draft/blank.svg",
+    "pdf": "templates/center-with-notes/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/center-with-notes/exports/a5-draft/titled.pdf",
+    "preview": "templates/center-with-notes/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/center-with-notes/exports/a5-contrast/blank.svg",
+      "pdf": "templates/center-with-notes/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/center-with-notes/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/center-with-notes/examples/zh-TW.svg",
+      "en": "templates/center-with-notes/examples/en.svg",
+      "ja": "templates/center-with-notes/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/center-with-notes/README.zh-TW.md",
+      "en": "templates/center-with-notes/README.en.md",
+      "ja": "templates/center-with-notes/README.ja.md"
+    }
+  }
+}

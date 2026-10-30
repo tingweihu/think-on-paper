@@ -1,0 +1,37 @@
+{
+  "id": "two-stacked-cards",
+  "family": "cards",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.cards.two_stacked_cards",
+  "source_type": "generic-geometry",
+  "source_note": "Two independent bordered writing areas in a vertical sequence.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "8c2368fe88dbc3b78c1e4179b154ab5af420823062fc9d63eac8d9cad3c83fdc",
+  "titled_pdf_english_name": "Two stacked cards",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 2,
+  "files": {
+    "svg": "templates/two-stacked-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/two-stacked-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/two-stacked-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/two-stacked-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/two-stacked-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/two-stacked-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/two-stacked-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/two-stacked-cards/examples/zh-TW.svg",
+      "en": "templates/two-stacked-cards/examples/en.svg",
+      "ja": "templates/two-stacked-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/two-stacked-cards/README.zh-TW.md",
+      "en": "templates/two-stacked-cards/README.en.md",
+      "ja": "templates/two-stacked-cards/README.ja.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "concept-text-diagram",
+  "family": "learning",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.learning.concept_text_diagram",
+  "source_type": "original-layout",
+  "source_note": "A full-width concept header sits above parallel lined explanation and blank drawing regions.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "b1d12ca530317bf81a80265d1d2b374bff9748ce549f2d91e89772f5cf6a95e6",
+  "titled_pdf_english_name": "Concept, text, and diagram",
+  "shape_count": 20,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/concept-text-diagram/exports/a5-draft/blank.svg",
+    "pdf": "templates/concept-text-diagram/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/concept-text-diagram/exports/a5-draft/titled.pdf",
+    "preview": "templates/concept-text-diagram/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/concept-text-diagram/exports/a5-contrast/blank.svg",
+      "pdf": "templates/concept-text-diagram/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/concept-text-diagram/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/concept-text-diagram/examples/zh-TW.svg",
+      "en": "templates/concept-text-diagram/examples/en.svg",
+      "ja": "templates/concept-text-diagram/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/concept-text-diagram/README.zh-TW.md",
+      "en": "templates/concept-text-diagram/README.en.md",
+      "ja": "templates/concept-text-diagram/README.ja.md"
+    }
+  }
+}

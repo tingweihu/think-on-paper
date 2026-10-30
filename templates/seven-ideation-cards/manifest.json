@@ -1,0 +1,39 @@
+{
+  "id": "seven-ideation-cards",
+  "family": "ideation",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.variants.variant_seven_ideation_cards",
+  "source_type": "generic-geometry",
+  "source_note": "parameter of four-cards. Seven equal cards are a count variant of the regular card grid.",
+  "license_status": "MIT",
+  "content_revision": 3,
+  "geometry_sha256": "51d9a0d306e80939378fa1996629c0e4f5e83fe88c21a731a8eac99a35ac2613",
+  "titled_pdf_english_name": "Seven ideation cards",
+  "shape_count": 7,
+  "dot_count": 0,
+  "example_slot_count": 7,
+  "files": {
+    "svg": "templates/seven-ideation-cards/exports/a5-draft/blank.svg",
+    "pdf": "templates/seven-ideation-cards/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/seven-ideation-cards/exports/a5-draft/titled.pdf",
+    "preview": "templates/seven-ideation-cards/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/seven-ideation-cards/exports/a5-contrast/blank.svg",
+      "pdf": "templates/seven-ideation-cards/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/seven-ideation-cards/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/seven-ideation-cards/examples/zh-TW.svg",
+      "en": "templates/seven-ideation-cards/examples/en.svg",
+      "ja": "templates/seven-ideation-cards/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/seven-ideation-cards/README.zh-TW.md",
+      "en": "templates/seven-ideation-cards/README.en.md",
+      "ja": "templates/seven-ideation-cards/README.ja.md"
+    }
+  },
+  "variant_of": "four-cards",
+  "variant_classification": "parameter"
+}

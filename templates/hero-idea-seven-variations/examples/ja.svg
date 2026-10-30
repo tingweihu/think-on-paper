@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<rect x="58.500" y="88.000" width="34.000" height="34.000" fill="none" stroke="#978E82" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="62.500" y="25.000" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="96.119" y="50.603" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="104.422" y="108.131" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="81.157" y="154.266" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="43.843" y="154.266" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20.578" y="108.131" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28.881" y="50.603" width="26.000" height="24.000" fill="none" stroke="#B6AEA1" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<g xml:lang="ja" fill="#524E48" font-family="Arial, sans-serif" font-size="3.0">
+<text x="61.500" y="107.000">会場</text>
+<text x="64.500" y="39.000">作品</text>
+<text x="98.119" y="64.603">手伝い</text>
+<text x="106.422" y="122.131">案内</text>
+<text x="83.157" y="168.266">地域展示</text>
+<text x="45.843" y="168.266">交通</text>
+<text x="22.578" y="122.131">材料</text>
+<text x="30.881" y="64.603">日程</text>
+</g>
+</svg>

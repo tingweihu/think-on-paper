@@ -1,0 +1,37 @@
+{
+  "id": "three-columns",
+  "family": "columns",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.columns.three_columns",
+  "source_type": "generic-geometry",
+  "source_note": "Three equal vertical writing regions for three parallel streams.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "af5a2cab001216929942c9dd0e069a72745358aa30a92455343caa294fc4207f",
+  "titled_pdf_english_name": "Three equal columns",
+  "shape_count": 2,
+  "dot_count": 0,
+  "example_slot_count": 3,
+  "files": {
+    "svg": "templates/three-columns/exports/a5-draft/blank.svg",
+    "pdf": "templates/three-columns/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/three-columns/exports/a5-draft/titled.pdf",
+    "preview": "templates/three-columns/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/three-columns/exports/a5-contrast/blank.svg",
+      "pdf": "templates/three-columns/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/three-columns/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/three-columns/examples/zh-TW.svg",
+      "en": "templates/three-columns/examples/en.svg",
+      "ja": "templates/three-columns/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/three-columns/README.zh-TW.md",
+      "en": "templates/three-columns/README.en.md",
+      "ja": "templates/three-columns/README.ja.md"
+    }
+  }
+}

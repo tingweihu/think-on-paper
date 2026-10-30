@@ -1,0 +1,37 @@
+{
+  "id": "flower-two-rings",
+  "family": "mandala",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.mandala.flower_two_rings",
+  "source_type": "original-layout",
+  "source_note": "Two nested six-part circular rings support a first and second level of short ideas.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "1d0f23e329731eb9fc996eda4920ad3128cc0d46b1303d93c0f35614c624c75f",
+  "titled_pdf_english_name": "Two-ring idea flower",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 13,
+  "files": {
+    "svg": "templates/flower-two-rings/exports/a5-draft/blank.svg",
+    "pdf": "templates/flower-two-rings/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/flower-two-rings/exports/a5-draft/titled.pdf",
+    "preview": "templates/flower-two-rings/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/flower-two-rings/exports/a5-contrast/blank.svg",
+      "pdf": "templates/flower-two-rings/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/flower-two-rings/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/flower-two-rings/examples/zh-TW.svg",
+      "en": "templates/flower-two-rings/examples/en.svg",
+      "ja": "templates/flower-two-rings/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/flower-two-rings/README.zh-TW.md",
+      "en": "templates/flower-two-rings/README.en.md",
+      "ja": "templates/flower-two-rings/README.ja.md"
+    }
+  }
+}

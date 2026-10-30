@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Thinking &amp; General Note Formats</title>
+  <desc id="banner-desc">An ivory banner with lines, grids, and connected ideas drawn on three small sheets.</desc>
+  <rect width="1440" height="480" fill="#F8F5E9"/>
+  <path d="M0 445H1440" fill="none" stroke="#DDD6C7" stroke-width="1"/>
+  <path d="M776 45V433M786 45V433" fill="none" stroke="#E9E2D4" stroke-width="1"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="72" y="67" width="28" height="4" rx="2" fill="#A36F50"/>
+    <text x="116" y="74" fill="#846F5C" font-size="16" font-weight="700" letter-spacing="3.2">A LIBRARY OF THINKING TOOLS</text>
+    <text x="70" y="167" fill="#394941" font-size="72" font-weight="700" letter-spacing="-2">Thinking &amp;</text>
+    <text x="70" y="247" fill="#394941" font-size="72" font-weight="700" letter-spacing="-2">General Note</text>
+    <text x="70" y="327" fill="#394941" font-size="72" font-weight="700" letter-spacing="-2">Formats</text>
+    <text x="74" y="383" fill="#56665E" font-size="27" font-weight="600">Room for ideas, from page to page.</text>
+    <path d="M74 403H563" fill="none" stroke="#B9AB93" stroke-width="1.5"/>
+    <text x="74" y="430" fill="#8F7660" font-size="15" font-weight="700" letter-spacing="3.7">LINES  ·  GRIDS  ·  DIAGRAMS</text>
+  </g>
+
+  <circle cx="1118" cy="235" r="190" fill="none" stroke="#E5DDCE" stroke-width="1"/>
+  <circle cx="1118" cy="235" r="146" fill="none" stroke="#EBE4D7" stroke-width="1"/>
+  <path d="M830 418H1370M834 407H1373" fill="none" stroke="#E4DDCF" stroke-width="1"/>
+
+  <g transform="rotate(-6 880 245)">
+    <rect x="807" y="116" width="150" height="257" rx="5" fill="#FFFDF8" stroke="#D7CFC1" stroke-width="2"/>
+    <path d="M833 139V350" fill="none" stroke="#CDAF97" stroke-width="1.2"/>
+    <path d="M846 166H936M846 191H936M846 216H936M846 241H936M846 266H936M846 291H936M846 316H936M846 341H936" fill="none" stroke="#BEB8AB" stroke-width="1.4" stroke-linecap="round"/>
+    <circle cx="819" cy="166" r="2" fill="#A9927B"/>
+    <circle cx="819" cy="216" r="2" fill="#A9927B"/>
+    <circle cx="819" cy="266" r="2" fill="#A9927B"/>
+    <circle cx="819" cy="316" r="2" fill="#A9927B"/>
+  </g>
+
+  <g transform="rotate(4 1082 229)">
+    <rect x="992" y="78" width="180" height="298" rx="5" fill="#FFFDF8" stroke="#D7CFC1" stroke-width="2"/>
+    <rect x="1012" y="101" width="140" height="252" fill="none" stroke="#B9B5A9" stroke-width="1.5"/>
+    <path d="M1082 101V353M1012 227H1152" fill="none" stroke="#AFA99E" stroke-width="1.6"/>
+    <circle cx="1082" cy="227" r="14" fill="#FFFDF8" stroke="#7F9B8E" stroke-width="2"/>
+    <path d="M1026 117h27M1110 117h27M1026 243h27M1110 243h27" fill="none" stroke="#D2C9BA" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <g transform="rotate(-4 1273 243)">
+    <rect x="1184" y="116" width="178" height="258" rx="5" fill="#FFFDF8" stroke="#D7CFC1" stroke-width="2"/>
+    <path d="M1273 244L1222 172M1273 244L1330 182M1273 244L1223 309M1273 244L1328 319" fill="none" stroke="#8FA79B" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="M1222 172L1207 146M1222 172L1245 149M1330 182L1346 153M1223 309L1206 340M1328 319L1346 348" fill="none" stroke="#B8C7BA" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="1273" cy="244" r="25" fill="#EAF0E8" stroke="#688F80" stroke-width="1.7"/>
+    <circle cx="1222" cy="172" r="14" fill="#F5F5EB" stroke="#9AAE9F" stroke-width="1.5"/>
+    <circle cx="1330" cy="182" r="14" fill="#F5F5EB" stroke="#9AAE9F" stroke-width="1.5"/>
+    <circle cx="1223" cy="309" r="14" fill="#F5F5EB" stroke="#9AAE9F" stroke-width="1.5"/>
+    <circle cx="1328" cy="319" r="14" fill="#F5F5EB" stroke="#9AAE9F" stroke-width="1.5"/>
+    <circle cx="1207" cy="146" r="4" fill="#A36F50"/>
+    <circle cx="1245" cy="149" r="4" fill="#A36F50"/>
+    <circle cx="1346" cy="153" r="4" fill="#A36F50"/>
+    <circle cx="1206" cy="340" r="4" fill="#A36F50"/>
+    <circle cx="1346" cy="348" r="4" fill="#A36F50"/>
+  </g>
+</svg>

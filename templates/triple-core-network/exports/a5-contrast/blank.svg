@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148mm" height="210mm" viewBox="0 0 148 210">
+<line x1="68.105" y1="83.050" x2="48.895" y2="116.950" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="82.895" y1="83.050" x2="102.105" y2="116.950" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="56.500" y1="130.000" x2="94.500" y2="130.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="75.500" y1="55.000" x2="75.500" y2="38.000" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.862" y1="115.448" x2="29.183" y2="80.731" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="113.138" y1="115.448" x2="121.817" y2="80.731" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.190" y1="144.367" x2="30.586" y2="166.380" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="113.810" y1="144.367" x2="120.414" y2="166.380" fill="none" stroke="#737373" stroke-width="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="70.000" r="14.000" fill="none" stroke="#333333" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="41.500" cy="130.000" r="14.000" fill="none" stroke="#333333" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="109.500" cy="130.000" r="14.000" fill="none" stroke="#333333" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="75.500" cy="29.000" r="8.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="27.000" cy="72.000" r="8.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124.000" cy="72.000" r="8.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28.000" cy="175.000" r="8.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="123.000" cy="175.000" r="8.000" fill="none" stroke="#595959" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

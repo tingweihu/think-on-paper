@@ -1,0 +1,37 @@
+{
+  "id": "cluster-ring",
+  "family": "concept-network",
+  "profile": "a5-draft",
+  "profile_status": "provisional",
+  "builder": "noteformats.layouts.concept_network.cluster_ring",
+  "source_type": "original-layout",
+  "source_note": "Four circular clusters orbit an unconnected central summary; the small circles mark examples inside each cluster.",
+  "license_status": "MIT",
+  "content_revision": 1,
+  "geometry_sha256": "2238a815007c15108d397f2f56e271784ce89fa542e67a99d23d46549c9ccc9b",
+  "titled_pdf_english_name": "Cluster ring",
+  "shape_count": 13,
+  "dot_count": 0,
+  "example_slot_count": 5,
+  "files": {
+    "svg": "templates/cluster-ring/exports/a5-draft/blank.svg",
+    "pdf": "templates/cluster-ring/exports/a5-draft/blank.pdf",
+    "titled_pdf": "templates/cluster-ring/exports/a5-draft/titled.pdf",
+    "preview": "templates/cluster-ring/previews/a5-draft.png",
+    "contrast": {
+      "svg": "templates/cluster-ring/exports/a5-contrast/blank.svg",
+      "pdf": "templates/cluster-ring/exports/a5-contrast/blank.pdf",
+      "titled_pdf": "templates/cluster-ring/exports/a5-contrast/titled.pdf"
+    },
+    "examples": {
+      "zh-TW": "templates/cluster-ring/examples/zh-TW.svg",
+      "en": "templates/cluster-ring/examples/en.svg",
+      "ja": "templates/cluster-ring/examples/ja.svg"
+    },
+    "docs": {
+      "zh-TW": "templates/cluster-ring/README.zh-TW.md",
+      "en": "templates/cluster-ring/README.en.md",
+      "ja": "templates/cluster-ring/README.ja.md"
+    }
+  }
+}

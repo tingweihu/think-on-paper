@@ -43,7 +43,22 @@ class CleanCheckoutTests(unittest.TestCase):
             # Every command starts without ignored reports, in arbitrary order.
             for script in ("release_check.py", "audit_docs.py", "audit_examples.py", "audit_layouts.py", "audit_sources.py"):
                 clear_reports()
+                if script == "audit_sources.py":
+                    cache = fixture / "reports" / "nested-checkout"
+                    cache.mkdir(parents=True)
+                    Image.new("RGB", (1, 1), "white").save(cache / "local-preview.png")
+                    (cache / "local-font.ttf").write_bytes(b"local test cache")
+                    (cache / "local-photo.jpg").write_bytes(b"local test cache")
                 run("scripts/" + script)
+                if script == "audit_sources.py":
+                    # Excluding private caches must not hide an unknown public asset.
+                    unexpected = fixture / "docs" / "unexpected-preview.png"
+                    unexpected.write_bytes((cache / "local-preview.png").read_bytes())
+                    try:
+                        result = run("scripts/" + script, success=False)
+                        self.assertIn("docs/unexpected-preview.png", result.stderr)
+                    finally:
+                        unexpected.unlink()
             clear_reports()
             run("-m", "unittest", "discover", "-s", "tests", "-p", "test_portability.py")
             public = list(fixture.glob("*.md")) + list((fixture / "docs").rglob("*.md")) + list((fixture / "templates").rglob("*.md"))

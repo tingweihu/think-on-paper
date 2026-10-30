@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -115,7 +116,15 @@ for record in catalog:
     })
 
 assert not external_asset_references, external_asset_references[:20]
-all_files = [path for path in ROOT.rglob("*") if path.is_file()]
+# Local reports can contain complete test checkouts. They and development-tool
+# directories are not bundled assets; prune them before traversing their files.
+local_directories = {"reports", "specs", ".git", ".venv", "venv", ".agents", ".codex", ".aws"}
+all_files = []
+for directory, folders, filenames in os.walk(ROOT):
+    if Path(directory) == ROOT:
+        folders[:] = [name for name in folders if name not in local_directories]
+    folders[:] = [name for name in folders if name != "__pycache__"]
+    all_files.extend(Path(directory) / name for name in filenames)
 bundled_font_suffixes = {".ttf", ".otf", ".woff", ".woff2", ".eot"}
 external_media_suffixes = {".jpg", ".jpeg", ".gif", ".webp", ".mp3", ".mp4", ".wav"}
 fonts = [str(path.relative_to(ROOT)) for path in all_files if path.suffix.lower() in bundled_font_suffixes]
